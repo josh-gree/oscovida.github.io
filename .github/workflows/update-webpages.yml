@@ -38,6 +38,11 @@ jobs:
           source .venv/bin/activate
           cd tools
           python3 -m report_generators.cli --regions=all --force --workers=max --log-level=INFO --log-file=./wwwroot/report-gen.log
+      - name: Generate individual plots
+        run: |
+          source .venv/bin/activate
+          cd tools
+          jupyter-nbconvert generate-individiual-plots.ipynb --execute
       - name: Update HTML pages
         run: |
           source .venv/bin/activate
