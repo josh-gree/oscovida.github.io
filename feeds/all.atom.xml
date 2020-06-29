@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OSCOVIDA: Open Science COVID Analysis</title><link href="https://oscovida.github.io/" rel="alternate"></link><link href="https://oscovida.github.io/feeds/all.atom.xml" rel="self"></link><id>https://oscovida.github.io/</id><updated>2020-06-29T09:16:00+02:00</updated><entry><title>Tracking plots: All regions and countries</title><link href="https://oscovida.github.io/all-regions.html" rel="alternate"></link><published>2020-06-29T09:16:00+02:00</published><updated>2020-06-29T09:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/all-regions.html</id><summary type="html">&lt;table&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OSCOVIDA: Open Science COVID Analysis</title><link href="https://oscovida.github.io/" rel="alternate"></link><link href="https://oscovida.github.io/feeds/all.atom.xml" rel="self"></link><id>https://oscovida.github.io/</id><updated>2020-06-29T21:15:00+02:00</updated><entry><title>Tracking plots: All regions and countries</title><link href="https://oscovida.github.io/all-regions.html" rel="alternate"></link><published>2020-06-29T21:15:00+02:00</published><updated>2020-06-29T21:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/all-regions.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -4006,7 +4006,7 @@
 &lt;td align="left"&gt;374&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  All regions and countries"></category></entry><entry><title>Tracking plots: United States</title><link href="https://oscovida.github.io/us.html" rel="alternate"></link><published>2020-06-29T09:16:00+02:00</published><updated>2020-06-29T09:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/us.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  All regions and countries"></category></entry><entry><title>Tracking plots: United States</title><link href="https://oscovida.github.io/us.html" rel="alternate"></link><published>2020-06-29T21:15:00+02:00</published><updated>2020-06-29T21:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/us.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -4406,7 +4406,7 @@
 &lt;td align="left"&gt;1,316&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  United States"></category></entry><entry><title>Tracking plots: Germany</title><link href="https://oscovida.github.io/germany.html" rel="alternate"></link><published>2020-06-29T09:15:00+02:00</published><updated>2020-06-29T09:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/germany.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  United States"></category></entry><entry><title>Tracking plots: Germany</title><link href="https://oscovida.github.io/germany.html" rel="alternate"></link><published>2020-06-29T21:14:00+02:00</published><updated>2020-06-29T21:14:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/germany.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -6931,7 +6931,7 @@
 &lt;td align="right"&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Germany"></category></entry><entry><title>Tracking plots: Countries of the world</title><link href="https://oscovida.github.io/countries.html" rel="alternate"></link><published>2020-06-29T09:07:00+02:00</published><updated>2020-06-29T09:07:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/countries.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Germany"></category></entry><entry><title>Tracking plots: Countries of the world</title><link href="https://oscovida.github.io/countries.html" rel="alternate"></link><published>2020-06-29T21:06:00+02:00</published><updated>2020-06-29T21:06:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-29:/countries.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -19595,10 +19595,10 @@ h6:hover .anchor-link {
 
 
 
-&lt;div id="708072e1-cbf6-4ec4-8d57-1700ff3db5f6"&gt;&lt;/div&gt;
+&lt;div id="7d9300de-50fa-4f76-ab4a-0735e2ecc77c"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_javascript "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#708072e1-cbf6-4ec4-8d57-1700ff3db5f6');
+var element = $('#7d9300de-50fa-4f76-ab4a-0735e2ecc77c');
 
 console.log('Starting front end url_querystring_target comm target');
 const comm = Jupyter.notebook.kernel.comm_manager.new_comm('url_querystring_target', {'init': 1});
