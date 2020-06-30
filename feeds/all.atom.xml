@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OSCOVIDA: Open Science COVID Analysis</title><link href="https://oscovida.github.io/" rel="alternate"></link><link href="https://oscovida.github.io/feeds/all.atom.xml" rel="self"></link><id>https://oscovida.github.io/</id><updated>2020-06-30T09:15:00+02:00</updated><entry><title>Tracking plots: All regions and countries</title><link href="https://oscovida.github.io/all-regions.html" rel="alternate"></link><published>2020-06-30T09:15:00+02:00</published><updated>2020-06-30T09:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/all-regions.html</id><summary type="html">&lt;table&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OSCOVIDA: Open Science COVID Analysis</title><link href="https://oscovida.github.io/" rel="alternate"></link><link href="https://oscovida.github.io/feeds/all.atom.xml" rel="self"></link><id>https://oscovida.github.io/</id><updated>2020-06-30T21:16:00+02:00</updated><entry><title>Tracking plots: All regions and countries</title><link href="https://oscovida.github.io/all-regions.html" rel="alternate"></link><published>2020-06-30T21:16:00+02:00</published><updated>2020-06-30T21:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/all-regions.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -95,9 +95,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/US.html"&gt;US&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;2,590,582&lt;/td&gt;
-&lt;td align="left"&gt;126,141&lt;/td&gt;
-&lt;td align="left"&gt;278,280&lt;/td&gt;
+&lt;td align="left"&gt;2,590,552&lt;/td&gt;
+&lt;td align="left"&gt;126,140&lt;/td&gt;
+&lt;td align="left"&gt;278,250&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Baden-Württemberg-LK-Emmendingen.html"&gt;Germany: Baden-Württemberg : LK Emmendingen&lt;/a&gt;&lt;/td&gt;
@@ -1937,9 +1937,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Thailand.html"&gt;Thailand&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;3,171&lt;/td&gt;
+&lt;td align="left"&gt;3,169&lt;/td&gt;
 &lt;td align="left"&gt;58&lt;/td&gt;
-&lt;td align="left"&gt;20&lt;/td&gt;
+&lt;td align="left"&gt;18&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Bayern-SK-Hof.html"&gt;Germany: Bayern : SK Hof&lt;/a&gt;&lt;/td&gt;
@@ -2711,9 +2711,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Uzbekistan.html"&gt;Uzbekistan&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;8,298&lt;/td&gt;
+&lt;td align="left"&gt;8,222&lt;/td&gt;
 &lt;td align="left"&gt;23&lt;/td&gt;
-&lt;td align="left"&gt;1,837&lt;/td&gt;
+&lt;td align="left"&gt;1,761&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Ecuador.html"&gt;Ecuador&lt;/a&gt;&lt;/td&gt;
@@ -3053,9 +3053,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Japan.html"&gt;Japan&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;18,477&lt;/td&gt;
+&lt;td align="left"&gt;18,476&lt;/td&gt;
 &lt;td align="left"&gt;972&lt;/td&gt;
-&lt;td align="left"&gt;657&lt;/td&gt;
+&lt;td align="left"&gt;656&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Niedersachsen-LK-Peine.html"&gt;Germany: Niedersachsen : LK Peine&lt;/a&gt;&lt;/td&gt;
@@ -3767,9 +3767,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Ukraine.html"&gt;Ukraine&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;45,244&lt;/td&gt;
-&lt;td align="left"&gt;1,173&lt;/td&gt;
-&lt;td align="left"&gt;7,188&lt;/td&gt;
+&lt;td align="left"&gt;44,538&lt;/td&gt;
+&lt;td align="left"&gt;1,161&lt;/td&gt;
+&lt;td align="left"&gt;6,482&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Kazakhstan.html"&gt;Kazakhstan&lt;/a&gt;&lt;/td&gt;
@@ -4006,7 +4006,7 @@
 &lt;td align="left"&gt;389&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  All regions and countries"></category></entry><entry><title>Tracking plots: United States</title><link href="https://oscovida.github.io/us.html" rel="alternate"></link><published>2020-06-30T09:15:00+02:00</published><updated>2020-06-30T09:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/us.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  All regions and countries"></category></entry><entry><title>Tracking plots: United States</title><link href="https://oscovida.github.io/us.html" rel="alternate"></link><published>2020-06-30T21:16:00+02:00</published><updated>2020-06-30T21:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/us.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -4406,7 +4406,7 @@
 &lt;td align="left"&gt;1,496&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  United States"></category></entry><entry><title>Tracking plots: Germany</title><link href="https://oscovida.github.io/germany.html" rel="alternate"></link><published>2020-06-30T09:14:00+02:00</published><updated>2020-06-30T09:14:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/germany.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  United States"></category></entry><entry><title>Tracking plots: Germany</title><link href="https://oscovida.github.io/germany.html" rel="alternate"></link><published>2020-06-30T21:15:00+02:00</published><updated>2020-06-30T21:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/germany.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -6931,7 +6931,7 @@
 &lt;td align="right"&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Germany"></category></entry><entry><title>Tracking plots: Countries of the world</title><link href="https://oscovida.github.io/countries.html" rel="alternate"></link><published>2020-06-30T09:06:00+02:00</published><updated>2020-06-30T09:06:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/countries.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Germany"></category></entry><entry><title>Tracking plots: Countries of the world</title><link href="https://oscovida.github.io/countries.html" rel="alternate"></link><published>2020-06-30T21:06:00+02:00</published><updated>2020-06-30T21:06:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-30:/countries.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -6961,9 +6961,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/US.html"&gt;US&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;2,590,582&lt;/td&gt;
-&lt;td align="left"&gt;126,141&lt;/td&gt;
-&lt;td align="left"&gt;278,280&lt;/td&gt;
+&lt;td align="left"&gt;2,590,552&lt;/td&gt;
+&lt;td align="left"&gt;126,140&lt;/td&gt;
+&lt;td align="left"&gt;278,250&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Portugal.html"&gt;Portugal&lt;/a&gt;&lt;/td&gt;
@@ -7014,9 +7014,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/US.html"&gt;US&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;2,590,582&lt;/td&gt;
-&lt;td align="left"&gt;126,141&lt;/td&gt;
-&lt;td align="left"&gt;278,280&lt;/td&gt;
+&lt;td align="left"&gt;2,590,552&lt;/td&gt;
+&lt;td align="left"&gt;126,140&lt;/td&gt;
+&lt;td align="left"&gt;278,250&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Portugal.html"&gt;Portugal&lt;/a&gt;&lt;/td&gt;
@@ -7518,9 +7518,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Thailand.html"&gt;Thailand&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;3,171&lt;/td&gt;
+&lt;td align="left"&gt;3,169&lt;/td&gt;
 &lt;td align="left"&gt;58&lt;/td&gt;
-&lt;td align="left"&gt;20&lt;/td&gt;
+&lt;td align="left"&gt;18&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Romania.html"&gt;Romania&lt;/a&gt;&lt;/td&gt;
@@ -7764,9 +7764,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Uzbekistan.html"&gt;Uzbekistan&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;8,298&lt;/td&gt;
+&lt;td align="left"&gt;8,222&lt;/td&gt;
 &lt;td align="left"&gt;23&lt;/td&gt;
-&lt;td align="left"&gt;1,837&lt;/td&gt;
+&lt;td align="left"&gt;1,761&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Ecuador.html"&gt;Ecuador&lt;/a&gt;&lt;/td&gt;
@@ -7908,9 +7908,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Japan.html"&gt;Japan&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;18,477&lt;/td&gt;
+&lt;td align="left"&gt;18,476&lt;/td&gt;
 &lt;td align="left"&gt;972&lt;/td&gt;
-&lt;td align="left"&gt;657&lt;/td&gt;
+&lt;td align="left"&gt;656&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Cuba.html"&gt;Cuba&lt;/a&gt;&lt;/td&gt;
@@ -8064,9 +8064,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Ukraine.html"&gt;Ukraine&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;45,244&lt;/td&gt;
-&lt;td align="left"&gt;1,173&lt;/td&gt;
-&lt;td align="left"&gt;7,188&lt;/td&gt;
+&lt;td align="left"&gt;44,538&lt;/td&gt;
+&lt;td align="left"&gt;1,161&lt;/td&gt;
+&lt;td align="left"&gt;6,482&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Kazakhstan.html"&gt;Kazakhstan&lt;/a&gt;&lt;/td&gt;
@@ -19595,10 +19595,10 @@ h6:hover .anchor-link {
 
 
 
-&lt;div id="066a5678-09c2-434d-b9ff-877ae8543635"&gt;&lt;/div&gt;
+&lt;div id="c107bae5-7d2a-4d0f-a23e-22379c09f06c"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_javascript "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#066a5678-09c2-434d-b9ff-877ae8543635');
+var element = $('#c107bae5-7d2a-4d0f-a23e-22379c09f06c');
 
 console.log('Starting front end url_querystring_target comm target');
 const comm = Jupyter.notebook.kernel.comm_manager.new_comm('url_querystring_target', {'init': 1});
