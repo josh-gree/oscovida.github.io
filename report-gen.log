@@ -40782,3 +40782,2645 @@
 09:16:56 MainThread: Created markdown index file pelican/content/us.md
 09:16:56 MainThread: 658 regions in markdown index list
 09:16:56 MainThread: Created markdown index file pelican/content/all-regions.md
+21:04:31 OscovidaWorker 0: Processing Afghanistan
+21:04:31 OscovidaWorker 1: Processing Albania
+21:04:31 OscovidaWorker 2: Processing Algeria
+21:04:31 OscovidaWorker 0: Processing Afghanistan attempt 0
+21:04:31 OscovidaWorker 3: Processing Andorra
+21:04:31 OscovidaWorker 1: Processing Albania attempt 0
+21:04:31 OscovidaWorker 4: Processing Angola
+21:04:31 OscovidaWorker 2: Processing Algeria attempt 0
+21:04:31 OscovidaWorker 5: Processing Antigua and Barbuda
+21:04:31 OscovidaWorker 6: Processing Argentina
+21:04:31 OscovidaWorker 3: Processing Andorra attempt 0
+21:04:31 OscovidaWorker 7: Processing Armenia
+21:04:31 OscovidaWorker 8: Processing Australia
+21:04:31 OscovidaWorker 4: Processing Angola attempt 0
+21:04:31 OscovidaWorker 9: Processing Austria
+21:04:31 OscovidaWorker 5: Processing Antigua and Barbuda attempt 0
+21:04:31 OscovidaWorker 10: Processing Azerbaijan
+21:04:31 OscovidaWorker 6: Processing Argentina attempt 0
+21:04:31 OscovidaWorker 11: Processing Bahamas
+21:04:31 OscovidaWorker 7: Processing Armenia attempt 0
+21:04:31 OscovidaWorker 8: Processing Australia attempt 0
+21:04:31 OscovidaWorker 9: Processing Austria attempt 0
+21:04:31 OscovidaWorker 10: Processing Azerbaijan attempt 0
+21:04:31 OscovidaWorker 11: Processing Bahamas attempt 0
+21:04:33 OscovidaWorker 8: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 0: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 3: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 11: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 2: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 10: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 6: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 7: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 1: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 5: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 4: Executing notebook with kernel: python3
+21:04:33 OscovidaWorker 9: Executing notebook with kernel: python3
+21:04:41 OscovidaWorker 10: Writing 770699 bytes to ./wwwroot/html/Azerbaijan.html
+21:04:41 OscovidaWorker 10: Processing Botswana
+21:04:41 OscovidaWorker 10: Processing Botswana attempt 0
+21:04:41 OscovidaWorker 10: Executing notebook with kernel: python3
+21:04:42 OscovidaWorker 6: Writing 776295 bytes to ./wwwroot/html/Argentina.html
+21:04:42 OscovidaWorker 6: Processing Benin
+21:04:42 OscovidaWorker 6: Processing Benin attempt 0
+21:04:42 OscovidaWorker 11: Writing 717759 bytes to ./wwwroot/html/Bahamas.html
+21:04:42 OscovidaWorker 11: Processing Brazil
+21:04:42 OscovidaWorker 11: Processing Brazil attempt 0
+21:04:42 OscovidaWorker 2: Writing 779024 bytes to ./wwwroot/html/Algeria.html
+21:04:42 OscovidaWorker 2: Processing Barbados
+21:04:42 OscovidaWorker 2: Processing Barbados attempt 0
+21:04:42 OscovidaWorker 0: Writing 778322 bytes to ./wwwroot/html/Afghanistan.html
+21:04:42 OscovidaWorker 0: Processing Bahrain
+21:04:42 OscovidaWorker 0: Processing Bahrain attempt 0
+21:04:42 OscovidaWorker 5: Writing 711829 bytes to ./wwwroot/html/Antigua-and-Barbuda.html
+21:04:42 OscovidaWorker 4: Writing 721878 bytes to ./wwwroot/html/Angola.html
+21:04:42 OscovidaWorker 5: Processing Belize
+21:04:42 OscovidaWorker 5: Processing Belize attempt 0
+21:04:43 OscovidaWorker 4: Processing Belgium
+21:04:43 OscovidaWorker 4: Processing Belgium attempt 0
+21:04:43 OscovidaWorker 8: Writing 755698 bytes to ./wwwroot/html/Australia.html
+21:04:43 OscovidaWorker 8: Processing Bolivia
+21:04:43 OscovidaWorker 8: Processing Bolivia attempt 0
+21:04:43 OscovidaWorker 9: Writing 770589 bytes to ./wwwroot/html/Austria.html
+21:04:43 OscovidaWorker 9: Processing Bosnia and Herzegovina
+21:04:43 OscovidaWorker 9: Processing Bosnia and Herzegovina attempt 0
+21:04:43 OscovidaWorker 1: Writing 768979 bytes to ./wwwroot/html/Albania.html
+21:04:43 OscovidaWorker 3: Writing 749750 bytes to ./wwwroot/html/Andorra.html
+21:04:43 OscovidaWorker 1: Processing Bangladesh
+21:04:43 OscovidaWorker 1: Processing Bangladesh attempt 0
+21:04:43 OscovidaWorker 3: Processing Belarus
+21:04:43 OscovidaWorker 3: Processing Belarus attempt 0
+21:04:43 OscovidaWorker 7: Writing 765887 bytes to ./wwwroot/html/Armenia.html
+21:04:43 OscovidaWorker 7: Processing Bhutan
+21:04:43 OscovidaWorker 7: Processing Bhutan attempt 0
+21:04:43 OscovidaWorker 6: Executing notebook with kernel: python3
+21:04:44 OscovidaWorker 11: Executing notebook with kernel: python3
+21:04:44 OscovidaWorker 2: Executing notebook with kernel: python3
+21:04:44 OscovidaWorker 0: Executing notebook with kernel: python3
+21:04:44 OscovidaWorker 5: Executing notebook with kernel: python3
+21:04:44 OscovidaWorker 4: Executing notebook with kernel: python3
+21:04:45 OscovidaWorker 8: Executing notebook with kernel: python3
+21:04:45 OscovidaWorker 7: Executing notebook with kernel: python3
+21:04:45 OscovidaWorker 9: Executing notebook with kernel: python3
+21:04:45 OscovidaWorker 3: Executing notebook with kernel: python3
+21:04:45 OscovidaWorker 1: Executing notebook with kernel: python3
+21:04:50 OscovidaWorker 10: Writing 710618 bytes to ./wwwroot/html/Botswana.html
+21:04:50 OscovidaWorker 10: Processing Chad
+21:04:50 OscovidaWorker 10: Processing Chad attempt 0
+21:04:51 OscovidaWorker 10: Executing notebook with kernel: python3
+21:04:52 OscovidaWorker 9: Writing 804930 bytes to ./wwwroot/html/Bosnia-and-Herzegovina.html
+21:04:52 OscovidaWorker 9: Processing Central African Republic
+21:04:52 OscovidaWorker 9: Processing Central African Republic attempt 0
+21:04:53 OscovidaWorker 11: Writing 778896 bytes to ./wwwroot/html/Brazil.html
+21:04:53 OscovidaWorker 11: Processing Chile
+21:04:53 OscovidaWorker 11: Processing Chile attempt 0
+21:04:53 OscovidaWorker 0: Writing 766643 bytes to ./wwwroot/html/Bahrain.html
+21:04:53 OscovidaWorker 0: Processing Brunei
+21:04:53 OscovidaWorker 0: Processing Brunei attempt 0
+21:04:53 OscovidaWorker 1: Writing 779056 bytes to ./wwwroot/html/Bangladesh.html
+21:04:54 OscovidaWorker 1: Processing Bulgaria
+21:04:54 OscovidaWorker 1: Processing Bulgaria attempt 0
+21:04:54 OscovidaWorker 9: Executing notebook with kernel: python3
+21:04:54 OscovidaWorker 4: Writing 776228 bytes to ./wwwroot/html/Belgium.html
+21:04:54 OscovidaWorker 6: Writing 734517 bytes to ./wwwroot/html/Benin.html
+21:04:54 OscovidaWorker 11: Executing notebook with kernel: python3
+21:04:54 OscovidaWorker 4: Processing Burundi
+21:04:54 OscovidaWorker 2: Writing 712516 bytes to ./wwwroot/html/Barbados.html
+21:04:54 OscovidaWorker 7: Writing 705099 bytes to ./wwwroot/html/Bhutan.html
+21:04:54 OscovidaWorker 4: Processing Burundi attempt 0
+21:04:54 OscovidaWorker 6: Processing Cambodia
+21:04:54 OscovidaWorker 6: Processing Cambodia attempt 0
+21:04:54 OscovidaWorker 2: Processing Burkina Faso
+21:04:54 OscovidaWorker 7: Processing Cameroon
+21:04:54 OscovidaWorker 2: Processing Burkina Faso attempt 0
+21:04:54 OscovidaWorker 7: Processing Cameroon attempt 0
+21:04:54 OscovidaWorker 3: Writing 764129 bytes to ./wwwroot/html/Belarus.html
+21:04:54 OscovidaWorker 8: Writing 766050 bytes to ./wwwroot/html/Bolivia.html
+21:04:54 OscovidaWorker 3: Processing Burma
+21:04:54 OscovidaWorker 8: Processing Canada
+21:04:54 OscovidaWorker 3: Processing Burma attempt 0
+21:04:54 OscovidaWorker 8: Processing Canada attempt 0
+21:04:55 OscovidaWorker 5: Writing 696691 bytes to ./wwwroot/html/Belize.html
+21:04:55 OscovidaWorker 5: Processing Cabo Verde
+21:04:55 OscovidaWorker 5: Processing Cabo Verde attempt 0
+21:04:55 OscovidaWorker 0: Executing notebook with kernel: python3
+21:04:55 OscovidaWorker 1: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 4: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 6: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 7: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 8: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 2: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 5: Executing notebook with kernel: python3
+21:04:56 OscovidaWorker 3: Executing notebook with kernel: python3
+21:04:59 OscovidaWorker 10: Writing 750064 bytes to ./wwwroot/html/Chad.html
+21:04:59 OscovidaWorker 10: Processing Czechia
+21:04:59 OscovidaWorker 10: Processing Czechia attempt 0
+21:05:00 OscovidaWorker 10: Executing notebook with kernel: python3
+21:05:02 OscovidaWorker 9: Writing 758400 bytes to ./wwwroot/html/Central-African-Republic.html
+21:05:02 OscovidaWorker 9: Processing Cyprus
+21:05:02 OscovidaWorker 9: Processing Cyprus attempt 0
+21:05:03 OscovidaWorker 9: Executing notebook with kernel: python3
+21:05:03 OscovidaWorker 11: Writing 767793 bytes to ./wwwroot/html/Chile.html
+21:05:03 OscovidaWorker 11: Processing Denmark
+21:05:03 OscovidaWorker 11: Processing Denmark attempt 0
+21:05:04 OscovidaWorker 0: Writing 701526 bytes to ./wwwroot/html/Brunei.html
+21:05:04 OscovidaWorker 0: Processing China
+21:05:04 OscovidaWorker 0: Processing China attempt 0
+21:05:04 OscovidaWorker 11: Executing notebook with kernel: python3
+21:05:04 OscovidaWorker 3: Writing 719486 bytes to ./wwwroot/html/Burma.html
+21:05:04 OscovidaWorker 3: Processing Congo (Brazzaville)
+21:05:04 OscovidaWorker 3: Processing Congo (Brazzaville) attempt 0
+21:05:05 OscovidaWorker 8: Writing 782271 bytes to ./wwwroot/html/Canada.html
+21:05:05 OscovidaWorker 0: Executing notebook with kernel: python3
+21:05:05 OscovidaWorker 8: Processing Cuba
+21:05:05 OscovidaWorker 5: Writing 745518 bytes to ./wwwroot/html/Cabo-Verde.html
+21:05:05 OscovidaWorker 8: Processing Cuba attempt 0
+21:05:05 OscovidaWorker 5: Processing Costa Rica
+21:05:05 OscovidaWorker 4: Writing 701934 bytes to ./wwwroot/html/Burundi.html
+21:05:05 OscovidaWorker 6: Writing 714305 bytes to ./wwwroot/html/Cambodia.html
+21:05:05 OscovidaWorker 5: Processing Costa Rica attempt 0
+21:05:05 OscovidaWorker 1: Writing 782169 bytes to ./wwwroot/html/Bulgaria.html
+21:05:05 OscovidaWorker 4: Processing Congo (Kinshasa)
+21:05:05 OscovidaWorker 4: Processing Congo (Kinshasa) attempt 0
+21:05:05 OscovidaWorker 6: Processing Cote d'Ivoire
+21:05:05 OscovidaWorker 6: Processing Cote d'Ivoire attempt 0
+21:05:05 OscovidaWorker 1: Processing Colombia
+21:05:05 OscovidaWorker 1: Processing Colombia attempt 0
+21:05:06 OscovidaWorker 7: Writing 752517 bytes to ./wwwroot/html/Cameroon.html
+21:05:06 OscovidaWorker 2: Writing 768548 bytes to ./wwwroot/html/Burkina-Faso.html
+21:05:06 OscovidaWorker 2: Processing Comoros
+21:05:06 OscovidaWorker 2: Processing Comoros attempt 0
+21:05:06 OscovidaWorker 7: Processing Croatia
+21:05:06 OscovidaWorker 7: Processing Croatia attempt 0
+21:05:06 OscovidaWorker 3: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 5: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 8: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 2: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 6: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 4: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 1: Executing notebook with kernel: python3
+21:05:07 OscovidaWorker 7: Executing notebook with kernel: python3
+21:05:09 OscovidaWorker 10: Writing 767564 bytes to ./wwwroot/html/Czechia.html
+21:05:09 OscovidaWorker 10: Processing Eswatini
+21:05:09 OscovidaWorker 10: Processing Eswatini attempt 0
+21:05:10 OscovidaWorker 10: Executing notebook with kernel: python3
+21:05:11 OscovidaWorker 9: Writing 752870 bytes to ./wwwroot/html/Cyprus.html
+21:05:11 OscovidaWorker 9: Processing Estonia
+21:05:11 OscovidaWorker 9: Processing Estonia attempt 0
+21:05:12 OscovidaWorker 11: Writing 770392 bytes to ./wwwroot/html/Denmark.html
+21:05:12 OscovidaWorker 11: Processing Ethiopia
+21:05:12 OscovidaWorker 11: Processing Ethiopia attempt 0
+21:05:12 OscovidaWorker 9: Executing notebook with kernel: python3
+21:05:14 OscovidaWorker 11: Executing notebook with kernel: python3
+21:05:14 OscovidaWorker 0: Writing 799326 bytes to ./wwwroot/html/China.html
+21:05:14 OscovidaWorker 0: Processing Diamond Princess
+21:05:14 OscovidaWorker 0: Processing Diamond Princess attempt 0
+21:05:14 OscovidaWorker 2: Writing 708030 bytes to ./wwwroot/html/Comoros.html
+21:05:14 OscovidaWorker 2: Processing Dominica
+21:05:14 OscovidaWorker 2: Processing Dominica attempt 0
+21:05:15 OscovidaWorker 0: Executing notebook with kernel: python3
+21:05:15 OscovidaWorker 2: Executing notebook with kernel: python3
+21:05:15 OscovidaWorker 3: Writing 762653 bytes to ./wwwroot/html/Congo-(Brazzaville).html
+21:05:16 OscovidaWorker 3: Processing Dominican Republic
+21:05:16 OscovidaWorker 3: Processing Dominican Republic attempt 0
+21:05:16 OscovidaWorker 8: Writing 765195 bytes to ./wwwroot/html/Cuba.html
+21:05:16 OscovidaWorker 8: Processing Eritrea
+21:05:16 OscovidaWorker 8: Processing Eritrea attempt 0
+21:05:16 OscovidaWorker 6: Writing 758320 bytes to ./wwwroot/html/Cote-d'Ivoire.html
+21:05:16 OscovidaWorker 6: Processing El Salvador
+21:05:16 OscovidaWorker 6: Processing El Salvador attempt 0
+21:05:16 OscovidaWorker 4: Writing 775948 bytes to ./wwwroot/html/Congo-(Kinshasa).html
+21:05:16 OscovidaWorker 5: Writing 757195 bytes to ./wwwroot/html/Costa-Rica.html
+21:05:16 OscovidaWorker 4: Processing Ecuador
+21:05:16 OscovidaWorker 4: Processing Ecuador attempt 0
+21:05:16 OscovidaWorker 5: Processing Egypt
+21:05:16 OscovidaWorker 5: Processing Egypt attempt 0
+21:05:17 OscovidaWorker 1: Writing 773685 bytes to ./wwwroot/html/Colombia.html
+21:05:17 OscovidaWorker 1: Processing Djibouti
+21:05:17 OscovidaWorker 1: Processing Djibouti attempt 0
+21:05:17 OscovidaWorker 7: Writing 782204 bytes to ./wwwroot/html/Croatia.html
+21:05:17 OscovidaWorker 7: Processing Equatorial Guinea
+21:05:17 OscovidaWorker 7: Processing Equatorial Guinea attempt 0
+21:05:17 OscovidaWorker 3: Executing notebook with kernel: python3
+21:05:18 OscovidaWorker 8: Executing notebook with kernel: python3
+21:05:18 OscovidaWorker 5: Executing notebook with kernel: python3
+21:05:18 OscovidaWorker 4: Executing notebook with kernel: python3
+21:05:18 OscovidaWorker 10: Writing 734512 bytes to ./wwwroot/html/Eswatini.html
+21:05:18 OscovidaWorker 10: Processing Guatemala
+21:05:18 OscovidaWorker 10: Processing Guatemala attempt 0
+21:05:18 OscovidaWorker 6: Executing notebook with kernel: python3
+21:05:18 OscovidaWorker 1: Executing notebook with kernel: python3
+21:05:18 OscovidaWorker 7: Executing notebook with kernel: python3
+21:05:19 OscovidaWorker 10: Executing notebook with kernel: python3
+21:05:21 OscovidaWorker 9: Writing 758052 bytes to ./wwwroot/html/Estonia.html
+21:05:21 OscovidaWorker 9: Processing Grenada
+21:05:21 OscovidaWorker 9: Processing Grenada attempt 0
+21:05:22 OscovidaWorker 11: Writing 757207 bytes to ./wwwroot/html/Ethiopia.html
+21:05:22 OscovidaWorker 11: Processing Guinea
+21:05:22 OscovidaWorker 11: Processing Guinea attempt 0
+21:05:22 OscovidaWorker 9: Executing notebook with kernel: python3
+21:05:23 OscovidaWorker 11: Executing notebook with kernel: python3
+21:05:23 OscovidaWorker 0: Writing 727133 bytes to ./wwwroot/html/Diamond-Princess.html
+21:05:23 OscovidaWorker 0: Processing Fiji
+21:05:23 OscovidaWorker 0: Processing Fiji attempt 0
+21:05:24 OscovidaWorker 2: Writing 685240 bytes to ./wwwroot/html/Dominica.html
+21:05:24 OscovidaWorker 2: Processing France
+21:05:24 OscovidaWorker 2: Processing France attempt 0
+21:05:24 OscovidaWorker 0: Executing notebook with kernel: python3
+21:05:25 OscovidaWorker 2: Executing notebook with kernel: python3
+21:05:25 OscovidaWorker 8: Writing 704592 bytes to ./wwwroot/html/Eritrea.html
+21:05:25 OscovidaWorker 8: Processing Greece
+21:05:25 OscovidaWorker 8: Processing Greece attempt 0
+21:05:26 OscovidaWorker 5: Writing 785689 bytes to ./wwwroot/html/Egypt.html
+21:05:26 OscovidaWorker 5: Processing Georgia
+21:05:26 OscovidaWorker 5: Processing Georgia attempt 0
+21:05:26 OscovidaWorker 8: Executing notebook with kernel: python3
+21:05:26 OscovidaWorker 3: Writing 790606 bytes to ./wwwroot/html/Dominican-Republic.html
+21:05:26 OscovidaWorker 3: Processing Gabon
+21:05:26 OscovidaWorker 3: Processing Gabon attempt 0
+21:05:27 OscovidaWorker 5: Executing notebook with kernel: python3
+21:05:27 OscovidaWorker 6: Writing 755189 bytes to ./wwwroot/html/El-Salvador.html
+21:05:27 OscovidaWorker 6: Processing Germany
+21:05:27 OscovidaWorker 6: Processing Germany attempt 0
+21:05:27 OscovidaWorker 4: Writing 792414 bytes to ./wwwroot/html/Ecuador.html
+21:05:27 OscovidaWorker 4: Processing Gambia
+21:05:27 OscovidaWorker 4: Processing Gambia attempt 0
+21:05:27 OscovidaWorker 3: Executing notebook with kernel: python3
+21:05:28 OscovidaWorker 7: Writing 745816 bytes to ./wwwroot/html/Equatorial-Guinea.html
+21:05:28 OscovidaWorker 7: Processing Ghana
+21:05:28 OscovidaWorker 7: Processing Ghana attempt 0
+21:05:28 OscovidaWorker 1: Writing 756885 bytes to ./wwwroot/html/Djibouti.html
+21:05:28 OscovidaWorker 1: Processing Finland
+21:05:28 OscovidaWorker 1: Processing Finland attempt 0
+21:05:28 OscovidaWorker 10: Writing 760474 bytes to ./wwwroot/html/Guatemala.html
+21:05:28 OscovidaWorker 10: Processing Iraq
+21:05:28 OscovidaWorker 10: Processing Iraq attempt 0
+21:05:28 OscovidaWorker 6: Executing notebook with kernel: python3
+21:05:29 OscovidaWorker 4: Executing notebook with kernel: python3
+21:05:29 OscovidaWorker 7: Executing notebook with kernel: python3
+21:05:29 OscovidaWorker 1: Executing notebook with kernel: python3
+21:05:29 OscovidaWorker 10: Executing notebook with kernel: python3
+21:05:31 OscovidaWorker 9: Writing 694389 bytes to ./wwwroot/html/Grenada.html
+21:05:31 OscovidaWorker 9: Processing Iran
+21:05:31 OscovidaWorker 9: Processing Iran attempt 0
+21:05:32 OscovidaWorker 11: Writing 750168 bytes to ./wwwroot/html/Guinea.html
+21:05:32 OscovidaWorker 11: Processing Ireland
+21:05:32 OscovidaWorker 11: Processing Ireland attempt 0
+21:05:32 OscovidaWorker 9: Executing notebook with kernel: python3
+21:05:33 OscovidaWorker 0: Writing 686006 bytes to ./wwwroot/html/Fiji.html
+21:05:33 OscovidaWorker 0: Processing Guinea-Bissau
+21:05:33 OscovidaWorker 0: Processing Guinea-Bissau attempt 0
+21:05:33 OscovidaWorker 11: Executing notebook with kernel: python3
+21:05:34 OscovidaWorker 2: Writing 793388 bytes to ./wwwroot/html/France.html
+21:05:34 OscovidaWorker 2: Processing Haiti
+21:05:34 OscovidaWorker 2: Processing Haiti attempt 0
+21:05:34 OscovidaWorker 0: Executing notebook with kernel: python3
+21:05:35 OscovidaWorker 2: Executing notebook with kernel: python3
+21:05:35 OscovidaWorker 8: Writing 783862 bytes to ./wwwroot/html/Greece.html
+21:05:35 OscovidaWorker 8: Processing Indonesia
+21:05:35 OscovidaWorker 8: Processing Indonesia attempt 0
+21:05:36 OscovidaWorker 5: Writing 755011 bytes to ./wwwroot/html/Georgia.html
+21:05:36 OscovidaWorker 5: Processing Hungary
+21:05:36 OscovidaWorker 5: Processing Hungary attempt 0
+21:05:36 OscovidaWorker 3: Writing 741304 bytes to ./wwwroot/html/Gabon.html
+21:05:36 OscovidaWorker 3: Processing Holy See
+21:05:36 OscovidaWorker 3: Processing Holy See attempt 0
+21:05:36 OscovidaWorker 8: Executing notebook with kernel: python3
+21:05:36 OscovidaWorker 6: Writing 774033 bytes to ./wwwroot/html/Germany.html
+21:05:36 OscovidaWorker 6: Processing Iceland
+21:05:36 OscovidaWorker 6: Processing Iceland attempt 0
+21:05:37 OscovidaWorker 5: Executing notebook with kernel: python3
+21:05:37 OscovidaWorker 3: Executing notebook with kernel: python3
+21:05:37 OscovidaWorker 4: Writing 696592 bytes to ./wwwroot/html/Gambia.html
+21:05:37 OscovidaWorker 6: Executing notebook with kernel: python3
+21:05:37 OscovidaWorker 4: Processing Honduras
+21:05:37 OscovidaWorker 4: Processing Honduras attempt 0
+21:05:38 OscovidaWorker 7: Writing 743739 bytes to ./wwwroot/html/Ghana.html
+21:05:38 OscovidaWorker 7: Processing India
+21:05:38 OscovidaWorker 7: Processing India attempt 0
+21:05:38 OscovidaWorker 10: Writing 775119 bytes to ./wwwroot/html/Iraq.html
+21:05:38 OscovidaWorker 10: Processing Kyrgyzstan
+21:05:38 OscovidaWorker 10: Processing Kyrgyzstan attempt 0
+21:05:38 OscovidaWorker 1: Writing 767631 bytes to ./wwwroot/html/Finland.html
+21:05:38 OscovidaWorker 1: Processing Guyana
+21:05:38 OscovidaWorker 1: Processing Guyana attempt 0
+21:05:39 OscovidaWorker 4: Executing notebook with kernel: python3
+21:05:39 OscovidaWorker 7: Executing notebook with kernel: python3
+21:05:39 OscovidaWorker 1: Executing notebook with kernel: python3
+21:05:40 OscovidaWorker 10: Executing notebook with kernel: python3
+21:05:41 OscovidaWorker 9: Writing 785404 bytes to ./wwwroot/html/Iran.html
+21:05:41 OscovidaWorker 9: Processing Kuwait
+21:05:41 OscovidaWorker 9: Processing Kuwait attempt 0
+21:05:41 OscovidaWorker 11: Writing 774876 bytes to ./wwwroot/html/Ireland.html
+21:05:41 OscovidaWorker 11: Processing Laos
+21:05:41 OscovidaWorker 11: Processing Laos attempt 0
+21:05:42 OscovidaWorker 9: Executing notebook with kernel: python3
+21:05:42 OscovidaWorker 11: Executing notebook with kernel: python3
+21:05:43 OscovidaWorker 0: Writing 743337 bytes to ./wwwroot/html/Guinea-Bissau.html
+21:05:43 OscovidaWorker 0: Processing Israel
+21:05:43 OscovidaWorker 0: Processing Israel attempt 0
+21:05:44 OscovidaWorker 2: Writing 756306 bytes to ./wwwroot/html/Haiti.html
+21:05:44 OscovidaWorker 2: Processing Jamaica
+21:05:44 OscovidaWorker 2: Processing Jamaica attempt 0
+21:05:44 OscovidaWorker 0: Executing notebook with kernel: python3
+21:05:45 OscovidaWorker 8: Writing 783478 bytes to ./wwwroot/html/Indonesia.html
+21:05:45 OscovidaWorker 8: Processing Kosovo
+21:05:45 OscovidaWorker 8: Processing Kosovo attempt 0
+21:05:45 OscovidaWorker 2: Executing notebook with kernel: python3
+21:05:45 OscovidaWorker 3: Writing 691078 bytes to ./wwwroot/html/Holy-See.html
+21:05:45 OscovidaWorker 3: Processing Japan
+21:05:45 OscovidaWorker 3: Processing Japan attempt 0
+21:05:46 OscovidaWorker 5: Writing 786150 bytes to ./wwwroot/html/Hungary.html
+21:05:46 OscovidaWorker 5: Processing Kazakhstan
+21:05:46 OscovidaWorker 5: Processing Kazakhstan attempt 0
+21:05:46 OscovidaWorker 8: Executing notebook with kernel: python3
+21:05:46 OscovidaWorker 3: Executing notebook with kernel: python3
+21:05:47 OscovidaWorker 6: Writing 743761 bytes to ./wwwroot/html/Iceland.html
+21:05:47 OscovidaWorker 6: Processing Kenya
+21:05:47 OscovidaWorker 6: Processing Kenya attempt 0
+21:05:47 OscovidaWorker 7: Writing 776557 bytes to ./wwwroot/html/India.html
+21:05:47 OscovidaWorker 7: Processing Korea, South
+21:05:47 OscovidaWorker 7: Processing Korea, South attempt 0
+21:05:47 OscovidaWorker 5: Executing notebook with kernel: python3
+21:05:48 OscovidaWorker 4: Writing 768938 bytes to ./wwwroot/html/Honduras.html
+21:05:48 OscovidaWorker 1: Writing 727488 bytes to ./wwwroot/html/Guyana.html
+21:05:48 OscovidaWorker 4: Processing Jordan
+21:05:48 OscovidaWorker 4: Processing Jordan attempt 0
+21:05:48 OscovidaWorker 1: Processing Italy
+21:05:48 OscovidaWorker 1: Processing Italy attempt 0
+21:05:48 OscovidaWorker 6: Executing notebook with kernel: python3
+21:05:48 OscovidaWorker 10: Writing 761552 bytes to ./wwwroot/html/Kyrgyzstan.html
+21:05:48 OscovidaWorker 10: Processing Malawi
+21:05:48 OscovidaWorker 10: Processing Malawi attempt 0
+21:05:48 OscovidaWorker 7: Executing notebook with kernel: python3
+21:05:49 OscovidaWorker 4: Executing notebook with kernel: python3
+21:05:49 OscovidaWorker 10: Executing notebook with kernel: python3
+21:05:49 OscovidaWorker 1: Executing notebook with kernel: python3
+21:05:51 OscovidaWorker 9: Writing 767330 bytes to ./wwwroot/html/Kuwait.html
+21:05:51 OscovidaWorker 9: Processing Madagascar
+21:05:51 OscovidaWorker 9: Processing Madagascar attempt 0
+21:05:51 OscovidaWorker 11: Writing 680421 bytes to ./wwwroot/html/Laos.html
+21:05:51 OscovidaWorker 11: Processing Malaysia
+21:05:51 OscovidaWorker 11: Processing Malaysia attempt 0
+21:05:52 OscovidaWorker 9: Executing notebook with kernel: python3
+21:05:52 OscovidaWorker 11: Executing notebook with kernel: python3
+21:05:53 OscovidaWorker 0: Writing 768191 bytes to ./wwwroot/html/Israel.html
+21:05:53 OscovidaWorker 0: Processing Latvia
+21:05:53 OscovidaWorker 0: Processing Latvia attempt 0
+21:05:54 OscovidaWorker 0: Executing notebook with kernel: python3
+21:05:54 OscovidaWorker 8: Writing 742223 bytes to ./wwwroot/html/Kosovo.html
+21:05:54 OscovidaWorker 8: Processing MS Zaandam
+21:05:54 OscovidaWorker 8: Processing MS Zaandam attempt 0
+21:05:54 OscovidaWorker 2: Writing 735002 bytes to ./wwwroot/html/Jamaica.html
+21:05:54 OscovidaWorker 2: Processing Lesotho
+21:05:54 OscovidaWorker 2: Processing Lesotho attempt 0
+21:05:55 OscovidaWorker 3: Writing 785749 bytes to ./wwwroot/html/Japan.html
+21:05:55 OscovidaWorker 3: Processing Liberia
+21:05:55 OscovidaWorker 3: Processing Liberia attempt 0
+21:05:55 OscovidaWorker 8: Executing notebook with kernel: python3
+21:05:55 OscovidaWorker 2: Executing notebook with kernel: python3
+21:05:56 OscovidaWorker 5: Writing 762258 bytes to ./wwwroot/html/Kazakhstan.html
+21:05:56 OscovidaWorker 5: Processing Liechtenstein
+21:05:56 OscovidaWorker 5: Processing Liechtenstein attempt 0
+21:05:56 OscovidaWorker 3: Executing notebook with kernel: python3
+21:05:57 OscovidaWorker 4: Writing 743609 bytes to ./wwwroot/html/Jordan.html
+21:05:57 OscovidaWorker 4: Processing Libya
+21:05:57 OscovidaWorker 4: Processing Libya attempt 0
+21:05:57 OscovidaWorker 5: Executing notebook with kernel: python3
+21:05:58 OscovidaWorker 6: Writing 754587 bytes to ./wwwroot/html/Kenya.html
+21:05:58 OscovidaWorker 7: Writing 789293 bytes to ./wwwroot/html/Korea--South.html
+21:05:58 OscovidaWorker 1: Writing 785729 bytes to ./wwwroot/html/Italy.html
+21:05:58 OscovidaWorker 6: Processing Lithuania
+21:05:58 OscovidaWorker 6: Processing Lithuania attempt 0
+21:05:58 OscovidaWorker 1: Processing Lebanon
+21:05:58 OscovidaWorker 1: Processing Lebanon attempt 0
+21:05:58 OscovidaWorker 7: Processing Luxembourg
+21:05:58 OscovidaWorker 7: Processing Luxembourg attempt 0
+21:05:58 OscovidaWorker 10: Writing 729119 bytes to ./wwwroot/html/Malawi.html
+21:05:58 OscovidaWorker 10: Processing Morocco
+21:05:58 OscovidaWorker 10: Processing Morocco attempt 0
+21:05:59 OscovidaWorker 6: Executing notebook with kernel: python3
+21:05:59 OscovidaWorker 7: Executing notebook with kernel: python3
+21:05:59 OscovidaWorker 4: Executing notebook with kernel: python3
+21:05:59 OscovidaWorker 1: Executing notebook with kernel: python3
+21:06:00 OscovidaWorker 10: Executing notebook with kernel: python3
+21:06:01 OscovidaWorker 9: Writing 745149 bytes to ./wwwroot/html/Madagascar.html
+21:06:01 OscovidaWorker 9: Processing Montenegro
+21:06:01 OscovidaWorker 9: Processing Montenegro attempt 0
+21:06:01 OscovidaWorker 11: Writing 785817 bytes to ./wwwroot/html/Malaysia.html
+21:06:01 OscovidaWorker 11: Processing Mozambique
+21:06:01 OscovidaWorker 11: Processing Mozambique attempt 0
+21:06:02 OscovidaWorker 9: Executing notebook with kernel: python3
+21:06:02 OscovidaWorker 0: Writing 760339 bytes to ./wwwroot/html/Latvia.html
+21:06:02 OscovidaWorker 0: Processing Maldives
+21:06:02 OscovidaWorker 0: Processing Maldives attempt 0
+21:06:03 OscovidaWorker 11: Executing notebook with kernel: python3
+21:06:04 OscovidaWorker 2: Writing 686800 bytes to ./wwwroot/html/Lesotho.html
+21:06:04 OscovidaWorker 2: Processing Malta
+21:06:04 OscovidaWorker 2: Processing Malta attempt 0
+21:06:04 OscovidaWorker 0: Executing notebook with kernel: python3
+21:06:04 OscovidaWorker 3: Writing 749793 bytes to ./wwwroot/html/Liberia.html
+21:06:04 OscovidaWorker 3: Processing Mauritania
+21:06:04 OscovidaWorker 3: Processing Mauritania attempt 0
+21:06:04 OscovidaWorker 8: Writing 686643 bytes to ./wwwroot/html/MS-Zaandam.html
+21:06:04 OscovidaWorker 8: Processing Mongolia
+21:06:04 OscovidaWorker 8: Processing Mongolia attempt 0
+21:06:05 OscovidaWorker 3: Executing notebook with kernel: python3
+21:06:05 OscovidaWorker 2: Executing notebook with kernel: python3
+21:06:06 OscovidaWorker 8: Executing notebook with kernel: python3
+21:06:06 OscovidaWorker 5: Writing 701440 bytes to ./wwwroot/html/Liechtenstein.html
+21:06:06 OscovidaWorker 5: Processing Mexico
+21:06:06 OscovidaWorker 5: Processing Mexico attempt 0
+21:06:07 OscovidaWorker 7: Writing 777049 bytes to ./wwwroot/html/Luxembourg.html
+21:06:07 OscovidaWorker 7: Processing Monaco
+21:06:07 OscovidaWorker 7: Processing Monaco attempt 0
+21:06:07 OscovidaWorker 5: Executing notebook with kernel: python3
+21:06:07 OscovidaWorker 4: Writing 732257 bytes to ./wwwroot/html/Libya.html
+21:06:07 OscovidaWorker 4: Processing Mauritius
+21:06:07 OscovidaWorker 4: Processing Mauritius attempt 0
+21:06:08 OscovidaWorker 6: Writing 775071 bytes to ./wwwroot/html/Lithuania.html
+21:06:08 OscovidaWorker 6: Processing Moldova
+21:06:08 OscovidaWorker 6: Processing Moldova attempt 0
+21:06:08 OscovidaWorker 1: Writing 771485 bytes to ./wwwroot/html/Lebanon.html
+21:06:08 OscovidaWorker 1: Processing Mali
+21:06:08 OscovidaWorker 1: Processing Mali attempt 0
+21:06:08 OscovidaWorker 7: Executing notebook with kernel: python3
+21:06:08 OscovidaWorker 10: Writing 760906 bytes to ./wwwroot/html/Morocco.html
+21:06:08 OscovidaWorker 10: Processing Pakistan
+21:06:08 OscovidaWorker 10: Processing Pakistan attempt 0
+21:06:09 OscovidaWorker 4: Executing notebook with kernel: python3
+21:06:09 OscovidaWorker 6: Executing notebook with kernel: python3
+21:06:09 OscovidaWorker 1: Executing notebook with kernel: python3
+21:06:10 OscovidaWorker 10: Executing notebook with kernel: python3
+21:06:11 OscovidaWorker 11: Writing 732840 bytes to ./wwwroot/html/Mozambique.html
+21:06:11 OscovidaWorker 11: Processing Panama
+21:06:11 OscovidaWorker 11: Processing Panama attempt 0
+21:06:11 OscovidaWorker 9: Writing 732014 bytes to ./wwwroot/html/Montenegro.html
+21:06:11 OscovidaWorker 9: Processing Oman
+21:06:11 OscovidaWorker 9: Processing Oman attempt 0
+21:06:12 OscovidaWorker 11: Executing notebook with kernel: python3
+21:06:13 OscovidaWorker 9: Executing notebook with kernel: python3
+21:06:13 OscovidaWorker 0: Writing 738283 bytes to ./wwwroot/html/Maldives.html
+21:06:13 OscovidaWorker 0: Processing Namibia
+21:06:13 OscovidaWorker 0: Processing Namibia attempt 0
+21:06:14 OscovidaWorker 2: Writing 736769 bytes to ./wwwroot/html/Malta.html
+21:06:14 OscovidaWorker 2: Processing Netherlands
+21:06:14 OscovidaWorker 2: Processing Netherlands attempt 0
+21:06:14 OscovidaWorker 0: Executing notebook with kernel: python3
+21:06:14 OscovidaWorker 3: Writing 751279 bytes to ./wwwroot/html/Mauritania.html
+21:06:14 OscovidaWorker 3: Processing New Zealand
+21:06:14 OscovidaWorker 3: Processing New Zealand attempt 0
+21:06:15 OscovidaWorker 8: Writing 719229 bytes to ./wwwroot/html/Mongolia.html
+21:06:15 OscovidaWorker 8: Processing Norway
+21:06:15 OscovidaWorker 8: Processing Norway attempt 0
+21:06:15 OscovidaWorker 5: Writing 779541 bytes to ./wwwroot/html/Mexico.html
+21:06:15 OscovidaWorker 5: Processing Niger
+21:06:15 OscovidaWorker 5: Processing Niger attempt 0
+21:06:15 OscovidaWorker 2: Executing notebook with kernel: python3
+21:06:16 OscovidaWorker 3: Executing notebook with kernel: python3
+21:06:16 OscovidaWorker 5: Executing notebook with kernel: python3
+21:06:16 OscovidaWorker 8: Executing notebook with kernel: python3
+21:06:17 OscovidaWorker 6: Writing 768947 bytes to ./wwwroot/html/Moldova.html
+21:06:17 OscovidaWorker 7: Writing 712237 bytes to ./wwwroot/html/Monaco.html
+21:06:17 OscovidaWorker 6: Processing Nigeria
+21:06:17 OscovidaWorker 6: Processing Nigeria attempt 0
+21:06:17 OscovidaWorker 7: Processing North Macedonia
+21:06:17 OscovidaWorker 7: Processing North Macedonia attempt 0
+21:06:18 OscovidaWorker 1: Writing 759863 bytes to ./wwwroot/html/Mali.html
+21:06:18 OscovidaWorker 1: Processing Nepal
+21:06:18 OscovidaWorker 1: Processing Nepal attempt 0
+21:06:18 OscovidaWorker 10: Writing 776407 bytes to ./wwwroot/html/Pakistan.html
+21:06:18 OscovidaWorker 10: Processing Saint Kitts and Nevis
+21:06:18 OscovidaWorker 10: Processing Saint Kitts and Nevis attempt 0
+21:06:18 OscovidaWorker 4: Writing 721776 bytes to ./wwwroot/html/Mauritius.html
+21:06:18 OscovidaWorker 4: Processing Nicaragua
+21:06:18 OscovidaWorker 4: Processing Nicaragua attempt 0
+21:06:19 OscovidaWorker 7: Executing notebook with kernel: python3
+21:06:19 OscovidaWorker 6: Executing notebook with kernel: python3
+21:06:19 OscovidaWorker 1: Executing notebook with kernel: python3
+21:06:19 OscovidaWorker 10: Executing notebook with kernel: python3
+21:06:19 OscovidaWorker 4: Executing notebook with kernel: python3
+21:06:21 OscovidaWorker 11: Writing 770051 bytes to ./wwwroot/html/Panama.html
+21:06:21 OscovidaWorker 11: Processing Saint Lucia
+21:06:21 OscovidaWorker 11: Processing Saint Lucia attempt 0
+21:06:21 OscovidaWorker 9: Writing 756601 bytes to ./wwwroot/html/Oman.html
+21:06:21 OscovidaWorker 9: Processing Rwanda
+21:06:21 OscovidaWorker 9: Processing Rwanda attempt 0
+21:06:22 OscovidaWorker 11: Executing notebook with kernel: python3
+21:06:22 OscovidaWorker 9: Executing notebook with kernel: python3
+21:06:23 OscovidaWorker 0: Writing 706135 bytes to ./wwwroot/html/Namibia.html
+21:06:23 OscovidaWorker 0: Processing Papua New Guinea
+21:06:23 OscovidaWorker 0: Processing Papua New Guinea attempt 0
+21:06:24 OscovidaWorker 0: Executing notebook with kernel: python3
+21:06:24 OscovidaWorker 8: Writing 762116 bytes to ./wwwroot/html/Norway.html
+21:06:24 OscovidaWorker 2: Writing 782760 bytes to ./wwwroot/html/Netherlands.html
+21:06:25 OscovidaWorker 8: Processing Russia
+21:06:25 OscovidaWorker 8: Processing Russia attempt 0
+21:06:25 OscovidaWorker 2: Processing Peru
+21:06:25 OscovidaWorker 2: Processing Peru attempt 0
+21:06:25 OscovidaWorker 5: Writing 752441 bytes to ./wwwroot/html/Niger.html
+21:06:25 OscovidaWorker 5: Processing Portugal
+21:06:25 OscovidaWorker 5: Processing Portugal attempt 0
+21:06:25 OscovidaWorker 3: Writing 755714 bytes to ./wwwroot/html/New-Zealand.html
+21:06:25 OscovidaWorker 3: Processing Philippines
+21:06:25 OscovidaWorker 3: Processing Philippines attempt 0
+21:06:26 OscovidaWorker 8: Executing notebook with kernel: python3
+21:06:26 OscovidaWorker 1: Writing 728465 bytes to ./wwwroot/html/Nepal.html
+21:06:26 OscovidaWorker 1: Processing Paraguay
+21:06:26 OscovidaWorker 1: Processing Paraguay attempt 0
+21:06:26 OscovidaWorker 2: Executing notebook with kernel: python3
+21:06:26 OscovidaWorker 3: Executing notebook with kernel: python3
+21:06:26 OscovidaWorker 5: Executing notebook with kernel: python3
+21:06:27 OscovidaWorker 7: Writing 783440 bytes to ./wwwroot/html/North-Macedonia.html
+21:06:27 OscovidaWorker 7: Processing Romania
+21:06:27 OscovidaWorker 7: Processing Romania attempt 0
+21:06:27 OscovidaWorker 6: Writing 768802 bytes to ./wwwroot/html/Nigeria.html
+21:06:27 OscovidaWorker 6: Processing Qatar
+21:06:27 OscovidaWorker 6: Processing Qatar attempt 0
+21:06:27 OscovidaWorker 1: Executing notebook with kernel: python3
+21:06:28 OscovidaWorker 10: Writing 702270 bytes to ./wwwroot/html/Saint-Kitts-and-Nevis.html
+21:06:28 OscovidaWorker 10: Processing Slovenia
+21:06:28 OscovidaWorker 10: Processing Slovenia attempt 0
+21:06:28 OscovidaWorker 4: Writing 732397 bytes to ./wwwroot/html/Nicaragua.html
+21:06:28 OscovidaWorker 4: Processing Poland
+21:06:28 OscovidaWorker 4: Processing Poland attempt 0
+21:06:28 OscovidaWorker 6: Executing notebook with kernel: python3
+21:06:28 OscovidaWorker 7: Executing notebook with kernel: python3
+21:06:29 OscovidaWorker 10: Executing notebook with kernel: python3
+21:06:29 OscovidaWorker 4: Executing notebook with kernel: python3
+21:06:30 OscovidaWorker 11: Writing 694232 bytes to ./wwwroot/html/Saint-Lucia.html
+21:06:30 OscovidaWorker 11: Processing Somalia
+21:06:30 OscovidaWorker 11: Processing Somalia attempt 0
+21:06:31 OscovidaWorker 9: Writing 733518 bytes to ./wwwroot/html/Rwanda.html
+21:06:31 OscovidaWorker 9: Processing Slovakia
+21:06:31 OscovidaWorker 9: Processing Slovakia attempt 0
+21:06:32 OscovidaWorker 11: Executing notebook with kernel: python3
+21:06:32 OscovidaWorker 9: Executing notebook with kernel: python3
+21:06:33 OscovidaWorker 0: Writing 693429 bytes to ./wwwroot/html/Papua-New-Guinea.html
+21:06:33 OscovidaWorker 0: Processing Saint Vincent and the Grenadines
+21:06:33 OscovidaWorker 0: Processing Saint Vincent and the Grenadines attempt 0
+21:06:34 OscovidaWorker 8: Writing 779990 bytes to ./wwwroot/html/Russia.html
+21:06:34 OscovidaWorker 8: Processing Singapore
+21:06:34 OscovidaWorker 8: Processing Singapore attempt 0
+21:06:35 OscovidaWorker 0: Executing notebook with kernel: python3
+21:06:35 OscovidaWorker 2: Writing 770376 bytes to ./wwwroot/html/Peru.html
+21:06:35 OscovidaWorker 2: Processing Sao Tome and Principe
+21:06:35 OscovidaWorker 2: Processing Sao Tome and Principe attempt 0
+21:06:35 OscovidaWorker 8: Executing notebook with kernel: python3
+21:06:35 OscovidaWorker 3: Writing 789389 bytes to ./wwwroot/html/Philippines.html
+21:06:35 OscovidaWorker 3: Processing Saudi Arabia
+21:06:35 OscovidaWorker 3: Processing Saudi Arabia attempt 0
+21:06:36 OscovidaWorker 5: Writing 775951 bytes to ./wwwroot/html/Portugal.html
+21:06:36 OscovidaWorker 6: Writing 761027 bytes to ./wwwroot/html/Qatar.html
+21:06:36 OscovidaWorker 5: Processing Serbia
+21:06:36 OscovidaWorker 5: Processing Serbia attempt 0
+21:06:36 OscovidaWorker 6: Processing Seychelles
+21:06:36 OscovidaWorker 6: Processing Seychelles attempt 0
+21:06:36 OscovidaWorker 2: Executing notebook with kernel: python3
+21:06:36 OscovidaWorker 1: Writing 747753 bytes to ./wwwroot/html/Paraguay.html
+21:06:36 OscovidaWorker 1: Processing San Marino
+21:06:36 OscovidaWorker 1: Processing San Marino attempt 0
+21:06:37 OscovidaWorker 5: Executing notebook with kernel: python3
+21:06:37 OscovidaWorker 7: Writing 770745 bytes to ./wwwroot/html/Romania.html
+21:06:37 OscovidaWorker 7: Processing Sierra Leone
+21:06:37 OscovidaWorker 7: Processing Sierra Leone attempt 0
+21:06:37 OscovidaWorker 3: Executing notebook with kernel: python3
+21:06:37 OscovidaWorker 6: Executing notebook with kernel: python3
+21:06:37 OscovidaWorker 1: Executing notebook with kernel: python3
+21:06:37 OscovidaWorker 4: Writing 765552 bytes to ./wwwroot/html/Poland.html
+21:06:37 OscovidaWorker 4: Processing Senegal
+21:06:37 OscovidaWorker 4: Processing Senegal attempt 0
+21:06:38 OscovidaWorker 7: Executing notebook with kernel: python3
+21:06:38 OscovidaWorker 10: Writing 769871 bytes to ./wwwroot/html/Slovenia.html
+21:06:38 OscovidaWorker 10: Processing Tajikistan
+21:06:38 OscovidaWorker 10: Processing Tajikistan attempt 0
+21:06:39 OscovidaWorker 4: Executing notebook with kernel: python3
+21:06:39 OscovidaWorker 10: Executing notebook with kernel: python3
+21:06:41 OscovidaWorker 11: Writing 753735 bytes to ./wwwroot/html/Somalia.html
+21:06:41 OscovidaWorker 11: Processing Tanzania
+21:06:41 OscovidaWorker 11: Processing Tanzania attempt 0
+21:06:41 OscovidaWorker 9: Writing 762192 bytes to ./wwwroot/html/Slovakia.html
+21:06:41 OscovidaWorker 9: Processing Taiwan*
+21:06:41 OscovidaWorker 9: Processing Taiwan* attempt 0
+21:06:42 OscovidaWorker 11: Executing notebook with kernel: python3
+21:06:42 OscovidaWorker 9: Executing notebook with kernel: python3
+21:06:43 OscovidaWorker 0: Writing 725824 bytes to ./wwwroot/html/Saint-Vincent-and-the-Grenadines.html
+21:06:43 OscovidaWorker 0: Processing South Africa
+21:06:43 OscovidaWorker 0: Processing South Africa attempt 0
+21:06:44 OscovidaWorker 8: Writing 765113 bytes to ./wwwroot/html/Singapore.html
+21:06:44 OscovidaWorker 8: Processing Syria
+21:06:44 OscovidaWorker 8: Processing Syria attempt 0
+21:06:45 OscovidaWorker 0: Executing notebook with kernel: python3
+21:06:45 OscovidaWorker 8: Executing notebook with kernel: python3
+21:06:45 OscovidaWorker 5: Writing 766587 bytes to ./wwwroot/html/Serbia.html
+21:06:45 OscovidaWorker 5: Processing Suriname
+21:06:45 OscovidaWorker 5: Processing Suriname attempt 0
+21:06:45 OscovidaWorker 6: Writing 690673 bytes to ./wwwroot/html/Seychelles.html
+21:06:46 OscovidaWorker 6: Processing Sweden
+21:06:46 OscovidaWorker 6: Processing Sweden attempt 0
+21:06:46 OscovidaWorker 3: Writing 775541 bytes to ./wwwroot/html/Saudi-Arabia.html
+21:06:46 OscovidaWorker 3: Processing Sri Lanka
+21:06:46 OscovidaWorker 3: Processing Sri Lanka attempt 0
+21:06:46 OscovidaWorker 2: Writing 746069 bytes to ./wwwroot/html/Sao-Tome-and-Principe.html
+21:06:46 OscovidaWorker 4: Writing 761334 bytes to ./wwwroot/html/Senegal.html
+21:06:46 OscovidaWorker 2: Processing Spain
+21:06:46 OscovidaWorker 2: Processing Spain attempt 0
+21:06:46 OscovidaWorker 4: Processing Sudan
+21:06:46 OscovidaWorker 4: Processing Sudan attempt 0
+21:06:47 OscovidaWorker 1: Writing 758637 bytes to ./wwwroot/html/San-Marino.html
+21:06:47 OscovidaWorker 1: Processing South Sudan
+21:06:47 OscovidaWorker 1: Processing South Sudan attempt 0
+21:06:47 OscovidaWorker 5: Executing notebook with kernel: python3
+21:06:47 OscovidaWorker 6: Executing notebook with kernel: python3
+21:06:47 OscovidaWorker 7: Writing 756763 bytes to ./wwwroot/html/Sierra-Leone.html
+21:06:47 OscovidaWorker 7: Processing Switzerland
+21:06:47 OscovidaWorker 7: Processing Switzerland attempt 0
+21:06:47 OscovidaWorker 2: Executing notebook with kernel: python3
+21:06:48 OscovidaWorker 3: Executing notebook with kernel: python3
+21:06:48 OscovidaWorker 4: Executing notebook with kernel: python3
+21:06:48 OscovidaWorker 10: Writing 741493 bytes to ./wwwroot/html/Tajikistan.html
+21:06:48 OscovidaWorker 10: Processing United Kingdom
+21:06:48 OscovidaWorker 10: Processing United Kingdom attempt 0
+21:06:48 OscovidaWorker 1: Executing notebook with kernel: python3
+21:06:48 OscovidaWorker 7: Executing notebook with kernel: python3
+21:06:49 OscovidaWorker 10: Executing notebook with kernel: python3
+21:06:50 OscovidaWorker 11: Writing 722712 bytes to ./wwwroot/html/Tanzania.html
+21:06:50 OscovidaWorker 11: Processing Uruguay
+21:06:50 OscovidaWorker 11: Processing Uruguay attempt 0
+21:06:51 OscovidaWorker 9: Writing 743242 bytes to ./wwwroot/html/Taiwan*.html
+21:06:51 OscovidaWorker 9: Processing United Arab Emirates
+21:06:51 OscovidaWorker 9: Processing United Arab Emirates attempt 0
+21:06:51 OscovidaWorker 11: Executing notebook with kernel: python3
+21:06:52 OscovidaWorker 9: Executing notebook with kernel: python3
+21:06:54 OscovidaWorker 0: Writing 775246 bytes to ./wwwroot/html/South-Africa.html
+21:06:54 OscovidaWorker 0: Processing Thailand
+21:06:54 OscovidaWorker 0: Processing Thailand attempt 0
+21:06:54 OscovidaWorker 8: Writing 720668 bytes to ./wwwroot/html/Syria.html
+21:06:54 OscovidaWorker 8: Processing Ukraine
+21:06:54 OscovidaWorker 8: Processing Ukraine attempt 0
+21:06:54 OscovidaWorker 5: Writing 718054 bytes to ./wwwroot/html/Suriname.html
+21:06:54 OscovidaWorker 5: Processing Turkey
+21:06:54 OscovidaWorker 5: Processing Turkey attempt 0
+21:06:55 OscovidaWorker 0: Executing notebook with kernel: python3
+21:06:55 OscovidaWorker 8: Executing notebook with kernel: python3
+21:06:55 OscovidaWorker 6: Writing 781630 bytes to ./wwwroot/html/Sweden.html
+21:06:55 OscovidaWorker 6: Processing US
+21:06:55 OscovidaWorker 6: Processing US attempt 0
+21:06:56 OscovidaWorker 5: Executing notebook with kernel: python3
+21:06:56 OscovidaWorker 2: Writing 780251 bytes to ./wwwroot/html/Spain.html
+21:06:56 OscovidaWorker 2: Processing Togo
+21:06:56 OscovidaWorker 2: Processing Togo attempt 0
+21:06:56 OscovidaWorker 4: Writing 751952 bytes to ./wwwroot/html/Sudan.html
+21:06:56 OscovidaWorker 4: Processing Tunisia
+21:06:56 OscovidaWorker 4: Processing Tunisia attempt 0
+21:06:56 OscovidaWorker 3: Writing 746478 bytes to ./wwwroot/html/Sri-Lanka.html
+21:06:56 OscovidaWorker 3: Processing Trinidad and Tobago
+21:06:56 OscovidaWorker 3: Processing Trinidad and Tobago attempt 0
+21:06:56 OscovidaWorker 6: Executing notebook with kernel: python3
+21:06:57 OscovidaWorker 2: Executing notebook with kernel: python3
+21:06:57 OscovidaWorker 7: Writing 770394 bytes to ./wwwroot/html/Switzerland.html
+21:06:57 OscovidaWorker 1: Writing 736528 bytes to ./wwwroot/html/South-Sudan.html
+21:06:57 OscovidaWorker 7: Processing Uganda
+21:06:57 OscovidaWorker 1: Processing Timor-Leste
+21:06:57 OscovidaWorker 7: Processing Uganda attempt 0
+21:06:57 OscovidaWorker 1: Processing Timor-Leste attempt 0
+21:06:58 OscovidaWorker 4: Executing notebook with kernel: python3
+21:06:58 OscovidaWorker 3: Executing notebook with kernel: python3
+21:06:58 OscovidaWorker 10: Writing 800748 bytes to ./wwwroot/html/United-Kingdom.html
+21:06:59 OscovidaWorker 7: Executing notebook with kernel: python3
+21:06:59 OscovidaWorker 1: Executing notebook with kernel: python3
+21:07:00 OscovidaWorker 11: Writing 759153 bytes to ./wwwroot/html/Uruguay.html
+21:07:01 OscovidaWorker 9: Writing 810163 bytes to ./wwwroot/html/United-Arab-Emirates.html
+21:07:02 OscovidaWorker 8: Writing 771170 bytes to ./wwwroot/html/Ukraine.html
+21:07:02 OscovidaWorker 0: Writing 771098 bytes to ./wwwroot/html/Thailand.html
+21:07:02 OscovidaWorker 0: Processing Uzbekistan
+21:07:02 OscovidaWorker 0: Processing Uzbekistan attempt 0
+21:07:03 OscovidaWorker 5: Writing 766701 bytes to ./wwwroot/html/Turkey.html
+21:07:03 OscovidaWorker 5: Processing Yemen
+21:07:03 OscovidaWorker 5: Processing Yemen attempt 0
+21:07:03 OscovidaWorker 0: Executing notebook with kernel: python3
+21:07:04 OscovidaWorker 6: Writing 777121 bytes to ./wwwroot/html/US.html
+21:07:04 OscovidaWorker 6: Processing Zambia
+21:07:04 OscovidaWorker 6: Processing Zambia attempt 0
+21:07:04 OscovidaWorker 5: Executing notebook with kernel: python3
+21:07:05 OscovidaWorker 6: Executing notebook with kernel: python3
+21:07:05 OscovidaWorker 2: Writing 737241 bytes to ./wwwroot/html/Togo.html
+21:07:05 OscovidaWorker 2: Processing Vietnam
+21:07:05 OscovidaWorker 2: Processing Vietnam attempt 0
+21:07:05 OscovidaWorker 3: Writing 729315 bytes to ./wwwroot/html/Trinidad-and-Tobago.html
+21:07:05 OscovidaWorker 3: Processing West Bank and Gaza
+21:07:05 OscovidaWorker 3: Processing West Bank and Gaza attempt 0
+21:07:06 OscovidaWorker 2: Executing notebook with kernel: python3
+21:07:06 OscovidaWorker 1: Writing 694785 bytes to ./wwwroot/html/Timor-Leste.html
+21:07:06 OscovidaWorker 4: Writing 765480 bytes to ./wwwroot/html/Tunisia.html
+21:07:06 OscovidaWorker 1: Processing Venezuela
+21:07:06 OscovidaWorker 1: Processing Venezuela attempt 0
+21:07:06 OscovidaWorker 4: Processing Western Sahara
+21:07:06 OscovidaWorker 4: Processing Western Sahara attempt 0
+21:07:06 OscovidaWorker 3: Executing notebook with kernel: python3
+21:07:07 OscovidaWorker 4: Executing notebook with kernel: python3
+21:07:07 OscovidaWorker 7: Writing 731486 bytes to ./wwwroot/html/Uganda.html
+21:07:07 OscovidaWorker 7: Processing Zimbabwe
+21:07:07 OscovidaWorker 7: Processing Zimbabwe attempt 0
+21:07:07 OscovidaWorker 1: Executing notebook with kernel: python3
+21:07:08 OscovidaWorker 7: Executing notebook with kernel: python3
+21:07:09 OscovidaWorker 0: Writing 742260 bytes to ./wwwroot/html/Uzbekistan.html
+21:07:10 OscovidaWorker 5: Writing 742120 bytes to ./wwwroot/html/Yemen.html
+21:07:11 OscovidaWorker 6: Writing 737811 bytes to ./wwwroot/html/Zambia.html
+21:07:12 OscovidaWorker 2: Writing 728330 bytes to ./wwwroot/html/Vietnam.html
+21:07:12 OscovidaWorker 3: Writing 753079 bytes to ./wwwroot/html/West-Bank-and-Gaza.html
+21:07:13 OscovidaWorker 1: Writing 760552 bytes to ./wwwroot/html/Venezuela.html
+21:07:13 OscovidaWorker 4: Writing 691655 bytes to ./wwwroot/html/Western-Sahara.html
+21:07:14 OscovidaWorker 7: Writing 729289 bytes to ./wwwroot/html/Zimbabwe.html
+21:07:14 MainThread: 188 regions in markdown index list
+21:07:14 MainThread: Created markdown index file pelican/content/countries.md
+21:07:18 OscovidaWorker 0: Processing LK Alb-Donau-Kreis
+21:07:18 OscovidaWorker 1: Processing LK Biberach
+21:07:18 OscovidaWorker 0: Processing ['Baden-Württemberg', 'LK Alb-Donau-Kreis'] attempt 0
+21:07:18 OscovidaWorker 2: Processing LK Bodenseekreis
+21:07:18 OscovidaWorker 1: Processing ['Baden-Württemberg', 'LK Biberach'] attempt 0
+21:07:18 OscovidaWorker 3: Processing LK Breisgau-Hochschwarzwald
+21:07:18 OscovidaWorker 2: Processing ['Baden-Württemberg', 'LK Bodenseekreis'] attempt 0
+21:07:18 OscovidaWorker 4: Processing LK Böblingen
+21:07:18 OscovidaWorker 5: Processing LK Calw
+21:07:18 OscovidaWorker 6: Processing LK Emmendingen
+21:07:18 OscovidaWorker 3: Processing ['Baden-Württemberg', 'LK Breisgau-Hochschwarzwald'] attempt 0
+21:07:18 OscovidaWorker 7: Processing LK Enzkreis
+21:07:18 OscovidaWorker 4: Processing ['Baden-Württemberg', 'LK Böblingen'] attempt 0
+21:07:18 OscovidaWorker 8: Processing LK Esslingen
+21:07:18 OscovidaWorker 5: Processing ['Baden-Württemberg', 'LK Calw'] attempt 0
+21:07:18 OscovidaWorker 9: Processing LK Freudenstadt
+21:07:18 OscovidaWorker 10: Processing LK Göppingen
+21:07:18 OscovidaWorker 6: Processing ['Baden-Württemberg', 'LK Emmendingen'] attempt 0
+21:07:18 OscovidaWorker 11: Processing LK Heidenheim
+21:07:18 OscovidaWorker 7: Processing ['Baden-Württemberg', 'LK Enzkreis'] attempt 0
+21:07:18 OscovidaWorker 8: Processing ['Baden-Württemberg', 'LK Esslingen'] attempt 0
+21:07:18 OscovidaWorker 9: Processing ['Baden-Württemberg', 'LK Freudenstadt'] attempt 0
+21:07:18 OscovidaWorker 10: Processing ['Baden-Württemberg', 'LK Göppingen'] attempt 0
+21:07:18 OscovidaWorker 11: Processing ['Baden-Württemberg', 'LK Heidenheim'] attempt 0
+21:07:24 OscovidaWorker 5: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 1: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 3: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 7: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 11: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 8: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 2: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 10: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 9: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 6: Executing notebook with kernel: python3
+21:07:24 OscovidaWorker 0: Executing notebook with kernel: python3
+21:07:25 OscovidaWorker 4: Executing notebook with kernel: python3
+21:07:34 OscovidaWorker 6: Writing 748264 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Emmendingen.html
+21:07:34 OscovidaWorker 6: Processing LK Main-Tauber-Kreis
+21:07:34 OscovidaWorker 6: Processing ['Baden-Württemberg', 'LK Main-Tauber-Kreis'] attempt 0
+21:07:35 OscovidaWorker 3: Writing 779651 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Breisgau-Hochschwarzwald.html
+21:07:35 OscovidaWorker 3: Processing LK Konstanz
+21:07:35 OscovidaWorker 3: Processing ['Baden-Württemberg', 'LK Konstanz'] attempt 0
+21:07:35 OscovidaWorker 7: Writing 740608 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Enzkreis.html
+21:07:35 OscovidaWorker 7: Processing LK Neckar-Odenwald-Kreis
+21:07:35 OscovidaWorker 7: Processing ['Baden-Württemberg', 'LK Neckar-Odenwald-Kreis'] attempt 0
+21:07:36 OscovidaWorker 9: Writing 719521 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Freudenstadt.html
+21:07:36 OscovidaWorker 9: Processing LK Ostalbkreis
+21:07:36 OscovidaWorker 9: Processing ['Baden-Württemberg', 'LK Ostalbkreis'] attempt 0
+21:07:36 OscovidaWorker 11: Writing 723637 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Heidenheim.html
+21:07:36 OscovidaWorker 11: Processing LK Ravensburg
+21:07:36 OscovidaWorker 11: Processing ['Baden-Württemberg', 'LK Ravensburg'] attempt 0
+21:07:36 OscovidaWorker 1: Writing 749603 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Biberach.html
+21:07:37 OscovidaWorker 1: Processing LK Hohenlohekreis
+21:07:37 OscovidaWorker 1: Processing ['Baden-Württemberg', 'LK Hohenlohekreis'] attempt 0
+21:07:37 OscovidaWorker 10: Writing 757177 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Göppingen.html
+21:07:37 OscovidaWorker 6: Executing notebook with kernel: python3
+21:07:37 OscovidaWorker 0: Writing 762702 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Alb-Donau-Kreis.html
+21:07:37 OscovidaWorker 10: Processing LK Rastatt
+21:07:37 OscovidaWorker 10: Processing ['Baden-Württemberg', 'LK Rastatt'] attempt 0
+21:07:37 OscovidaWorker 0: Processing LK Heilbronn
+21:07:37 OscovidaWorker 0: Processing ['Baden-Württemberg', 'LK Heilbronn'] attempt 0
+21:07:37 OscovidaWorker 8: Writing 771565 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Esslingen.html
+21:07:37 OscovidaWorker 4: Writing 757505 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Böblingen.html
+21:07:37 OscovidaWorker 8: Processing LK Ortenaukreis
+21:07:37 OscovidaWorker 8: Processing ['Baden-Württemberg', 'LK Ortenaukreis'] attempt 0
+21:07:37 OscovidaWorker 5: Writing 750942 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Calw.html
+21:07:37 OscovidaWorker 2: Writing 732725 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Bodenseekreis.html
+21:07:37 OscovidaWorker 4: Processing LK Ludwigsburg
+21:07:37 OscovidaWorker 4: Processing ['Baden-Württemberg', 'LK Ludwigsburg'] attempt 0
+21:07:37 OscovidaWorker 5: Processing LK Lörrach
+21:07:37 OscovidaWorker 5: Processing ['Baden-Württemberg', 'LK Lörrach'] attempt 0
+21:07:37 OscovidaWorker 2: Processing LK Karlsruhe
+21:07:37 OscovidaWorker 2: Processing ['Baden-Württemberg', 'LK Karlsruhe'] attempt 0
+21:07:40 OscovidaWorker 3: Executing notebook with kernel: python3
+21:07:41 OscovidaWorker 7: Executing notebook with kernel: python3
+21:07:41 OscovidaWorker 11: Executing notebook with kernel: python3
+21:07:41 OscovidaWorker 9: Executing notebook with kernel: python3
+21:07:42 OscovidaWorker 1: Executing notebook with kernel: python3
+21:07:42 OscovidaWorker 8: Executing notebook with kernel: python3
+21:07:42 OscovidaWorker 10: Executing notebook with kernel: python3
+21:07:43 OscovidaWorker 5: Executing notebook with kernel: python3
+21:07:43 OscovidaWorker 0: Executing notebook with kernel: python3
+21:07:43 OscovidaWorker 2: Executing notebook with kernel: python3
+21:07:43 OscovidaWorker 4: Executing notebook with kernel: python3
+21:07:47 OscovidaWorker 6: Writing 736674 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Main-Tauber-Kreis.html
+21:07:47 OscovidaWorker 6: Processing LK Sigmaringen
+21:07:47 OscovidaWorker 6: Processing ['Baden-Württemberg', 'LK Sigmaringen'] attempt 0
+21:07:48 OscovidaWorker 6: Executing notebook with kernel: python3
+21:07:50 OscovidaWorker 3: Writing 736371 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Konstanz.html
+21:07:50 OscovidaWorker 3: Processing LK Rottweil
+21:07:50 OscovidaWorker 3: Processing ['Baden-Württemberg', 'LK Rottweil'] attempt 0
+21:07:52 OscovidaWorker 9: Writing 771446 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Ostalbkreis.html
+21:07:52 OscovidaWorker 9: Processing LK Waldshut
+21:07:52 OscovidaWorker 9: Processing ['Baden-Württemberg', 'LK Waldshut'] attempt 0
+21:07:52 OscovidaWorker 3: Executing notebook with kernel: python3
+21:07:52 OscovidaWorker 11: Writing 728467 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Ravensburg.html
+21:07:52 OscovidaWorker 11: Processing SK Baden-Baden
+21:07:52 OscovidaWorker 11: Processing ['Baden-Württemberg', 'SK Baden-Baden'] attempt 0
+21:07:53 OscovidaWorker 7: Writing 761111 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Neckar-Odenwald-Kreis.html
+21:07:53 OscovidaWorker 7: Processing LK Tuttlingen
+21:07:53 OscovidaWorker 7: Processing ['Baden-Württemberg', 'LK Tuttlingen'] attempt 0
+21:07:53 OscovidaWorker 10: Writing 732630 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Rastatt.html
+21:07:53 OscovidaWorker 10: Processing LK Zollernalbkreis
+21:07:53 OscovidaWorker 10: Processing ['Baden-Württemberg', 'LK Zollernalbkreis'] attempt 0
+21:07:54 OscovidaWorker 2: Writing 759479 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Karlsruhe.html
+21:07:54 OscovidaWorker 2: Processing LK Rhein-Neckar-Kreis
+21:07:54 OscovidaWorker 2: Processing ['Baden-Württemberg', 'LK Rhein-Neckar-Kreis'] attempt 0
+21:07:54 OscovidaWorker 9: Executing notebook with kernel: python3
+21:07:54 OscovidaWorker 5: Writing 742575 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Lörrach.html
+21:07:55 OscovidaWorker 8: Writing 771899 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Ortenaukreis.html
+21:07:55 OscovidaWorker 1: Writing 751362 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Hohenlohekreis.html
+21:07:55 OscovidaWorker 5: Processing LK Schwäbisch Hall
+21:07:55 OscovidaWorker 5: Processing ['Baden-Württemberg', 'LK Schwäbisch Hall'] attempt 0
+21:07:55 OscovidaWorker 8: Processing LK Tübingen
+21:07:55 OscovidaWorker 8: Processing ['Baden-Württemberg', 'LK Tübingen'] attempt 0
+21:07:55 OscovidaWorker 1: Processing LK Reutlingen
+21:07:55 OscovidaWorker 4: Writing 769561 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Ludwigsburg.html
+21:07:55 OscovidaWorker 1: Processing ['Baden-Württemberg', 'LK Reutlingen'] attempt 0
+21:07:55 OscovidaWorker 4: Processing LK Schwarzwald-Baar-Kreis
+21:07:55 OscovidaWorker 4: Processing ['Baden-Württemberg', 'LK Schwarzwald-Baar-Kreis'] attempt 0
+21:07:55 OscovidaWorker 0: Writing 761835 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Heilbronn.html
+21:07:55 OscovidaWorker 0: Processing LK Rems-Murr-Kreis
+21:07:55 OscovidaWorker 0: Processing ['Baden-Württemberg', 'LK Rems-Murr-Kreis'] attempt 0
+21:07:56 OscovidaWorker 11: Executing notebook with kernel: python3
+21:07:58 OscovidaWorker 10: Executing notebook with kernel: python3
+21:07:58 OscovidaWorker 7: Executing notebook with kernel: python3
+21:07:58 OscovidaWorker 6: Writing 738203 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Sigmaringen.html
+21:07:58 OscovidaWorker 2: Executing notebook with kernel: python3
+21:07:58 OscovidaWorker 6: Processing SK Stuttgart
+21:07:58 OscovidaWorker 6: Processing ['Baden-Württemberg', 'SK Stuttgart'] attempt 0
+21:07:59 OscovidaWorker 8: Executing notebook with kernel: python3
+21:07:59 OscovidaWorker 4: Executing notebook with kernel: python3
+21:07:59 OscovidaWorker 5: Executing notebook with kernel: python3
+21:07:59 OscovidaWorker 1: Executing notebook with kernel: python3
+21:08:00 OscovidaWorker 0: Executing notebook with kernel: python3
+21:08:00 OscovidaWorker 6: Executing notebook with kernel: python3
+21:08:01 OscovidaWorker 3: Writing 747465 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Rottweil.html
+21:08:01 OscovidaWorker 3: Processing SK Karlsruhe
+21:08:01 OscovidaWorker 3: Processing ['Baden-Württemberg', 'SK Karlsruhe'] attempt 0
+21:08:03 OscovidaWorker 3: Executing notebook with kernel: python3
+21:08:05 OscovidaWorker 9: Writing 712564 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Waldshut.html
+21:08:05 OscovidaWorker 9: Processing LK Altötting
+21:08:05 OscovidaWorker 9: Processing ['Bayern', 'LK Altötting'] attempt 0
+21:08:06 OscovidaWorker 11: Writing 701631 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Baden-Baden.html
+21:08:06 OscovidaWorker 11: Processing LK Ansbach
+21:08:06 OscovidaWorker 11: Processing ['Bayern', 'LK Ansbach'] attempt 0
+21:08:07 OscovidaWorker 9: Executing notebook with kernel: python3
+21:08:08 OscovidaWorker 11: Executing notebook with kernel: python3
+21:08:08 OscovidaWorker 1: Writing 749859 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Reutlingen.html
+21:08:08 OscovidaWorker 1: Processing SK Heidelberg
+21:08:08 OscovidaWorker 1: Processing ['Baden-Württemberg', 'SK Heidelberg'] attempt 0
+21:08:09 OscovidaWorker 7: Writing 733456 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Tuttlingen.html
+21:08:10 OscovidaWorker 7: Processing SK Ulm
+21:08:10 OscovidaWorker 7: Processing ['Baden-Württemberg', 'SK Ulm'] attempt 0
+21:08:10 OscovidaWorker 10: Writing 774464 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Zollernalbkreis.html
+21:08:10 OscovidaWorker 10: Processing LK Amberg-Sulzbach
+21:08:10 OscovidaWorker 10: Processing ['Bayern', 'LK Amberg-Sulzbach'] attempt 0
+21:08:11 OscovidaWorker 1: Executing notebook with kernel: python3
+21:08:11 OscovidaWorker 2: Writing 772275 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Rhein-Neckar-Kreis.html
+21:08:11 OscovidaWorker 2: Processing SK Heilbronn
+21:08:11 OscovidaWorker 2: Processing ['Baden-Württemberg', 'SK Heilbronn'] attempt 0
+21:08:11 OscovidaWorker 4: Writing 769682 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Schwarzwald-Baar-Kreis.html
+21:08:11 OscovidaWorker 4: Processing SK Mannheim
+21:08:11 OscovidaWorker 4: Processing ['Baden-Württemberg', 'SK Mannheim'] attempt 0
+21:08:11 OscovidaWorker 5: Writing 755758 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Schwäbisch-Hall.html
+21:08:11 OscovidaWorker 6: Writing 765646 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Stuttgart.html
+21:08:11 OscovidaWorker 5: Processing SK Pforzheim
+21:08:11 OscovidaWorker 5: Processing ['Baden-Württemberg', 'SK Pforzheim'] attempt 0
+21:08:11 OscovidaWorker 6: Processing LK Berchtesgadener Land
+21:08:11 OscovidaWorker 8: Writing 765874 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Tübingen.html
+21:08:11 OscovidaWorker 6: Processing ['Bayern', 'LK Berchtesgadener Land'] attempt 0
+21:08:11 OscovidaWorker 8: Processing LK Aichach-Friedberg
+21:08:11 OscovidaWorker 8: Processing ['Bayern', 'LK Aichach-Friedberg'] attempt 0
+21:08:12 OscovidaWorker 0: Writing 780770 bytes to ./wwwroot/html/Germany-Baden-Württemberg-LK-Rems-Murr-Kreis.html
+21:08:12 OscovidaWorker 0: Processing SK Freiburg i.Breisgau
+21:08:12 OscovidaWorker 0: Processing ['Baden-Württemberg', 'SK Freiburg i.Breisgau'] attempt 0
+21:08:13 OscovidaWorker 10: Executing notebook with kernel: python3
+21:08:14 OscovidaWorker 7: Executing notebook with kernel: python3
+21:08:14 OscovidaWorker 3: Writing 743939 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Karlsruhe.html
+21:08:14 OscovidaWorker 3: Processing LK Bad Tölz-Wolfratshausen
+21:08:14 OscovidaWorker 3: Processing ['Bayern', 'LK Bad Tölz-Wolfratshausen'] attempt 0
+21:08:15 OscovidaWorker 4: Executing notebook with kernel: python3
+21:08:16 OscovidaWorker 6: Executing notebook with kernel: python3
+21:08:16 OscovidaWorker 8: Executing notebook with kernel: python3
+21:08:16 OscovidaWorker 9: Writing 715545 bytes to ./wwwroot/html/Germany-Bayern-LK-Altötting.html
+21:08:16 OscovidaWorker 9: Processing LK Dachau
+21:08:16 OscovidaWorker 9: Processing ['Bayern', 'LK Dachau'] attempt 0
+21:08:16 OscovidaWorker 2: Executing notebook with kernel: python3
+21:08:16 OscovidaWorker 0: Executing notebook with kernel: python3
+21:08:16 OscovidaWorker 11: Writing 722459 bytes to ./wwwroot/html/Germany-Bayern-LK-Ansbach.html
+21:08:16 OscovidaWorker 11: Processing LK Dillingen a.d.Donau
+21:08:16 OscovidaWorker 11: Processing ['Bayern', 'LK Dillingen a.d.Donau'] attempt 0
+21:08:17 OscovidaWorker 3: Executing notebook with kernel: python3
+21:08:17 OscovidaWorker 5: Processing ['Baden-Württemberg', 'SK Pforzheim'] error <class 'RuntimeError'>, retrying 1
+21:08:18 OscovidaWorker 5: Processing ['Baden-Württemberg', 'SK Pforzheim'] attempt 1
+21:08:18 OscovidaWorker 9: Executing notebook with kernel: python3
+21:08:19 OscovidaWorker 11: Executing notebook with kernel: python3
+21:08:20 OscovidaWorker 5: Executing notebook with kernel: python3
+21:08:21 OscovidaWorker 1: Writing 738508 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Heidelberg.html
+21:08:21 OscovidaWorker 1: Processing LK Augsburg
+21:08:21 OscovidaWorker 1: Processing ['Bayern', 'LK Augsburg'] attempt 0
+21:08:22 OscovidaWorker 1: Executing notebook with kernel: python3
+21:08:23 OscovidaWorker 7: Writing 721349 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Ulm.html
+21:08:23 OscovidaWorker 7: Processing LK Cham
+21:08:23 OscovidaWorker 7: Processing ['Bayern', 'LK Cham'] attempt 0
+21:08:24 OscovidaWorker 10: Writing 745835 bytes to ./wwwroot/html/Germany-Bayern-LK-Amberg-Sulzbach.html
+21:08:24 OscovidaWorker 10: Processing LK Deggendorf
+21:08:24 OscovidaWorker 10: Processing ['Bayern', 'LK Deggendorf'] attempt 0
+21:08:25 OscovidaWorker 7: Executing notebook with kernel: python3
+21:08:26 OscovidaWorker 6: Writing 740855 bytes to ./wwwroot/html/Germany-Bayern-LK-Berchtesgadener-Land.html
+21:08:26 OscovidaWorker 6: Processing LK Forchheim
+21:08:26 OscovidaWorker 6: Processing ['Bayern', 'LK Forchheim'] attempt 0
+21:08:26 OscovidaWorker 3: Writing 743598 bytes to ./wwwroot/html/Germany-Bayern-LK-Bad-Tölz-Wolfratshausen.html
+21:08:26 OscovidaWorker 10: Executing notebook with kernel: python3
+21:08:26 OscovidaWorker 3: Processing LK Eichstätt
+21:08:26 OscovidaWorker 3: Processing ['Bayern', 'LK Eichstätt'] attempt 0
+21:08:26 OscovidaWorker 4: Writing 745895 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Mannheim.html
+21:08:26 OscovidaWorker 4: Processing LK Bamberg
+21:08:26 OscovidaWorker 4: Processing ['Bayern', 'LK Bamberg'] attempt 0
+21:08:27 OscovidaWorker 8: Writing 741665 bytes to ./wwwroot/html/Germany-Bayern-LK-Aichach-Friedberg.html
+21:08:27 OscovidaWorker 8: Processing LK Coburg
+21:08:27 OscovidaWorker 8: Processing ['Bayern', 'LK Coburg'] attempt 0
+21:08:28 OscovidaWorker 2: Writing 748948 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Heilbronn.html
+21:08:28 OscovidaWorker 2: Processing LK Bad Kissingen
+21:08:28 OscovidaWorker 2: Processing ['Bayern', 'LK Bad Kissingen'] attempt 0
+21:08:29 OscovidaWorker 0: Writing 768228 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Freiburg-i.Breisgau.html
+21:08:29 OscovidaWorker 0: Processing LK Aschaffenburg
+21:08:29 OscovidaWorker 0: Processing ['Bayern', 'LK Aschaffenburg'] attempt 0
+21:08:29 OscovidaWorker 3: Executing notebook with kernel: python3
+21:08:29 OscovidaWorker 6: Executing notebook with kernel: python3
+21:08:30 OscovidaWorker 4: Executing notebook with kernel: python3
+21:08:30 OscovidaWorker 9: Writing 736583 bytes to ./wwwroot/html/Germany-Bayern-LK-Dachau.html
+21:08:30 OscovidaWorker 11: Writing 719869 bytes to ./wwwroot/html/Germany-Bayern-LK-Dillingen-a.d.Donau.html
+21:08:30 OscovidaWorker 9: Processing LK Fürstenfeldbruck
+21:08:30 OscovidaWorker 9: Processing ['Bayern', 'LK Fürstenfeldbruck'] attempt 0
+21:08:30 OscovidaWorker 11: Processing LK Garmisch-Partenkirchen
+21:08:30 OscovidaWorker 11: Processing ['Bayern', 'LK Garmisch-Partenkirchen'] attempt 0
+21:08:31 OscovidaWorker 5: Writing 727928 bytes to ./wwwroot/html/Germany-Baden-Württemberg-SK-Pforzheim.html
+21:08:31 OscovidaWorker 5: Processing LK Bayreuth
+21:08:31 OscovidaWorker 5: Processing ['Bayern', 'LK Bayreuth'] attempt 0
+21:08:31 OscovidaWorker 2: Executing notebook with kernel: python3
+21:08:32 OscovidaWorker 8: Executing notebook with kernel: python3
+21:08:32 OscovidaWorker 1: Writing 717280 bytes to ./wwwroot/html/Germany-Bayern-LK-Augsburg.html
+21:08:32 OscovidaWorker 1: Processing LK Donau-Ries
+21:08:32 OscovidaWorker 1: Processing ['Bayern', 'LK Donau-Ries'] attempt 0
+21:08:33 OscovidaWorker 0: Executing notebook with kernel: python3
+21:08:34 OscovidaWorker 9: Executing notebook with kernel: python3
+21:08:35 OscovidaWorker 11: Executing notebook with kernel: python3
+21:08:35 OscovidaWorker 5: Executing notebook with kernel: python3
+21:08:35 OscovidaWorker 1: Executing notebook with kernel: python3
+21:08:35 OscovidaWorker 7: Writing 724402 bytes to ./wwwroot/html/Germany-Bayern-LK-Cham.html
+21:08:35 OscovidaWorker 7: Processing LK Freising
+21:08:35 OscovidaWorker 7: Processing ['Bayern', 'LK Freising'] attempt 0
+21:08:37 OscovidaWorker 10: Writing 709341 bytes to ./wwwroot/html/Germany-Bayern-LK-Deggendorf.html
+21:08:37 OscovidaWorker 10: Processing LK Fürth
+21:08:37 OscovidaWorker 10: Processing ['Bayern', 'LK Fürth'] attempt 0
+21:08:37 OscovidaWorker 7: Executing notebook with kernel: python3
+21:08:39 OscovidaWorker 10: Executing notebook with kernel: python3
+21:08:40 OscovidaWorker 6: Writing 697493 bytes to ./wwwroot/html/Germany-Bayern-LK-Forchheim.html
+21:08:40 OscovidaWorker 6: Processing LK Kulmbach
+21:08:40 OscovidaWorker 6: Processing ['Bayern', 'LK Kulmbach'] attempt 0
+21:08:40 OscovidaWorker 3: Writing 727021 bytes to ./wwwroot/html/Germany-Bayern-LK-Eichstätt.html
+21:08:40 OscovidaWorker 3: Processing LK Kelheim
+21:08:40 OscovidaWorker 3: Processing ['Bayern', 'LK Kelheim'] attempt 0
+21:08:41 OscovidaWorker 8: Writing 731351 bytes to ./wwwroot/html/Germany-Bayern-LK-Coburg.html
+21:08:41 OscovidaWorker 8: Processing LK Freyung-Grafenau
+21:08:41 OscovidaWorker 8: Processing ['Bayern', 'LK Freyung-Grafenau'] attempt 0
+21:08:41 OscovidaWorker 4: Writing 729393 bytes to ./wwwroot/html/Germany-Bayern-LK-Bamberg.html
+21:08:41 OscovidaWorker 4: Processing LK Erding
+21:08:41 OscovidaWorker 4: Processing ['Bayern', 'LK Erding'] attempt 0
+21:08:43 OscovidaWorker 2: Writing 736549 bytes to ./wwwroot/html/Germany-Bayern-LK-Bad-Kissingen.html
+21:08:43 OscovidaWorker 2: Processing LK Ebersberg
+21:08:43 OscovidaWorker 2: Processing ['Bayern', 'LK Ebersberg'] attempt 0
+21:08:43 OscovidaWorker 3: Executing notebook with kernel: python3
+21:08:43 OscovidaWorker 6: Executing notebook with kernel: python3
+21:08:44 OscovidaWorker 4: Executing notebook with kernel: python3
+21:08:44 OscovidaWorker 8: Executing notebook with kernel: python3
+21:08:44 OscovidaWorker 0: Writing 733086 bytes to ./wwwroot/html/Germany-Bayern-LK-Aschaffenburg.html
+21:08:44 OscovidaWorker 0: Processing LK Dingolfing-Landau
+21:08:44 OscovidaWorker 0: Processing ['Bayern', 'LK Dingolfing-Landau'] attempt 0
+21:08:44 OscovidaWorker 2: Executing notebook with kernel: python3
+21:08:44 OscovidaWorker 11: Writing 733391 bytes to ./wwwroot/html/Germany-Bayern-LK-Garmisch-Partenkirchen.html
+21:08:45 OscovidaWorker 11: Processing LK Main-Spessart
+21:08:45 OscovidaWorker 11: Processing ['Bayern', 'LK Main-Spessart'] attempt 0
+21:08:45 OscovidaWorker 9: Writing 749505 bytes to ./wwwroot/html/Germany-Bayern-LK-Fürstenfeldbruck.html
+21:08:45 OscovidaWorker 9: Processing LK Lichtenfels
+21:08:45 OscovidaWorker 9: Processing ['Bayern', 'LK Lichtenfels'] attempt 0
+21:08:45 OscovidaWorker 1: Writing 719153 bytes to ./wwwroot/html/Germany-Bayern-LK-Donau-Ries.html
+21:08:45 OscovidaWorker 1: Processing LK Haßberge
+21:08:45 OscovidaWorker 1: Processing ['Bayern', 'LK Haßberge'] attempt 0
+21:08:46 OscovidaWorker 5: Writing 720785 bytes to ./wwwroot/html/Germany-Bayern-LK-Bayreuth.html
+21:08:46 OscovidaWorker 5: Processing LK Erlangen-Höchstadt
+21:08:46 OscovidaWorker 5: Processing ['Bayern', 'LK Erlangen-Höchstadt'] attempt 0
+21:08:47 OscovidaWorker 0: Executing notebook with kernel: python3
+21:08:48 OscovidaWorker 7: Writing 714449 bytes to ./wwwroot/html/Germany-Bayern-LK-Freising.html
+21:08:48 OscovidaWorker 7: Processing LK Landsberg a.Lech
+21:08:48 OscovidaWorker 7: Processing ['Bayern', 'LK Landsberg a.Lech'] attempt 0
+21:08:48 OscovidaWorker 11: Executing notebook with kernel: python3
+21:08:48 OscovidaWorker 1: Executing notebook with kernel: python3
+21:08:49 OscovidaWorker 10: Writing 725046 bytes to ./wwwroot/html/Germany-Bayern-LK-Fürth.html
+21:08:49 OscovidaWorker 10: Processing LK Lindau
+21:08:49 OscovidaWorker 10: Processing ['Bayern', 'LK Lindau'] attempt 0
+21:08:49 OscovidaWorker 9: Executing notebook with kernel: python3
+21:08:49 OscovidaWorker 5: Executing notebook with kernel: python3
+21:08:50 OscovidaWorker 7: Executing notebook with kernel: python3
+21:08:51 OscovidaWorker 10: Executing notebook with kernel: python3
+21:08:53 OscovidaWorker 4: Writing 719119 bytes to ./wwwroot/html/Germany-Bayern-LK-Erding.html
+21:08:53 OscovidaWorker 4: Processing LK Kitzingen
+21:08:53 OscovidaWorker 4: Processing ['Bayern', 'LK Kitzingen'] attempt 0
+21:08:54 OscovidaWorker 3: Writing 726936 bytes to ./wwwroot/html/Germany-Bayern-LK-Kelheim.html
+21:08:54 OscovidaWorker 3: Processing LK München
+21:08:54 OscovidaWorker 3: Processing ['Bayern', 'LK München'] attempt 0
+21:08:54 OscovidaWorker 6: Writing 699531 bytes to ./wwwroot/html/Germany-Bayern-LK-Kulmbach.html
+21:08:54 OscovidaWorker 6: Processing LK Neumarkt i.d.OPf.
+21:08:54 OscovidaWorker 6: Processing ['Bayern', 'LK Neumarkt i.d.OPf.'] attempt 0
+21:08:55 OscovidaWorker 8: Writing 709101 bytes to ./wwwroot/html/Germany-Bayern-LK-Freyung-Grafenau.html
+21:08:55 OscovidaWorker 8: Processing LK Landshut
+21:08:55 OscovidaWorker 8: Processing ['Bayern', 'LK Landshut'] attempt 0
+21:08:55 OscovidaWorker 2: Writing 736504 bytes to ./wwwroot/html/Germany-Bayern-LK-Ebersberg.html
+21:08:55 OscovidaWorker 2: Processing LK Hof
+21:08:55 OscovidaWorker 2: Processing ['Bayern', 'LK Hof'] attempt 0
+21:08:56 OscovidaWorker 4: Executing notebook with kernel: python3
+21:08:57 OscovidaWorker 0: Writing 725207 bytes to ./wwwroot/html/Germany-Bayern-LK-Dingolfing-Landau.html
+21:08:57 OscovidaWorker 0: Processing LK Günzburg
+21:08:57 OscovidaWorker 0: Processing ['Bayern', 'LK Günzburg'] attempt 0
+21:08:57 OscovidaWorker 3: Executing notebook with kernel: python3
+21:08:58 OscovidaWorker 6: Executing notebook with kernel: python3
+21:08:58 OscovidaWorker 8: Executing notebook with kernel: python3
+21:08:58 OscovidaWorker 2: Executing notebook with kernel: python3
+21:08:58 OscovidaWorker 11: Writing 703131 bytes to ./wwwroot/html/Germany-Bayern-LK-Main-Spessart.html
+21:08:58 OscovidaWorker 11: Processing LK Ostallgäu
+21:08:58 OscovidaWorker 11: Processing ['Bayern', 'LK Ostallgäu'] attempt 0
+21:08:59 OscovidaWorker 1: Writing 700848 bytes to ./wwwroot/html/Germany-Bayern-LK-Haßberge.html
+21:08:59 OscovidaWorker 1: Processing LK Miltenberg
+21:08:59 OscovidaWorker 1: Processing ['Bayern', 'LK Miltenberg'] attempt 0
+21:08:59 OscovidaWorker 0: Executing notebook with kernel: python3
+21:08:59 OscovidaWorker 9: Writing 722230 bytes to ./wwwroot/html/Germany-Bayern-LK-Lichtenfels.html
+21:08:59 OscovidaWorker 9: Processing LK Nürnberger Land
+21:08:59 OscovidaWorker 9: Processing ['Bayern', 'LK Nürnberger Land'] attempt 0
+21:09:00 OscovidaWorker 5: Writing 728368 bytes to ./wwwroot/html/Germany-Bayern-LK-Erlangen-Höchstadt.html
+21:09:00 OscovidaWorker 5: Processing LK Kronach
+21:09:00 OscovidaWorker 5: Processing ['Bayern', 'LK Kronach'] attempt 0
+21:09:01 OscovidaWorker 10: Writing 689266 bytes to ./wwwroot/html/Germany-Bayern-LK-Lindau.html
+21:09:01 OscovidaWorker 10: Processing LK Oberallgäu
+21:09:01 OscovidaWorker 10: Processing ['Bayern', 'LK Oberallgäu'] attempt 0
+21:09:01 OscovidaWorker 11: Executing notebook with kernel: python3
+21:09:01 OscovidaWorker 7: Writing 712077 bytes to ./wwwroot/html/Germany-Bayern-LK-Landsberg-a.Lech.html
+21:09:01 OscovidaWorker 7: Processing LK Neustadt a.d.Aisch-Bad Windsheim
+21:09:01 OscovidaWorker 7: Processing ['Bayern', 'LK Neustadt a.d.Aisch-Bad Windsheim'] attempt 0
+21:09:02 OscovidaWorker 1: Executing notebook with kernel: python3
+21:09:03 OscovidaWorker 9: Executing notebook with kernel: python3
+21:09:03 OscovidaWorker 5: Executing notebook with kernel: python3
+21:09:04 OscovidaWorker 10: Executing notebook with kernel: python3
+21:09:04 OscovidaWorker 7: Executing notebook with kernel: python3
+21:09:07 OscovidaWorker 4: Writing 699251 bytes to ./wwwroot/html/Germany-Bayern-LK-Kitzingen.html
+21:09:08 OscovidaWorker 4: Processing LK Neu-Ulm
+21:09:08 OscovidaWorker 4: Processing ['Bayern', 'LK Neu-Ulm'] attempt 0
+21:09:08 OscovidaWorker 6: Writing 728276 bytes to ./wwwroot/html/Germany-Bayern-LK-Neumarkt-i.d.OPf..html
+21:09:08 OscovidaWorker 6: Processing LK Roth
+21:09:08 OscovidaWorker 6: Processing ['Bayern', 'LK Roth'] attempt 0
+21:09:08 OscovidaWorker 3: Writing 753976 bytes to ./wwwroot/html/Germany-Bayern-LK-München.html
+21:09:08 OscovidaWorker 3: Processing LK Regensburg
+21:09:08 OscovidaWorker 3: Processing ['Bayern', 'LK Regensburg'] attempt 0
+21:09:09 OscovidaWorker 0: Writing 699274 bytes to ./wwwroot/html/Germany-Bayern-LK-Günzburg.html
+21:09:09 OscovidaWorker 8: Writing 732680 bytes to ./wwwroot/html/Germany-Bayern-LK-Landshut.html
+21:09:09 OscovidaWorker 0: Processing LK Miesbach
+21:09:09 OscovidaWorker 0: Processing ['Bayern', 'LK Miesbach'] attempt 0
+21:09:09 OscovidaWorker 8: Processing LK Neustadt a.d.Waldnaab
+21:09:09 OscovidaWorker 8: Processing ['Bayern', 'LK Neustadt a.d.Waldnaab'] attempt 0
+21:09:09 OscovidaWorker 2: Writing 724161 bytes to ./wwwroot/html/Germany-Bayern-LK-Hof.html
+21:09:09 OscovidaWorker 2: Processing LK Mühldorf a.Inn
+21:09:09 OscovidaWorker 2: Processing ['Bayern', 'LK Mühldorf a.Inn'] attempt 0
+21:09:11 OscovidaWorker 4: Executing notebook with kernel: python3
+21:09:11 OscovidaWorker 6: Executing notebook with kernel: python3
+21:09:12 OscovidaWorker 3: Executing notebook with kernel: python3
+21:09:12 OscovidaWorker 1: Writing 718666 bytes to ./wwwroot/html/Germany-Bayern-LK-Miltenberg.html
+21:09:12 OscovidaWorker 1: Processing LK Pfaffenhofen a.d.Ilm
+21:09:12 OscovidaWorker 1: Processing ['Bayern', 'LK Pfaffenhofen a.d.Ilm'] attempt 0
+21:09:12 OscovidaWorker 2: Executing notebook with kernel: python3
+21:09:12 OscovidaWorker 11: Writing 741057 bytes to ./wwwroot/html/Germany-Bayern-LK-Ostallgäu.html
+21:09:12 OscovidaWorker 11: Processing LK Straubing-Bogen
+21:09:12 OscovidaWorker 11: Processing ['Bayern', 'LK Straubing-Bogen'] attempt 0
+21:09:13 OscovidaWorker 5: Writing 700654 bytes to ./wwwroot/html/Germany-Bayern-LK-Kronach.html
+21:09:13 OscovidaWorker 5: Processing LK Neuburg-Schrobenhausen
+21:09:13 OscovidaWorker 5: Processing ['Bayern', 'LK Neuburg-Schrobenhausen'] attempt 0
+21:09:13 OscovidaWorker 8: Executing notebook with kernel: python3
+21:09:13 OscovidaWorker 0: Executing notebook with kernel: python3
+21:09:14 OscovidaWorker 9: Writing 737931 bytes to ./wwwroot/html/Germany-Bayern-LK-Nürnberger-Land.html
+21:09:14 OscovidaWorker 9: Processing LK Schweinfurt
+21:09:14 OscovidaWorker 9: Processing ['Bayern', 'LK Schweinfurt'] attempt 0
+21:09:14 OscovidaWorker 10: Writing 719346 bytes to ./wwwroot/html/Germany-Bayern-LK-Oberallgäu.html
+21:09:14 OscovidaWorker 10: Processing LK Starnberg
+21:09:14 OscovidaWorker 10: Processing ['Bayern', 'LK Starnberg'] attempt 0
+21:09:15 OscovidaWorker 7: Writing 731958 bytes to ./wwwroot/html/Germany-Bayern-LK-Neustadt-a.d.Aisch-Bad-Windsheim.html
+21:09:15 OscovidaWorker 7: Processing LK Rottal-Inn
+21:09:15 OscovidaWorker 7: Processing ['Bayern', 'LK Rottal-Inn'] attempt 0
+21:09:16 OscovidaWorker 1: Executing notebook with kernel: python3
+21:09:16 OscovidaWorker 11: Executing notebook with kernel: python3
+21:09:17 OscovidaWorker 5: Executing notebook with kernel: python3
+21:09:17 OscovidaWorker 9: Executing notebook with kernel: python3
+21:09:17 OscovidaWorker 10: Executing notebook with kernel: python3
+21:09:18 OscovidaWorker 7: Executing notebook with kernel: python3
+21:09:21 OscovidaWorker 4: Writing 742298 bytes to ./wwwroot/html/Germany-Bayern-LK-Neu-Ulm.html
+21:09:21 OscovidaWorker 4: Processing LK Rhön-Grabfeld
+21:09:21 OscovidaWorker 4: Processing ['Bayern', 'LK Rhön-Grabfeld'] attempt 0
+21:09:23 OscovidaWorker 6: Writing 711030 bytes to ./wwwroot/html/Germany-Bayern-LK-Roth.html
+21:09:23 OscovidaWorker 6: Processing LK Würzburg
+21:09:23 OscovidaWorker 4: Executing notebook with kernel: python3
+21:09:23 OscovidaWorker 6: Processing ['Bayern', 'LK Würzburg'] attempt 0
+21:09:23 OscovidaWorker 2: Writing 718277 bytes to ./wwwroot/html/Germany-Bayern-LK-Mühldorf-a.Inn.html
+21:09:23 OscovidaWorker 2: Processing LK Regen
+21:09:23 OscovidaWorker 2: Processing ['Bayern', 'LK Regen'] attempt 0
+21:09:23 OscovidaWorker 3: Writing 734623 bytes to ./wwwroot/html/Germany-Bayern-LK-Regensburg.html
+21:09:23 OscovidaWorker 3: Processing LK Weilheim-Schongau
+21:09:23 OscovidaWorker 3: Processing ['Bayern', 'LK Weilheim-Schongau'] attempt 0
+21:09:23 OscovidaWorker 8: Writing 754250 bytes to ./wwwroot/html/Germany-Bayern-LK-Neustadt-a.d.Waldnaab.html
+21:09:23 OscovidaWorker 8: Processing LK Schwandorf
+21:09:23 OscovidaWorker 8: Processing ['Bayern', 'LK Schwandorf'] attempt 0
+21:09:24 OscovidaWorker 0: Writing 735587 bytes to ./wwwroot/html/Germany-Bayern-LK-Miesbach.html
+21:09:24 OscovidaWorker 0: Processing LK Passau
+21:09:24 OscovidaWorker 0: Processing ['Bayern', 'LK Passau'] attempt 0
+21:09:26 OscovidaWorker 2: Executing notebook with kernel: python3
+21:09:26 OscovidaWorker 5: Writing 732138 bytes to ./wwwroot/html/Germany-Bayern-LK-Neuburg-Schrobenhausen.html
+21:09:26 OscovidaWorker 11: Writing 736276 bytes to ./wwwroot/html/Germany-Bayern-LK-Straubing-Bogen.html
+21:09:26 OscovidaWorker 5: Processing LK Rosenheim
+21:09:26 OscovidaWorker 5: Processing ['Bayern', 'LK Rosenheim'] attempt 0
+21:09:26 OscovidaWorker 11: Processing SK Bamberg
+21:09:26 OscovidaWorker 11: Processing ['Bayern', 'SK Bamberg'] attempt 0
+21:09:26 OscovidaWorker 6: Executing notebook with kernel: python3
+21:09:26 OscovidaWorker 8: Executing notebook with kernel: python3
+21:09:27 OscovidaWorker 3: Executing notebook with kernel: python3
+21:09:27 OscovidaWorker 1: Writing 743827 bytes to ./wwwroot/html/Germany-Bayern-LK-Pfaffenhofen-a.d.Ilm.html
+21:09:27 OscovidaWorker 1: Processing LK Traunstein
+21:09:27 OscovidaWorker 1: Processing ['Bayern', 'LK Traunstein'] attempt 0
+21:09:28 OscovidaWorker 7: Writing 725628 bytes to ./wwwroot/html/Germany-Bayern-LK-Rottal-Inn.html
+21:09:28 OscovidaWorker 7: Processing SK Amberg
+21:09:28 OscovidaWorker 7: Processing ['Bayern', 'SK Amberg'] attempt 0
+21:09:28 OscovidaWorker 9: Writing 737977 bytes to ./wwwroot/html/Germany-Bayern-LK-Schweinfurt.html
+21:09:28 OscovidaWorker 9: Processing SK Aschaffenburg
+21:09:28 OscovidaWorker 9: Processing ['Bayern', 'SK Aschaffenburg'] attempt 0
+21:09:28 OscovidaWorker 10: Writing 722090 bytes to ./wwwroot/html/Germany-Bayern-LK-Starnberg.html
+21:09:28 OscovidaWorker 10: Processing SK Augsburg
+21:09:28 OscovidaWorker 10: Processing ['Bayern', 'SK Augsburg'] attempt 0
+21:09:29 OscovidaWorker 0: Executing notebook with kernel: python3
+21:09:30 OscovidaWorker 5: Executing notebook with kernel: python3
+21:09:30 OscovidaWorker 11: Executing notebook with kernel: python3
+21:09:30 OscovidaWorker 1: Executing notebook with kernel: python3
+21:09:32 OscovidaWorker 7: Executing notebook with kernel: python3
+21:09:32 OscovidaWorker 10: Executing notebook with kernel: python3
+21:09:32 OscovidaWorker 9: Executing notebook with kernel: python3
+21:09:32 OscovidaWorker 4: Writing 711380 bytes to ./wwwroot/html/Germany-Bayern-LK-Rhön-Grabfeld.html
+21:09:32 OscovidaWorker 4: Processing LK Weißenburg-Gunzenhausen
+21:09:32 OscovidaWorker 4: Processing ['Bayern', 'LK Weißenburg-Gunzenhausen'] attempt 0
+21:09:34 OscovidaWorker 4: Executing notebook with kernel: python3
+21:09:37 OscovidaWorker 6: Writing 720347 bytes to ./wwwroot/html/Germany-Bayern-LK-Würzburg.html
+21:09:37 OscovidaWorker 6: Processing SK Kaufbeuren
+21:09:37 OscovidaWorker 6: Processing ['Bayern', 'SK Kaufbeuren'] attempt 0
+21:09:37 OscovidaWorker 8: Writing 726902 bytes to ./wwwroot/html/Germany-Bayern-LK-Schwandorf.html
+21:09:37 OscovidaWorker 8: Processing SK Ansbach
+21:09:37 OscovidaWorker 8: Processing ['Bayern', 'SK Ansbach'] attempt 0
+21:09:37 OscovidaWorker 2: Writing 703052 bytes to ./wwwroot/html/Germany-Bayern-LK-Regen.html
+21:09:37 OscovidaWorker 2: Processing LK Unterallgäu
+21:09:37 OscovidaWorker 2: Processing ['Bayern', 'LK Unterallgäu'] attempt 0
+21:09:38 OscovidaWorker 3: Writing 724140 bytes to ./wwwroot/html/Germany-Bayern-LK-Weilheim-Schongau.html
+21:09:38 OscovidaWorker 3: Processing SK Fürth
+21:09:38 OscovidaWorker 3: Processing ['Bayern', 'SK Fürth'] attempt 0
+21:09:39 OscovidaWorker 0: Writing 748181 bytes to ./wwwroot/html/Germany-Bayern-LK-Passau.html
+21:09:39 OscovidaWorker 0: Processing LK Tirschenreuth
+21:09:39 OscovidaWorker 0: Processing ['Bayern', 'LK Tirschenreuth'] attempt 0
+21:09:40 OscovidaWorker 5: Writing 772576 bytes to ./wwwroot/html/Germany-Bayern-LK-Rosenheim.html
+21:09:40 OscovidaWorker 5: Processing LK Wunsiedel i.Fichtelgebirge
+21:09:40 OscovidaWorker 5: Processing ['Bayern', 'LK Wunsiedel i.Fichtelgebirge'] attempt 0
+21:09:41 OscovidaWorker 11: Writing 711711 bytes to ./wwwroot/html/Germany-Bayern-SK-Bamberg.html
+21:09:41 OscovidaWorker 11: Processing SK Nürnberg
+21:09:41 OscovidaWorker 11: Processing ['Bayern', 'SK Nürnberg'] attempt 0
+21:09:41 OscovidaWorker 8: Executing notebook with kernel: python3
+21:09:41 OscovidaWorker 6: Executing notebook with kernel: python3
+21:09:41 OscovidaWorker 1: Writing 748030 bytes to ./wwwroot/html/Germany-Bayern-LK-Traunstein.html
+21:09:41 OscovidaWorker 1: Processing SK Coburg
+21:09:41 OscovidaWorker 1: Processing ['Bayern', 'SK Coburg'] attempt 0
+21:09:42 OscovidaWorker 9: Writing 695073 bytes to ./wwwroot/html/Germany-Bayern-SK-Aschaffenburg.html
+21:09:42 OscovidaWorker 9: Processing SK Memmingen
+21:09:42 OscovidaWorker 9: Processing ['Bayern', 'SK Memmingen'] attempt 0
+21:09:42 OscovidaWorker 2: Executing notebook with kernel: python3
+21:09:42 OscovidaWorker 3: Executing notebook with kernel: python3
+21:09:42 OscovidaWorker 10: Writing 744670 bytes to ./wwwroot/html/Germany-Bayern-SK-Augsburg.html
+21:09:42 OscovidaWorker 10: Processing SK München
+21:09:42 OscovidaWorker 10: Processing ['Bayern', 'SK München'] attempt 0
+21:09:42 OscovidaWorker 7: Writing 689110 bytes to ./wwwroot/html/Germany-Bayern-SK-Amberg.html
+21:09:42 OscovidaWorker 7: Processing SK Kempten
+21:09:42 OscovidaWorker 7: Processing ['Bayern', 'SK Kempten'] attempt 0
+21:09:44 OscovidaWorker 4: Writing 744769 bytes to ./wwwroot/html/Germany-Bayern-LK-Weißenburg-Gunzenhausen.html
+21:09:44 OscovidaWorker 4: Processing SK Hof
+21:09:44 OscovidaWorker 4: Processing ['Bayern', 'SK Hof'] attempt 0
+21:09:44 OscovidaWorker 0: Executing notebook with kernel: python3
+21:09:44 OscovidaWorker 5: Executing notebook with kernel: python3
+21:09:45 OscovidaWorker 9: Executing notebook with kernel: python3
+21:09:46 OscovidaWorker 11: Executing notebook with kernel: python3
+21:09:46 OscovidaWorker 1: Executing notebook with kernel: python3
+21:09:46 OscovidaWorker 10: Executing notebook with kernel: python3
+21:09:47 OscovidaWorker 7: Executing notebook with kernel: python3
+21:09:47 OscovidaWorker 4: Executing notebook with kernel: python3
+21:09:50 OscovidaWorker 8: Writing 698204 bytes to ./wwwroot/html/Germany-Bayern-SK-Ansbach.html
+21:09:50 OscovidaWorker 8: Processing SK Landshut
+21:09:50 OscovidaWorker 8: Processing ['Bayern', 'SK Landshut'] attempt 0
+21:09:51 OscovidaWorker 3: Writing 734155 bytes to ./wwwroot/html/Germany-Bayern-SK-Fürth.html
+21:09:51 OscovidaWorker 3: Processing SK Schwabach
+21:09:51 OscovidaWorker 3: Processing ['Bayern', 'SK Schwabach'] attempt 0
+21:09:52 OscovidaWorker 6: Writing 689377 bytes to ./wwwroot/html/Germany-Bayern-SK-Kaufbeuren.html
+21:09:52 OscovidaWorker 6: Processing SK Weiden i.d.OPf.
+21:09:52 OscovidaWorker 6: Processing ['Bayern', 'SK Weiden i.d.OPf.'] attempt 0
+21:09:52 OscovidaWorker 8: Executing notebook with kernel: python3
+21:09:52 OscovidaWorker 2: Writing 714659 bytes to ./wwwroot/html/Germany-Bayern-LK-Unterallgäu.html
+21:09:52 OscovidaWorker 2: Processing SK Erlangen
+21:09:52 OscovidaWorker 2: Processing ['Bayern', 'SK Erlangen'] attempt 0
+21:09:54 OscovidaWorker 3: Executing notebook with kernel: python3
+21:09:54 OscovidaWorker 0: Writing 746249 bytes to ./wwwroot/html/Germany-Bayern-LK-Tirschenreuth.html
+21:09:54 OscovidaWorker 0: Processing SK Bayreuth
+21:09:54 OscovidaWorker 0: Processing ['Bayern', 'SK Bayreuth'] attempt 0
+21:09:55 OscovidaWorker 6: Executing notebook with kernel: python3
+21:09:55 OscovidaWorker 2: Executing notebook with kernel: python3
+21:09:56 OscovidaWorker 9: Writing 663688 bytes to ./wwwroot/html/Germany-Bayern-SK-Memmingen.html
+21:09:56 OscovidaWorker 9: Processing SK Berlin Friedrichshain-Kreuzberg
+21:09:56 OscovidaWorker 9: Processing ['Berlin', 'SK Berlin Friedrichshain-Kreuzberg'] attempt 0
+21:09:56 OscovidaWorker 10: Writing 762204 bytes to ./wwwroot/html/Germany-Bayern-SK-München.html
+21:09:56 OscovidaWorker 10: Processing SK Berlin Lichtenberg
+21:09:56 OscovidaWorker 10: Processing ['Berlin', 'SK Berlin Lichtenberg'] attempt 0
+21:09:56 OscovidaWorker 0: Executing notebook with kernel: python3
+21:09:56 OscovidaWorker 5: Writing 750255 bytes to ./wwwroot/html/Germany-Bayern-LK-Wunsiedel-i.Fichtelgebirge.html
+21:09:57 OscovidaWorker 5: Processing SK Ingolstadt
+21:09:57 OscovidaWorker 5: Processing ['Bayern', 'SK Ingolstadt'] attempt 0
+21:09:57 OscovidaWorker 7: Writing 699011 bytes to ./wwwroot/html/Germany-Bayern-SK-Kempten.html
+21:09:58 OscovidaWorker 7: Processing SK Würzburg
+21:09:58 OscovidaWorker 7: Processing ['Bayern', 'SK Würzburg'] attempt 0
+21:09:58 OscovidaWorker 1: Writing 694740 bytes to ./wwwroot/html/Germany-Bayern-SK-Coburg.html
+21:09:58 OscovidaWorker 1: Processing SK Regensburg
+21:09:58 OscovidaWorker 1: Processing ['Bayern', 'SK Regensburg'] attempt 0
+21:09:58 OscovidaWorker 11: Writing 758977 bytes to ./wwwroot/html/Germany-Bayern-SK-Nürnberg.html
+21:09:58 OscovidaWorker 11: Processing SK Berlin Marzahn-Hellersdorf
+21:09:58 OscovidaWorker 11: Processing ['Berlin', 'SK Berlin Marzahn-Hellersdorf'] attempt 0
+21:09:58 OscovidaWorker 4: Writing 699216 bytes to ./wwwroot/html/Germany-Bayern-SK-Hof.html
+21:09:58 OscovidaWorker 4: Processing SK Schweinfurt
+21:09:58 OscovidaWorker 4: Processing ['Bayern', 'SK Schweinfurt'] attempt 0
+21:10:00 OscovidaWorker 10: Executing notebook with kernel: python3
+21:10:00 OscovidaWorker 5: Executing notebook with kernel: python3
+21:10:00 OscovidaWorker 9: Executing notebook with kernel: python3
+21:10:01 OscovidaWorker 8: Writing 706986 bytes to ./wwwroot/html/Germany-Bayern-SK-Landshut.html
+21:10:01 OscovidaWorker 8: Processing SK Berlin Charlottenburg-Wilmersdorf
+21:10:01 OscovidaWorker 8: Processing ['Berlin', 'SK Berlin Charlottenburg-Wilmersdorf'] attempt 0
+21:10:01 OscovidaWorker 11: Executing notebook with kernel: python3
+21:10:02 OscovidaWorker 1: Executing notebook with kernel: python3
+21:10:02 OscovidaWorker 7: Executing notebook with kernel: python3
+21:10:02 OscovidaWorker 4: Executing notebook with kernel: python3
+21:10:03 OscovidaWorker 8: Executing notebook with kernel: python3
+21:10:04 OscovidaWorker 3: Writing 696070 bytes to ./wwwroot/html/Germany-Bayern-SK-Schwabach.html
+21:10:04 OscovidaWorker 3: Processing SK Berlin Reinickendorf
+21:10:04 OscovidaWorker 3: Processing ['Berlin', 'SK Berlin Reinickendorf'] attempt 0
+21:10:04 OscovidaWorker 6: Writing 747587 bytes to ./wwwroot/html/Germany-Bayern-SK-Weiden-i.d.OPf..html
+21:10:05 OscovidaWorker 6: Processing SK Berlin Tempelhof-Schöneberg
+21:10:05 OscovidaWorker 6: Processing ['Berlin', 'SK Berlin Tempelhof-Schöneberg'] attempt 0
+21:10:05 OscovidaWorker 2: Writing 736141 bytes to ./wwwroot/html/Germany-Bayern-SK-Erlangen.html
+21:10:05 OscovidaWorker 2: Processing SK Rosenheim
+21:10:05 OscovidaWorker 2: Processing ['Bayern', 'SK Rosenheim'] attempt 0
+21:10:06 OscovidaWorker 3: Executing notebook with kernel: python3
+21:10:06 OscovidaWorker 0: Writing 694272 bytes to ./wwwroot/html/Germany-Bayern-SK-Bayreuth.html
+21:10:06 OscovidaWorker 0: Processing SK Passau
+21:10:06 OscovidaWorker 0: Processing ['Bayern', 'SK Passau'] attempt 0
+21:10:08 OscovidaWorker 2: Executing notebook with kernel: python3
+21:10:08 OscovidaWorker 6: Executing notebook with kernel: python3
+21:10:08 OscovidaWorker 0: Executing notebook with kernel: python3
+21:10:11 OscovidaWorker 10: Writing 743318 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Lichtenberg.html
+21:10:11 OscovidaWorker 10: Processing LK Elbe-Elster
+21:10:11 OscovidaWorker 10: Processing ['Brandenburg', 'LK Elbe-Elster'] attempt 0
+21:10:12 OscovidaWorker 4: Writing 696171 bytes to ./wwwroot/html/Germany-Bayern-SK-Schweinfurt.html
+21:10:12 OscovidaWorker 4: Processing SK Berlin Spandau
+21:10:12 OscovidaWorker 4: Processing ['Berlin', 'SK Berlin Spandau'] attempt 0
+21:10:12 OscovidaWorker 5: Writing 748580 bytes to ./wwwroot/html/Germany-Bayern-SK-Ingolstadt.html
+21:10:12 OscovidaWorker 5: Processing SK Straubing
+21:10:12 OscovidaWorker 5: Processing ['Bayern', 'SK Straubing'] attempt 0
+21:10:13 OscovidaWorker 9: Writing 772480 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Friedrichshain-Kreuzberg.html
+21:10:13 OscovidaWorker 9: Processing LK Dahme-Spreewald
+21:10:13 OscovidaWorker 9: Processing ['Brandenburg', 'LK Dahme-Spreewald'] attempt 0
+21:10:13 OscovidaWorker 7: Writing 743538 bytes to ./wwwroot/html/Germany-Bayern-SK-Würzburg.html
+21:10:13 OscovidaWorker 7: Processing SK Berlin Treptow-Köpenick
+21:10:13 OscovidaWorker 7: Processing ['Berlin', 'SK Berlin Treptow-Köpenick'] attempt 0
+21:10:13 OscovidaWorker 11: Writing 756805 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Marzahn-Hellersdorf.html
+21:10:13 OscovidaWorker 11: Processing LK Havelland
+21:10:13 OscovidaWorker 11: Processing ['Brandenburg', 'LK Havelland'] attempt 0
+21:10:13 OscovidaWorker 1: Writing 732450 bytes to ./wwwroot/html/Germany-Bayern-SK-Regensburg.html
+21:10:13 OscovidaWorker 1: Processing SK Berlin Neukölln
+21:10:13 OscovidaWorker 1: Processing ['Berlin', 'SK Berlin Neukölln'] attempt 0
+21:10:14 OscovidaWorker 8: Writing 785734 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Charlottenburg-Wilmersdorf.html
+21:10:14 OscovidaWorker 8: Processing LK Barnim
+21:10:14 OscovidaWorker 8: Processing ['Brandenburg', 'LK Barnim'] attempt 0
+21:10:14 OscovidaWorker 10: Executing notebook with kernel: python3
+21:10:16 OscovidaWorker 3: Writing 767980 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Reinickendorf.html
+21:10:16 OscovidaWorker 3: Processing LK Oder-Spree
+21:10:16 OscovidaWorker 3: Processing ['Brandenburg', 'LK Oder-Spree'] attempt 0
+21:10:16 OscovidaWorker 4: Executing notebook with kernel: python3
+21:10:17 OscovidaWorker 6: Writing 781791 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Tempelhof-Schöneberg.html
+21:10:17 OscovidaWorker 9: Executing notebook with kernel: python3
+21:10:17 OscovidaWorker 6: Processing LK Prignitz
+21:10:17 OscovidaWorker 6: Processing ['Brandenburg', 'LK Prignitz'] attempt 0
+21:10:17 OscovidaWorker 5: Executing notebook with kernel: python3
+21:10:17 OscovidaWorker 7: Executing notebook with kernel: python3
+21:10:18 OscovidaWorker 2: Writing 735832 bytes to ./wwwroot/html/Germany-Bayern-SK-Rosenheim.html
+21:10:18 OscovidaWorker 8: Executing notebook with kernel: python3
+21:10:18 OscovidaWorker 0: Writing 704211 bytes to ./wwwroot/html/Germany-Bayern-SK-Passau.html
+21:10:18 OscovidaWorker 2: Processing SK Berlin Pankow
+21:10:18 OscovidaWorker 2: Processing ['Berlin', 'SK Berlin Pankow'] attempt 0
+21:10:18 OscovidaWorker 0: Processing SK Berlin Mitte
+21:10:18 OscovidaWorker 0: Processing ['Berlin', 'SK Berlin Mitte'] attempt 0
+21:10:18 OscovidaWorker 1: Executing notebook with kernel: python3
+21:10:18 OscovidaWorker 11: Executing notebook with kernel: python3
+21:10:20 OscovidaWorker 3: Executing notebook with kernel: python3
+21:10:20 OscovidaWorker 6: Executing notebook with kernel: python3
+21:10:21 OscovidaWorker 2: Executing notebook with kernel: python3
+21:10:21 OscovidaWorker 0: Executing notebook with kernel: python3
+21:10:24 OscovidaWorker 10: Writing 690035 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Elbe-Elster.html
+21:10:24 OscovidaWorker 10: Processing SK Brandenburg a.d.Havel
+21:10:24 OscovidaWorker 10: Processing ['Brandenburg', 'SK Brandenburg a.d.Havel'] attempt 0
+21:10:25 OscovidaWorker 10: Executing notebook with kernel: python3
+21:10:26 OscovidaWorker 4: Writing 735820 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Spandau.html
+21:10:26 OscovidaWorker 4: Processing LK Ostprignitz-Ruppin
+21:10:26 OscovidaWorker 4: Processing ['Brandenburg', 'LK Ostprignitz-Ruppin'] attempt 0
+21:10:28 OscovidaWorker 4: Executing notebook with kernel: python3
+21:10:28 OscovidaWorker 9: Writing 718902 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Dahme-Spreewald.html
+21:10:28 OscovidaWorker 9: Processing LK Uckermark
+21:10:28 OscovidaWorker 9: Processing ['Brandenburg', 'LK Uckermark'] attempt 0
+21:10:29 OscovidaWorker 5: Writing 736158 bytes to ./wwwroot/html/Germany-Bayern-SK-Straubing.html
+21:10:29 OscovidaWorker 5: Processing SK Berlin Steglitz-Zehlendorf
+21:10:29 OscovidaWorker 5: Processing ['Berlin', 'SK Berlin Steglitz-Zehlendorf'] attempt 0
+21:10:29 OscovidaWorker 7: Writing 747866 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Treptow-Köpenick.html
+21:10:29 OscovidaWorker 7: Processing LK Spree-Neiße
+21:10:29 OscovidaWorker 7: Processing ['Brandenburg', 'LK Spree-Neiße'] attempt 0
+21:10:30 OscovidaWorker 8: Writing 724048 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Barnim.html
+21:10:30 OscovidaWorker 8: Processing LK Teltow-Fläming
+21:10:30 OscovidaWorker 8: Processing ['Brandenburg', 'LK Teltow-Fläming'] attempt 0
+21:10:30 OscovidaWorker 11: Writing 720849 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Havelland.html
+21:10:30 OscovidaWorker 11: Processing SK Cottbus
+21:10:30 OscovidaWorker 11: Processing ['Brandenburg', 'SK Cottbus'] attempt 0
+21:10:30 OscovidaWorker 1: Writing 778540 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Neukölln.html
+21:10:30 OscovidaWorker 1: Processing LK Oberhavel
+21:10:30 OscovidaWorker 1: Processing ['Brandenburg', 'LK Oberhavel'] attempt 0
+21:10:31 OscovidaWorker 2: Writing 768455 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Pankow.html
+21:10:31 OscovidaWorker 2: Processing LK Oberspreewald-Lausitz
+21:10:31 OscovidaWorker 2: Processing ['Brandenburg', 'LK Oberspreewald-Lausitz'] attempt 0
+21:10:31 OscovidaWorker 6: Writing 656193 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Prignitz.html
+21:10:31 OscovidaWorker 3: Writing 708804 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Oder-Spree.html
+21:10:31 OscovidaWorker 6: Processing LK Darmstadt-Dieburg
+21:10:31 OscovidaWorker 6: Processing ['Hessen', 'LK Darmstadt-Dieburg'] attempt 0
+21:10:31 OscovidaWorker 3: Processing SK Bremerhaven
+21:10:31 OscovidaWorker 3: Processing ['Bremen', 'SK Bremerhaven'] attempt 0
+21:10:32 OscovidaWorker 0: Writing 750767 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Mitte.html
+21:10:32 OscovidaWorker 0: Processing LK Märkisch-Oderland
+21:10:32 OscovidaWorker 0: Processing ['Brandenburg', 'LK Märkisch-Oderland'] attempt 0
+21:10:33 OscovidaWorker 7: Executing notebook with kernel: python3
+21:10:33 OscovidaWorker 9: Executing notebook with kernel: python3
+21:10:33 OscovidaWorker 5: Executing notebook with kernel: python3
+21:10:34 OscovidaWorker 10: Writing 694294 bytes to ./wwwroot/html/Germany-Brandenburg-SK-Brandenburg-a.d.Havel.html
+21:10:34 OscovidaWorker 10: Processing LK Hersfeld-Rotenburg
+21:10:34 OscovidaWorker 10: Processing ['Hessen', 'LK Hersfeld-Rotenburg'] attempt 0
+21:10:34 OscovidaWorker 1: Executing notebook with kernel: python3
+21:10:35 OscovidaWorker 8: Executing notebook with kernel: python3
+21:10:35 OscovidaWorker 11: Executing notebook with kernel: python3
+21:10:36 OscovidaWorker 2: Executing notebook with kernel: python3
+21:10:36 OscovidaWorker 3: Executing notebook with kernel: python3
+21:10:36 OscovidaWorker 4: Writing 679020 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Ostprignitz-Ruppin.html
+21:10:36 OscovidaWorker 4: Processing SK Hamburg
+21:10:36 OscovidaWorker 4: Processing ['Hamburg', 'SK Hamburg'] attempt 0
+21:10:36 OscovidaWorker 0: Executing notebook with kernel: python3
+21:10:36 OscovidaWorker 6: Executing notebook with kernel: python3
+21:10:37 OscovidaWorker 10: Executing notebook with kernel: python3
+21:10:38 OscovidaWorker 4: Executing notebook with kernel: python3
+21:10:44 OscovidaWorker 7: Writing 683543 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Spree-Neiße.html
+21:10:44 OscovidaWorker 9: Writing 670232 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Uckermark.html
+21:10:44 OscovidaWorker 7: Processing LK Fulda
+21:10:44 OscovidaWorker 7: Processing ['Hessen', 'LK Fulda'] attempt 0
+21:10:44 OscovidaWorker 9: Processing LK Groß-Gerau
+21:10:44 OscovidaWorker 9: Processing ['Hessen', 'LK Groß-Gerau'] attempt 0
+21:10:45 OscovidaWorker 2: Writing 699031 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Oberspreewald-Lausitz.html
+21:10:45 OscovidaWorker 2: Processing SK Bremen
+21:10:45 OscovidaWorker 2: Processing ['Bremen', 'SK Bremen'] attempt 0
+21:10:45 OscovidaWorker 5: Writing 764467 bytes to ./wwwroot/html/Germany-Berlin-SK-Berlin-Steglitz-Zehlendorf.html
+21:10:45 OscovidaWorker 5: Processing LK Potsdam-Mittelmark
+21:10:45 OscovidaWorker 5: Processing ['Brandenburg', 'LK Potsdam-Mittelmark'] attempt 0
+21:10:46 OscovidaWorker 8: Writing 722921 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Teltow-Fläming.html
+21:10:46 OscovidaWorker 8: Processing LK Gießen
+21:10:46 OscovidaWorker 8: Processing ['Hessen', 'LK Gießen'] attempt 0
+21:10:46 OscovidaWorker 11: Writing 652965 bytes to ./wwwroot/html/Germany-Brandenburg-SK-Cottbus.html
+21:10:46 OscovidaWorker 11: Processing LK Hochtaunuskreis
+21:10:46 OscovidaWorker 11: Processing ['Hessen', 'LK Hochtaunuskreis'] attempt 0
+21:10:47 OscovidaWorker 1: Writing 729937 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Oberhavel.html
+21:10:47 OscovidaWorker 6: Writing 740785 bytes to ./wwwroot/html/Germany-Hessen-LK-Darmstadt-Dieburg.html
+21:10:47 OscovidaWorker 7: Executing notebook with kernel: python3
+21:10:47 OscovidaWorker 1: Processing SK Potsdam
+21:10:47 OscovidaWorker 1: Processing ['Brandenburg', 'SK Potsdam'] attempt 0
+21:10:47 OscovidaWorker 6: Processing LK Odenwaldkreis
+21:10:47 OscovidaWorker 6: Processing ['Hessen', 'LK Odenwaldkreis'] attempt 0
+21:10:47 OscovidaWorker 3: Writing 709189 bytes to ./wwwroot/html/Germany-Bremen-SK-Bremerhaven.html
+21:10:48 OscovidaWorker 0: Writing 717926 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Märkisch-Oderland.html
+21:10:48 OscovidaWorker 3: Processing LK Main-Kinzig-Kreis
+21:10:48 OscovidaWorker 3: Processing ['Hessen', 'LK Main-Kinzig-Kreis'] attempt 0
+21:10:48 OscovidaWorker 0: Processing SK Frankfurt (Oder)
+21:10:48 OscovidaWorker 0: Processing ['Brandenburg', 'SK Frankfurt (Oder)'] attempt 0
+21:10:48 OscovidaWorker 9: Executing notebook with kernel: python3
+21:10:48 OscovidaWorker 10: Writing 734747 bytes to ./wwwroot/html/Germany-Hessen-LK-Hersfeld-Rotenburg.html
+21:10:48 OscovidaWorker 10: Processing LK Vogelsbergkreis
+21:10:48 OscovidaWorker 10: Processing ['Hessen', 'LK Vogelsbergkreis'] attempt 0
+21:10:48 OscovidaWorker 4: Writing 784898 bytes to ./wwwroot/html/Germany-Hamburg-SK-Hamburg.html
+21:10:48 OscovidaWorker 4: Processing LK Main-Taunus-Kreis
+21:10:48 OscovidaWorker 4: Processing ['Hessen', 'LK Main-Taunus-Kreis'] attempt 0
+21:10:50 OscovidaWorker 2: Executing notebook with kernel: python3
+21:10:50 OscovidaWorker 5: Executing notebook with kernel: python3
+21:10:51 OscovidaWorker 6: Executing notebook with kernel: python3
+21:10:51 OscovidaWorker 8: Executing notebook with kernel: python3
+21:10:51 OscovidaWorker 1: Executing notebook with kernel: python3
+21:10:52 OscovidaWorker 11: Executing notebook with kernel: python3
+21:10:52 OscovidaWorker 0: Executing notebook with kernel: python3
+21:10:52 OscovidaWorker 3: Executing notebook with kernel: python3
+21:10:53 OscovidaWorker 4: Executing notebook with kernel: python3
+21:10:53 OscovidaWorker 10: Executing notebook with kernel: python3
+21:10:56 OscovidaWorker 7: Writing 724070 bytes to ./wwwroot/html/Germany-Hessen-LK-Fulda.html
+21:10:56 OscovidaWorker 7: Processing LK Offenbach
+21:10:56 OscovidaWorker 7: Processing ['Hessen', 'LK Offenbach'] attempt 0
+21:10:58 OscovidaWorker 7: Executing notebook with kernel: python3
+21:10:58 OscovidaWorker 9: Writing 753615 bytes to ./wwwroot/html/Germany-Hessen-LK-Groß-Gerau.html
+21:10:58 OscovidaWorker 9: Processing LK Schwalm-Eder-Kreis
+21:10:58 OscovidaWorker 9: Processing ['Hessen', 'LK Schwalm-Eder-Kreis'] attempt 0
+21:11:00 OscovidaWorker 9: Executing notebook with kernel: python3
+21:11:00 OscovidaWorker 5: Writing 769310 bytes to ./wwwroot/html/Germany-Brandenburg-LK-Potsdam-Mittelmark.html
+21:11:00 OscovidaWorker 5: Processing LK Bergstraße
+21:11:00 OscovidaWorker 5: Processing ['Hessen', 'LK Bergstraße'] attempt 0
+21:11:01 OscovidaWorker 2: Writing 772339 bytes to ./wwwroot/html/Germany-Bremen-SK-Bremen.html
+21:11:01 OscovidaWorker 2: Processing LK Limburg-Weilburg
+21:11:01 OscovidaWorker 2: Processing ['Hessen', 'LK Limburg-Weilburg'] attempt 0
+21:11:02 OscovidaWorker 8: Writing 727877 bytes to ./wwwroot/html/Germany-Hessen-LK-Gießen.html
+21:11:02 OscovidaWorker 8: Processing LK Rheingau-Taunus-Kreis
+21:11:02 OscovidaWorker 8: Processing ['Hessen', 'LK Rheingau-Taunus-Kreis'] attempt 0
+21:11:02 OscovidaWorker 5: Executing notebook with kernel: python3
+21:11:03 OscovidaWorker 2: Executing notebook with kernel: python3
+21:11:03 OscovidaWorker 1: Writing 714325 bytes to ./wwwroot/html/Germany-Brandenburg-SK-Potsdam.html
+21:11:03 OscovidaWorker 1: Processing LK Lahn-Dill-Kreis
+21:11:03 OscovidaWorker 1: Processing ['Hessen', 'LK Lahn-Dill-Kreis'] attempt 0
+21:11:03 OscovidaWorker 6: Writing 735378 bytes to ./wwwroot/html/Germany-Hessen-LK-Odenwaldkreis.html
+21:11:03 OscovidaWorker 6: Processing SK Wiesbaden
+21:11:03 OscovidaWorker 6: Processing ['Hessen', 'SK Wiesbaden'] attempt 0
+21:11:03 OscovidaWorker 11: Writing 742015 bytes to ./wwwroot/html/Germany-Hessen-LK-Hochtaunuskreis.html
+21:11:03 OscovidaWorker 11: Processing LK Waldeck-Frankenberg
+21:11:03 OscovidaWorker 11: Processing ['Hessen', 'LK Waldeck-Frankenberg'] attempt 0
+21:11:03 OscovidaWorker 0: Writing 667275 bytes to ./wwwroot/html/Germany-Brandenburg-SK-Frankfurt-(Oder).html
+21:11:03 OscovidaWorker 0: Processing LK Kassel
+21:11:03 OscovidaWorker 0: Processing ['Hessen', 'LK Kassel'] attempt 0
+21:11:04 OscovidaWorker 10: Writing 697075 bytes to ./wwwroot/html/Germany-Hessen-LK-Vogelsbergkreis.html
+21:11:04 OscovidaWorker 10: Processing LK Rostock
+21:11:04 OscovidaWorker 10: Processing ['Mecklenburg-Vorpommern', 'LK Rostock'] attempt 0
+21:11:05 OscovidaWorker 3: Writing 763178 bytes to ./wwwroot/html/Germany-Hessen-LK-Main-Kinzig-Kreis.html
+21:11:05 OscovidaWorker 4: Writing 732964 bytes to ./wwwroot/html/Germany-Hessen-LK-Main-Taunus-Kreis.html
+21:11:05 OscovidaWorker 3: Processing SK Frankfurt am Main
+21:11:05 OscovidaWorker 3: Processing ['Hessen', 'SK Frankfurt am Main'] attempt 0
+21:11:05 OscovidaWorker 4: Processing SK Kassel
+21:11:05 OscovidaWorker 4: Processing ['Hessen', 'SK Kassel'] attempt 0
+21:11:06 OscovidaWorker 8: Executing notebook with kernel: python3
+21:11:07 OscovidaWorker 7: Writing 751843 bytes to ./wwwroot/html/Germany-Hessen-LK-Offenbach.html
+21:11:07 OscovidaWorker 7: Processing LK Ludwigslust-Parchim
+21:11:07 OscovidaWorker 7: Processing ['Mecklenburg-Vorpommern', 'LK Ludwigslust-Parchim'] attempt 0
+21:11:08 OscovidaWorker 1: Executing notebook with kernel: python3
+21:11:08 OscovidaWorker 6: Executing notebook with kernel: python3
+21:11:08 OscovidaWorker 0: Executing notebook with kernel: python3
+21:11:08 OscovidaWorker 11: Executing notebook with kernel: python3
+21:11:08 OscovidaWorker 3: Executing notebook with kernel: python3
+21:11:09 OscovidaWorker 10: Executing notebook with kernel: python3
+21:11:09 OscovidaWorker 4: Executing notebook with kernel: python3
+21:11:09 OscovidaWorker 9: Writing 752934 bytes to ./wwwroot/html/Germany-Hessen-LK-Schwalm-Eder-Kreis.html
+21:11:09 OscovidaWorker 9: Processing LK Nordwestmecklenburg
+21:11:09 OscovidaWorker 9: Processing ['Mecklenburg-Vorpommern', 'LK Nordwestmecklenburg'] attempt 0
+21:11:09 OscovidaWorker 7: Executing notebook with kernel: python3
+21:11:11 OscovidaWorker 9: Executing notebook with kernel: python3
+21:11:11 OscovidaWorker 5: Writing 727710 bytes to ./wwwroot/html/Germany-Hessen-LK-Bergstraße.html
+21:11:11 OscovidaWorker 5: Processing LK Marburg-Biedenkopf
+21:11:11 OscovidaWorker 5: Processing ['Hessen', 'LK Marburg-Biedenkopf'] attempt 0
+21:11:12 OscovidaWorker 2: Writing 720135 bytes to ./wwwroot/html/Germany-Hessen-LK-Limburg-Weilburg.html
+21:11:12 OscovidaWorker 2: Processing SK Darmstadt
+21:11:12 OscovidaWorker 2: Processing ['Hessen', 'SK Darmstadt'] attempt 0
+21:11:14 OscovidaWorker 5: Executing notebook with kernel: python3
+21:11:14 OscovidaWorker 2: Executing notebook with kernel: python3
+21:11:17 OscovidaWorker 8: Writing 740274 bytes to ./wwwroot/html/Germany-Hessen-LK-Rheingau-Taunus-Kreis.html
+21:11:17 OscovidaWorker 8: Processing LK Mecklenburgische Seenplatte
+21:11:17 OscovidaWorker 8: Processing ['Mecklenburg-Vorpommern', 'LK Mecklenburgische Seenplatte'] attempt 0
+21:11:17 OscovidaWorker 10: Writing 682618 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-LK-Rostock.html
+21:11:17 OscovidaWorker 10: Processing LK Friesland
+21:11:17 OscovidaWorker 10: Processing ['Niedersachsen', 'LK Friesland'] attempt 0
+21:11:19 OscovidaWorker 3: Writing 778946 bytes to ./wwwroot/html/Germany-Hessen-SK-Frankfurt-am-Main.html
+21:11:19 OscovidaWorker 3: Processing LK Ammerland
+21:11:19 OscovidaWorker 3: Processing ['Niedersachsen', 'LK Ammerland'] attempt 0
+21:11:19 OscovidaWorker 0: Writing 735759 bytes to ./wwwroot/html/Germany-Hessen-LK-Kassel.html
+21:11:19 OscovidaWorker 0: Processing LK Werra-Meißner-Kreis
+21:11:19 OscovidaWorker 0: Processing ['Hessen', 'LK Werra-Meißner-Kreis'] attempt 0
+21:11:19 OscovidaWorker 8: Executing notebook with kernel: python3
+21:11:19 OscovidaWorker 10: Executing notebook with kernel: python3
+21:11:19 OscovidaWorker 6: Writing 740327 bytes to ./wwwroot/html/Germany-Hessen-SK-Wiesbaden.html
+21:11:20 OscovidaWorker 6: Processing LK Cloppenburg
+21:11:20 OscovidaWorker 6: Processing ['Niedersachsen', 'LK Cloppenburg'] attempt 0
+21:11:20 OscovidaWorker 1: Writing 734798 bytes to ./wwwroot/html/Germany-Hessen-LK-Lahn-Dill-Kreis.html
+21:11:20 OscovidaWorker 1: Processing LK Wetteraukreis
+21:11:20 OscovidaWorker 1: Processing ['Hessen', 'LK Wetteraukreis'] attempt 0
+21:11:20 OscovidaWorker 11: Writing 727987 bytes to ./wwwroot/html/Germany-Hessen-LK-Waldeck-Frankenberg.html
+21:11:20 OscovidaWorker 11: Processing LK Vorpommern-Greifswald
+21:11:20 OscovidaWorker 11: Processing ['Mecklenburg-Vorpommern', 'LK Vorpommern-Greifswald'] attempt 0
+21:11:20 OscovidaWorker 4: Writing 719576 bytes to ./wwwroot/html/Germany-Hessen-SK-Kassel.html
+21:11:20 OscovidaWorker 4: Processing LK Aurich
+21:11:20 OscovidaWorker 4: Processing ['Niedersachsen', 'LK Aurich'] attempt 0
+21:11:21 OscovidaWorker 7: Writing 701504 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-LK-Ludwigslust-Parchim.html
+21:11:21 OscovidaWorker 7: Processing LK Cuxhaven
+21:11:21 OscovidaWorker 7: Processing ['Niedersachsen', 'LK Cuxhaven'] attempt 0
+21:11:22 OscovidaWorker 3: Executing notebook with kernel: python3
+21:11:22 OscovidaWorker 9: Writing 680456 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-LK-Nordwestmecklenburg.html
+21:11:22 OscovidaWorker 9: Processing LK Emsland
+21:11:22 OscovidaWorker 9: Processing ['Niedersachsen', 'LK Emsland'] attempt 0
+21:11:24 OscovidaWorker 0: Executing notebook with kernel: python3
+21:11:24 OscovidaWorker 5: Writing 714298 bytes to ./wwwroot/html/Germany-Hessen-LK-Marburg-Biedenkopf.html
+21:11:24 OscovidaWorker 5: Processing SK Offenbach
+21:11:24 OscovidaWorker 5: Processing ['Hessen', 'SK Offenbach'] attempt 0
+21:11:24 OscovidaWorker 6: Executing notebook with kernel: python3
+21:11:24 OscovidaWorker 2: Writing 711997 bytes to ./wwwroot/html/Germany-Hessen-SK-Darmstadt.html
+21:11:24 OscovidaWorker 2: Processing SK Schwerin
+21:11:24 OscovidaWorker 2: Processing ['Mecklenburg-Vorpommern', 'SK Schwerin'] attempt 0
+21:11:24 OscovidaWorker 4: Executing notebook with kernel: python3
+21:11:25 OscovidaWorker 1: Executing notebook with kernel: python3
+21:11:25 OscovidaWorker 11: Executing notebook with kernel: python3
+21:11:25 OscovidaWorker 7: Executing notebook with kernel: python3
+21:11:27 OscovidaWorker 9: Executing notebook with kernel: python3
+21:11:27 OscovidaWorker 2: Executing notebook with kernel: python3
+21:11:27 OscovidaWorker 5: Executing notebook with kernel: python3
+21:11:28 OscovidaWorker 8: Writing 727885 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-LK-Mecklenburgische-Seenplatte.html
+21:11:28 OscovidaWorker 8: Processing LK Diepholz
+21:11:28 OscovidaWorker 8: Processing ['Niedersachsen', 'LK Diepholz'] attempt 0
+21:11:29 OscovidaWorker 10: Writing 671623 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Friesland.html
+21:11:29 OscovidaWorker 10: Processing LK Lüchow-Dannenberg
+21:11:29 OscovidaWorker 10: Processing ['Niedersachsen', 'LK Lüchow-Dannenberg'] attempt 0
+21:11:31 OscovidaWorker 8: Executing notebook with kernel: python3
+21:11:31 OscovidaWorker 10: Executing notebook with kernel: python3
+21:11:32 OscovidaWorker 0: Writing 732761 bytes to ./wwwroot/html/Germany-Hessen-LK-Werra-Meißner-Kreis.html
+21:11:32 OscovidaWorker 0: Processing LK Vorpommern-Rügen
+21:11:32 OscovidaWorker 0: Processing ['Mecklenburg-Vorpommern', 'LK Vorpommern-Rügen'] attempt 0
+21:11:32 OscovidaWorker 3: Writing 714175 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Ammerland.html
+21:11:32 OscovidaWorker 3: Processing LK Hameln-Pyrmont
+21:11:32 OscovidaWorker 3: Processing ['Niedersachsen', 'LK Hameln-Pyrmont'] attempt 0
+21:11:34 OscovidaWorker 0: Executing notebook with kernel: python3
+21:11:35 OscovidaWorker 4: Writing 698396 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Aurich.html
+21:11:35 OscovidaWorker 4: Processing LK Harburg
+21:11:35 OscovidaWorker 4: Processing ['Niedersachsen', 'LK Harburg'] attempt 0
+21:11:35 OscovidaWorker 3: Executing notebook with kernel: python3
+21:11:35 OscovidaWorker 6: Writing 693054 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Cloppenburg.html
+21:11:35 OscovidaWorker 6: Processing LK Helmstedt
+21:11:35 OscovidaWorker 6: Processing ['Niedersachsen', 'LK Helmstedt'] attempt 0
+21:11:36 OscovidaWorker 1: Writing 728696 bytes to ./wwwroot/html/Germany-Hessen-LK-Wetteraukreis.html
+21:11:36 OscovidaWorker 1: Processing SK Rostock
+21:11:36 OscovidaWorker 1: Processing ['Mecklenburg-Vorpommern', 'SK Rostock'] attempt 0
+21:11:37 OscovidaWorker 7: Writing 732504 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Cuxhaven.html
+21:11:37 OscovidaWorker 11: Writing 728080 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-LK-Vorpommern-Greifswald.html
+21:11:37 OscovidaWorker 7: Processing LK Hildesheim
+21:11:37 OscovidaWorker 7: Processing ['Niedersachsen', 'LK Hildesheim'] attempt 0
+21:11:37 OscovidaWorker 11: Processing LK Gifhorn
+21:11:37 OscovidaWorker 11: Processing ['Niedersachsen', 'LK Gifhorn'] attempt 0
+21:11:38 OscovidaWorker 9: Writing 735111 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Emsland.html
+21:11:38 OscovidaWorker 9: Processing LK Leer
+21:11:38 OscovidaWorker 9: Processing ['Niedersachsen', 'LK Leer'] attempt 0
+21:11:38 OscovidaWorker 4: Executing notebook with kernel: python3
+21:11:38 OscovidaWorker 2: Writing 671020 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-SK-Schwerin.html
+21:11:38 OscovidaWorker 2: Processing LK Göttingen
+21:11:38 OscovidaWorker 2: Processing ['Niedersachsen', 'LK Göttingen'] attempt 0
+21:11:38 OscovidaWorker 5: Writing 722597 bytes to ./wwwroot/html/Germany-Hessen-SK-Offenbach.html
+21:11:38 OscovidaWorker 5: Processing LK Celle
+21:11:38 OscovidaWorker 5: Processing ['Niedersachsen', 'LK Celle'] attempt 0
+21:11:40 OscovidaWorker 6: Executing notebook with kernel: python3
+21:11:40 OscovidaWorker 1: Executing notebook with kernel: python3
+21:11:41 OscovidaWorker 8: Writing 736193 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Diepholz.html
+21:11:41 OscovidaWorker 11: Executing notebook with kernel: python3
+21:11:41 OscovidaWorker 8: Processing LK Holzminden
+21:11:41 OscovidaWorker 8: Processing ['Niedersachsen', 'LK Holzminden'] attempt 0
+21:11:41 OscovidaWorker 10: Writing 666489 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Lüchow-Dannenberg.html
+21:11:41 OscovidaWorker 10: Processing LK Vechta
+21:11:41 OscovidaWorker 10: Processing ['Niedersachsen', 'LK Vechta'] attempt 0
+21:11:41 OscovidaWorker 7: Executing notebook with kernel: python3
+21:11:42 OscovidaWorker 9: Executing notebook with kernel: python3
+21:11:43 OscovidaWorker 2: Executing notebook with kernel: python3
+21:11:43 OscovidaWorker 5: Executing notebook with kernel: python3
+21:11:43 OscovidaWorker 3: Writing 710239 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Hameln-Pyrmont.html
+21:11:43 OscovidaWorker 3: Processing LK Osnabrück
+21:11:43 OscovidaWorker 3: Processing ['Niedersachsen', 'LK Osnabrück'] attempt 0
+21:11:43 OscovidaWorker 0: Writing 703614 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-LK-Vorpommern-Rügen.html
+21:11:43 OscovidaWorker 0: Processing LK Goslar
+21:11:43 OscovidaWorker 0: Processing ['Niedersachsen', 'LK Goslar'] attempt 0
+21:11:43 OscovidaWorker 8: Executing notebook with kernel: python3
+21:11:44 OscovidaWorker 10: Executing notebook with kernel: python3
+21:11:45 OscovidaWorker 3: Executing notebook with kernel: python3
+21:11:46 OscovidaWorker 0: Executing notebook with kernel: python3
+21:11:48 OscovidaWorker 4: Writing 737781 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Harburg.html
+21:11:48 OscovidaWorker 4: Processing LK Osterholz
+21:11:48 OscovidaWorker 4: Processing ['Niedersachsen', 'LK Osterholz'] attempt 0
+21:11:50 OscovidaWorker 4: Executing notebook with kernel: python3
+21:11:50 OscovidaWorker 6: Writing 687505 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Helmstedt.html
+21:11:50 OscovidaWorker 6: Processing LK Rotenburg (Wümme)
+21:11:50 OscovidaWorker 6: Processing ['Niedersachsen', 'LK Rotenburg (Wümme)'] attempt 0
+21:11:51 OscovidaWorker 11: Writing 699075 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Gifhorn.html
+21:11:51 OscovidaWorker 11: Processing LK Lüneburg
+21:11:51 OscovidaWorker 11: Processing ['Niedersachsen', 'LK Lüneburg'] attempt 0
+21:11:52 OscovidaWorker 1: Writing 689459 bytes to ./wwwroot/html/Germany-Mecklenburg-Vorpommern-SK-Rostock.html
+21:11:52 OscovidaWorker 1: Processing LK Grafschaft Bentheim
+21:11:52 OscovidaWorker 1: Processing ['Niedersachsen', 'LK Grafschaft Bentheim'] attempt 0
+21:11:52 OscovidaWorker 6: Executing notebook with kernel: python3
+21:11:53 OscovidaWorker 8: Writing 681955 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Holzminden.html
+21:11:53 OscovidaWorker 8: Processing LK Stade
+21:11:53 OscovidaWorker 8: Processing ['Niedersachsen', 'LK Stade'] attempt 0
+21:11:53 OscovidaWorker 7: Writing 730615 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Hildesheim.html
+21:11:54 OscovidaWorker 7: Processing LK Schaumburg
+21:11:54 OscovidaWorker 7: Processing ['Niedersachsen', 'LK Schaumburg'] attempt 0
+21:11:54 OscovidaWorker 11: Executing notebook with kernel: python3
+21:11:54 OscovidaWorker 10: Writing 705721 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Vechta.html
+21:11:54 OscovidaWorker 10: Processing SK Wilhelmshaven
+21:11:54 OscovidaWorker 10: Processing ['Niedersachsen', 'SK Wilhelmshaven'] attempt 0
+21:11:54 OscovidaWorker 2: Writing 753604 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Göttingen.html
+21:11:54 OscovidaWorker 2: Processing LK Oldenburg
+21:11:54 OscovidaWorker 2: Processing ['Niedersachsen', 'LK Oldenburg'] attempt 0
+21:11:54 OscovidaWorker 5: Writing 728965 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Celle.html
+21:11:55 OscovidaWorker 5: Processing LK Heidekreis
+21:11:55 OscovidaWorker 5: Processing ['Niedersachsen', 'LK Heidekreis'] attempt 0
+21:11:55 OscovidaWorker 9: Writing 711264 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Leer.html
+21:11:55 OscovidaWorker 9: Processing LK Uelzen
+21:11:55 OscovidaWorker 9: Processing ['Niedersachsen', 'LK Uelzen'] attempt 0
+21:11:55 OscovidaWorker 1: Executing notebook with kernel: python3
+21:11:56 OscovidaWorker 0: Writing 720740 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Goslar.html
+21:11:56 OscovidaWorker 0: Processing LK Nienburg (Weser)
+21:11:56 OscovidaWorker 0: Processing ['Niedersachsen', 'LK Nienburg (Weser)'] attempt 0
+21:11:57 OscovidaWorker 3: Writing 766419 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Osnabrück.html
+21:11:57 OscovidaWorker 3: Processing Region Hannover
+21:11:57 OscovidaWorker 3: Processing ['Niedersachsen', 'Region Hannover'] attempt 0
+21:11:58 OscovidaWorker 8: Executing notebook with kernel: python3
+21:11:58 OscovidaWorker 4: Writing 698480 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Osterholz.html
+21:11:58 OscovidaWorker 4: Processing SK Braunschweig
+21:11:58 OscovidaWorker 4: Processing ['Niedersachsen', 'SK Braunschweig'] attempt 0
+21:11:58 OscovidaWorker 7: Executing notebook with kernel: python3
+21:11:58 OscovidaWorker 10: Executing notebook with kernel: python3
+21:11:59 OscovidaWorker 2: Executing notebook with kernel: python3
+21:11:59 OscovidaWorker 5: Executing notebook with kernel: python3
+21:11:59 OscovidaWorker 9: Executing notebook with kernel: python3
+21:12:00 OscovidaWorker 3: Executing notebook with kernel: python3
+21:12:00 OscovidaWorker 4: Executing notebook with kernel: python3
+21:12:00 OscovidaWorker 0: Executing notebook with kernel: python3
+21:12:02 OscovidaWorker 6: Writing 722416 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Rotenburg-(Wümme).html
+21:12:02 OscovidaWorker 6: Processing SK Emden
+21:12:02 OscovidaWorker 6: Processing ['Niedersachsen', 'SK Emden'] attempt 0
+21:12:02 OscovidaWorker 11: Writing 679426 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Lüneburg.html
+21:12:02 OscovidaWorker 11: Processing LK Verden
+21:12:02 OscovidaWorker 11: Processing ['Niedersachsen', 'LK Verden'] attempt 0
+21:12:04 OscovidaWorker 6: Executing notebook with kernel: python3
+21:12:04 OscovidaWorker 11: Executing notebook with kernel: python3
+21:12:04 OscovidaWorker 1: Writing 736274 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Grafschaft-Bentheim.html
+21:12:04 OscovidaWorker 1: Processing LK Northeim
+21:12:04 OscovidaWorker 1: Processing ['Niedersachsen', 'LK Northeim'] attempt 0
+21:12:06 OscovidaWorker 1: Executing notebook with kernel: python3
+21:12:08 OscovidaWorker 8: Writing 718172 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Stade.html
+21:12:08 OscovidaWorker 8: Processing SK Osnabrück
+21:12:08 OscovidaWorker 8: Processing ['Niedersachsen', 'SK Osnabrück'] attempt 0
+21:12:09 OscovidaWorker 7: Writing 699763 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Schaumburg.html
+21:12:09 OscovidaWorker 7: Processing SK Oldenburg
+21:12:09 OscovidaWorker 7: Processing ['Niedersachsen', 'SK Oldenburg'] attempt 0
+21:12:10 OscovidaWorker 2: Writing 723856 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Oldenburg.html
+21:12:10 OscovidaWorker 2: Processing LK Wolfenbüttel
+21:12:10 OscovidaWorker 2: Processing ['Niedersachsen', 'LK Wolfenbüttel'] attempt 0
+21:12:10 OscovidaWorker 9: Writing 666797 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Uelzen.html
+21:12:10 OscovidaWorker 9: Processing SK Salzgitter
+21:12:10 OscovidaWorker 9: Processing ['Niedersachsen', 'SK Salzgitter'] attempt 0
+21:12:10 OscovidaWorker 8: Executing notebook with kernel: python3
+21:12:10 OscovidaWorker 10: Writing 682963 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Wilhelmshaven.html
+21:12:10 OscovidaWorker 10: Processing LK Kleve
+21:12:10 OscovidaWorker 10: Processing ['Nordrhein-Westfalen', 'LK Kleve'] attempt 0
+21:12:10 OscovidaWorker 5: Writing 681553 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Heidekreis.html
+21:12:10 OscovidaWorker 5: Processing LK Peine
+21:12:10 OscovidaWorker 5: Processing ['Niedersachsen', 'LK Peine'] attempt 0
+21:12:11 OscovidaWorker 0: Writing 696140 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Nienburg-(Weser).html
+21:12:11 OscovidaWorker 0: Processing LK Wesermarsch
+21:12:11 OscovidaWorker 0: Processing ['Niedersachsen', 'LK Wesermarsch'] attempt 0
+21:12:12 OscovidaWorker 4: Writing 748746 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Braunschweig.html
+21:12:12 OscovidaWorker 3: Writing 779767 bytes to ./wwwroot/html/Germany-Niedersachsen-Region-Hannover.html
+21:12:12 OscovidaWorker 4: Processing LK Euskirchen
+21:12:12 OscovidaWorker 4: Processing ['Nordrhein-Westfalen', 'LK Euskirchen'] attempt 0
+21:12:12 OscovidaWorker 3: Processing LK Ennepe-Ruhr-Kreis
+21:12:12 OscovidaWorker 3: Processing ['Nordrhein-Westfalen', 'LK Ennepe-Ruhr-Kreis'] attempt 0
+21:12:14 OscovidaWorker 2: Executing notebook with kernel: python3
+21:12:14 OscovidaWorker 10: Executing notebook with kernel: python3
+21:12:14 OscovidaWorker 7: Executing notebook with kernel: python3
+21:12:14 OscovidaWorker 6: Writing 658174 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Emden.html
+21:12:14 OscovidaWorker 6: Processing LK Heinsberg
+21:12:14 OscovidaWorker 6: Processing ['Nordrhein-Westfalen', 'LK Heinsberg'] attempt 0
+21:12:14 OscovidaWorker 9: Executing notebook with kernel: python3
+21:12:14 OscovidaWorker 11: Writing 705770 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Verden.html
+21:12:14 OscovidaWorker 11: Processing SK Wolfsburg
+21:12:14 OscovidaWorker 11: Processing ['Niedersachsen', 'SK Wolfsburg'] attempt 0
+21:12:15 OscovidaWorker 5: Executing notebook with kernel: python3
+21:12:16 OscovidaWorker 1: Writing 694345 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Northeim.html
+21:12:16 OscovidaWorker 1: Processing LK Wittmund
+21:12:16 OscovidaWorker 1: Processing ['Niedersachsen', 'LK Wittmund'] attempt 0
+21:12:16 OscovidaWorker 3: Executing notebook with kernel: python3
+21:12:16 OscovidaWorker 4: Executing notebook with kernel: python3
+21:12:16 OscovidaWorker 0: Executing notebook with kernel: python3
+21:12:17 OscovidaWorker 11: Executing notebook with kernel: python3
+21:12:18 OscovidaWorker 6: Executing notebook with kernel: python3
+21:12:18 OscovidaWorker 1: Executing notebook with kernel: python3
+21:12:19 OscovidaWorker 8: Writing 732368 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Osnabrück.html
+21:12:19 OscovidaWorker 8: Processing LK Hochsauerlandkreis
+21:12:19 OscovidaWorker 8: Processing ['Nordrhein-Westfalen', 'LK Hochsauerlandkreis'] attempt 0
+21:12:21 OscovidaWorker 8: Executing notebook with kernel: python3
+21:12:24 OscovidaWorker 2: Writing 709285 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Wolfenbüttel.html
+21:12:24 OscovidaWorker 2: Processing LK Düren
+21:12:24 OscovidaWorker 2: Processing ['Nordrhein-Westfalen', 'LK Düren'] attempt 0
+21:12:25 OscovidaWorker 10: Writing 741796 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Kleve.html
+21:12:25 OscovidaWorker 10: Processing LK Rheinisch-Bergischer Kreis
+21:12:25 OscovidaWorker 10: Processing ['Nordrhein-Westfalen', 'LK Rheinisch-Bergischer Kreis'] attempt 0
+21:12:26 OscovidaWorker 9: Writing 706564 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Salzgitter.html
+21:12:26 OscovidaWorker 9: Processing LK Höxter
+21:12:26 OscovidaWorker 9: Processing ['Nordrhein-Westfalen', 'LK Höxter'] attempt 0
+21:12:26 OscovidaWorker 7: Writing 713031 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Oldenburg.html
+21:12:26 OscovidaWorker 7: Processing LK Herford
+21:12:26 OscovidaWorker 7: Processing ['Nordrhein-Westfalen', 'LK Herford'] attempt 0
+21:12:26 OscovidaWorker 5: Writing 698363 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Peine.html
+21:12:26 OscovidaWorker 5: Processing SK Delmenhorst
+21:12:26 OscovidaWorker 5: Processing ['Niedersachsen', 'SK Delmenhorst'] attempt 0
+21:12:27 OscovidaWorker 1: Writing 676488 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Wittmund.html
+21:12:27 OscovidaWorker 1: Processing LK Coesfeld
+21:12:27 OscovidaWorker 1: Processing ['Nordrhein-Westfalen', 'LK Coesfeld'] attempt 0
+21:12:27 OscovidaWorker 3: Writing 742157 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Ennepe-Ruhr-Kreis.html
+21:12:27 OscovidaWorker 3: Processing LK Oberbergischer Kreis
+21:12:27 OscovidaWorker 3: Processing ['Nordrhein-Westfalen', 'LK Oberbergischer Kreis'] attempt 0
+21:12:27 OscovidaWorker 2: Executing notebook with kernel: python3
+21:12:27 OscovidaWorker 4: Writing 745654 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Euskirchen.html
+21:12:27 OscovidaWorker 4: Processing LK Olpe
+21:12:27 OscovidaWorker 4: Processing ['Nordrhein-Westfalen', 'LK Olpe'] attempt 0
+21:12:28 OscovidaWorker 0: Writing 664375 bytes to ./wwwroot/html/Germany-Niedersachsen-LK-Wesermarsch.html
+21:12:28 OscovidaWorker 0: Processing LK Borken
+21:12:28 OscovidaWorker 0: Processing ['Nordrhein-Westfalen', 'LK Borken'] attempt 0
+21:12:28 OscovidaWorker 6: Writing 765341 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Heinsberg.html
+21:12:28 OscovidaWorker 6: Processing LK Recklinghausen
+21:12:28 OscovidaWorker 6: Processing ['Nordrhein-Westfalen', 'LK Recklinghausen'] attempt 0
+21:12:28 OscovidaWorker 11: Writing 730120 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Wolfsburg.html
+21:12:28 OscovidaWorker 11: Processing LK Lippe
+21:12:28 OscovidaWorker 11: Processing ['Nordrhein-Westfalen', 'LK Lippe'] attempt 0
+21:12:30 OscovidaWorker 10: Executing notebook with kernel: python3
+21:12:30 OscovidaWorker 8: Writing 738175 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Hochsauerlandkreis.html
+21:12:30 OscovidaWorker 8: Processing LK Rhein-Kreis Neuss
+21:12:30 OscovidaWorker 8: Processing ['Nordrhein-Westfalen', 'LK Rhein-Kreis Neuss'] attempt 0
+21:12:31 OscovidaWorker 7: Executing notebook with kernel: python3
+21:12:31 OscovidaWorker 9: Executing notebook with kernel: python3
+21:12:31 OscovidaWorker 1: Executing notebook with kernel: python3
+21:12:31 OscovidaWorker 3: Executing notebook with kernel: python3
+21:12:32 OscovidaWorker 5: Executing notebook with kernel: python3
+21:12:32 OscovidaWorker 0: Executing notebook with kernel: python3
+21:12:32 OscovidaWorker 4: Executing notebook with kernel: python3
+21:12:33 OscovidaWorker 11: Executing notebook with kernel: python3
+21:12:33 OscovidaWorker 6: Executing notebook with kernel: python3
+21:12:33 OscovidaWorker 8: Executing notebook with kernel: python3
+21:12:35 OscovidaWorker 2: Writing 751026 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Düren.html
+21:12:35 OscovidaWorker 2: Processing LK Märkischer Kreis
+21:12:35 OscovidaWorker 2: Processing ['Nordrhein-Westfalen', 'LK Märkischer Kreis'] attempt 0
+21:12:37 OscovidaWorker 2: Executing notebook with kernel: python3
+21:12:41 OscovidaWorker 7: Writing 721047 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Herford.html
+21:12:41 OscovidaWorker 7: Processing LK Rhein-Erft-Kreis
+21:12:41 OscovidaWorker 7: Processing ['Nordrhein-Westfalen', 'LK Rhein-Erft-Kreis'] attempt 0
+21:12:42 OscovidaWorker 9: Writing 718639 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Höxter.html
+21:12:42 OscovidaWorker 9: Processing LK Rhein-Sieg-Kreis
+21:12:42 OscovidaWorker 9: Processing ['Nordrhein-Westfalen', 'LK Rhein-Sieg-Kreis'] attempt 0
+21:12:42 OscovidaWorker 10: Writing 773315 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Rheinisch-Bergischer-Kreis.html
+21:12:42 OscovidaWorker 10: Processing SK Dortmund
+21:12:42 OscovidaWorker 10: Processing ['Nordrhein-Westfalen', 'SK Dortmund'] attempt 0
+21:12:42 OscovidaWorker 1: Writing 750231 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Coesfeld.html
+21:12:42 OscovidaWorker 1: Processing LK Minden-Lübbecke
+21:12:42 OscovidaWorker 1: Processing ['Nordrhein-Westfalen', 'LK Minden-Lübbecke'] attempt 0
+21:12:43 OscovidaWorker 3: Writing 756252 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Oberbergischer-Kreis.html
+21:12:43 OscovidaWorker 3: Processing LK Viersen
+21:12:43 OscovidaWorker 3: Processing ['Nordrhein-Westfalen', 'LK Viersen'] attempt 0
+21:12:43 OscovidaWorker 7: Executing notebook with kernel: python3
+21:12:44 OscovidaWorker 8: Writing 769100 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Rhein-Kreis-Neuss.html
+21:12:44 OscovidaWorker 8: Processing SK Bonn
+21:12:44 OscovidaWorker 8: Processing ['Nordrhein-Westfalen', 'SK Bonn'] attempt 0
+21:12:44 OscovidaWorker 5: Writing 694330 bytes to ./wwwroot/html/Germany-Niedersachsen-SK-Delmenhorst.html
+21:12:44 OscovidaWorker 5: Processing LK Gütersloh
+21:12:44 OscovidaWorker 5: Processing ['Nordrhein-Westfalen', 'LK Gütersloh'] attempt 0
+21:12:44 OscovidaWorker 0: Writing 754485 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Borken.html
+21:12:44 OscovidaWorker 4: Writing 728100 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Olpe.html
+21:12:44 OscovidaWorker 0: Processing LK Mettmann
+21:12:44 OscovidaWorker 0: Processing ['Nordrhein-Westfalen', 'LK Mettmann'] attempt 0
+21:12:44 OscovidaWorker 4: Processing LK Warendorf
+21:12:44 OscovidaWorker 4: Processing ['Nordrhein-Westfalen', 'LK Warendorf'] attempt 0
+21:12:44 OscovidaWorker 6: Writing 755816 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Recklinghausen.html
+21:12:45 OscovidaWorker 6: Processing SK Bielefeld
+21:12:45 OscovidaWorker 6: Processing ['Nordrhein-Westfalen', 'SK Bielefeld'] attempt 0
+21:12:45 OscovidaWorker 11: Writing 745145 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Lippe.html
+21:12:45 OscovidaWorker 11: Processing LK Siegen-Wittgenstein
+21:12:45 OscovidaWorker 11: Processing ['Nordrhein-Westfalen', 'LK Siegen-Wittgenstein'] attempt 0
+21:12:46 OscovidaWorker 1: Executing notebook with kernel: python3
+21:12:47 OscovidaWorker 9: Executing notebook with kernel: python3
+21:12:47 OscovidaWorker 10: Executing notebook with kernel: python3
+21:12:47 OscovidaWorker 2: Writing 768545 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Märkischer-Kreis.html
+21:12:47 OscovidaWorker 2: Processing LK Unna
+21:12:47 OscovidaWorker 2: Processing ['Nordrhein-Westfalen', 'LK Unna'] attempt 0
+21:12:49 OscovidaWorker 3: Executing notebook with kernel: python3
+21:12:49 OscovidaWorker 8: Executing notebook with kernel: python3
+21:12:49 OscovidaWorker 0: Executing notebook with kernel: python3
+21:12:49 OscovidaWorker 5: Executing notebook with kernel: python3
+21:12:49 OscovidaWorker 4: Executing notebook with kernel: python3
+21:12:49 OscovidaWorker 11: Executing notebook with kernel: python3
+21:12:49 OscovidaWorker 6: Executing notebook with kernel: python3
+21:12:50 OscovidaWorker 2: Executing notebook with kernel: python3
+21:12:53 OscovidaWorker 7: Writing 770685 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Rhein-Erft-Kreis.html
+21:12:53 OscovidaWorker 7: Processing SK Bochum
+21:12:53 OscovidaWorker 7: Processing ['Nordrhein-Westfalen', 'SK Bochum'] attempt 0
+21:12:55 OscovidaWorker 7: Executing notebook with kernel: python3
+21:12:57 OscovidaWorker 10: Writing 743095 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Dortmund.html
+21:12:57 OscovidaWorker 10: Processing SK Mülheim a.d.Ruhr
+21:12:57 OscovidaWorker 10: Processing ['Nordrhein-Westfalen', 'SK Mülheim a.d.Ruhr'] attempt 0
+21:12:58 OscovidaWorker 1: Writing 752066 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Minden-Lübbecke.html
+21:12:58 OscovidaWorker 1: Processing LK Steinfurt
+21:12:58 OscovidaWorker 1: Processing ['Nordrhein-Westfalen', 'LK Steinfurt'] attempt 0
+21:12:59 OscovidaWorker 9: Writing 769738 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Rhein-Sieg-Kreis.html
+21:12:59 OscovidaWorker 9: Processing SK Bottrop
+21:12:59 OscovidaWorker 9: Processing ['Nordrhein-Westfalen', 'SK Bottrop'] attempt 0
+21:12:59 OscovidaWorker 5: Writing 746857 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Gütersloh.html
+21:12:59 OscovidaWorker 5: Processing LK Paderborn
+21:12:59 OscovidaWorker 5: Processing ['Nordrhein-Westfalen', 'LK Paderborn'] attempt 0
+21:12:59 OscovidaWorker 4: Writing 742205 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Warendorf.html
+21:12:59 OscovidaWorker 4: Processing SK Hamm
+21:12:59 OscovidaWorker 4: Processing ['Nordrhein-Westfalen', 'SK Hamm'] attempt 0
+21:13:01 OscovidaWorker 3: Writing 760203 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Viersen.html
+21:13:01 OscovidaWorker 3: Processing SK Hagen
+21:13:01 OscovidaWorker 3: Processing ['Nordrhein-Westfalen', 'SK Hagen'] attempt 0
+21:13:01 OscovidaWorker 0: Writing 766674 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Mettmann.html
+21:13:01 OscovidaWorker 0: Processing LK Soest
+21:13:01 OscovidaWorker 0: Processing ['Nordrhein-Westfalen', 'LK Soest'] attempt 0
+21:13:01 OscovidaWorker 8: Writing 743696 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Bonn.html
+21:13:01 OscovidaWorker 8: Processing SK Leverkusen
+21:13:01 OscovidaWorker 8: Processing ['Nordrhein-Westfalen', 'SK Leverkusen'] attempt 0
+21:13:01 OscovidaWorker 6: Writing 729149 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Bielefeld.html
+21:13:01 OscovidaWorker 6: Processing SK Krefeld
+21:13:01 OscovidaWorker 6: Processing ['Nordrhein-Westfalen', 'SK Krefeld'] attempt 0
+21:13:01 OscovidaWorker 10: Executing notebook with kernel: python3
+21:13:01 OscovidaWorker 11: Writing 720883 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Siegen-Wittgenstein.html
+21:13:01 OscovidaWorker 11: Processing SK Duisburg
+21:13:01 OscovidaWorker 11: Processing ['Nordrhein-Westfalen', 'SK Duisburg'] attempt 0
+21:13:01 OscovidaWorker 1: Executing notebook with kernel: python3
+21:13:02 OscovidaWorker 2: Writing 743657 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Unna.html
+21:13:02 OscovidaWorker 2: Processing SK Gelsenkirchen
+21:13:02 OscovidaWorker 2: Processing ['Nordrhein-Westfalen', 'SK Gelsenkirchen'] attempt 0
+21:13:03 OscovidaWorker 5: Executing notebook with kernel: python3
+21:13:03 OscovidaWorker 9: Executing notebook with kernel: python3
+21:13:04 OscovidaWorker 4: Executing notebook with kernel: python3
+21:13:05 OscovidaWorker 7: Writing 743968 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Bochum.html
+21:13:05 OscovidaWorker 7: Processing SK Köln
+21:13:05 OscovidaWorker 7: Processing ['Nordrhein-Westfalen', 'SK Köln'] attempt 0
+21:13:05 OscovidaWorker 3: Executing notebook with kernel: python3
+21:13:05 OscovidaWorker 11: Executing notebook with kernel: python3
+21:13:05 OscovidaWorker 6: Executing notebook with kernel: python3
+21:13:05 OscovidaWorker 0: Executing notebook with kernel: python3
+21:13:06 OscovidaWorker 8: Executing notebook with kernel: python3
+21:13:06 OscovidaWorker 2: Executing notebook with kernel: python3
+21:13:07 OscovidaWorker 7: Executing notebook with kernel: python3
+21:13:11 OscovidaWorker 10: Writing 727962 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Mülheim-a.d.Ruhr.html
+21:13:11 OscovidaWorker 10: Processing LK Bernkastel-Wittlich
+21:13:11 OscovidaWorker 10: Processing ['Rheinland-Pfalz', 'LK Bernkastel-Wittlich'] attempt 0
+21:13:11 OscovidaWorker 1: Writing 748113 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Steinfurt.html
+21:13:11 OscovidaWorker 1: Processing SK Essen
+21:13:11 OscovidaWorker 1: Processing ['Nordrhein-Westfalen', 'SK Essen'] attempt 0
+21:13:13 OscovidaWorker 5: Writing 737482 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Paderborn.html
+21:13:13 OscovidaWorker 5: Processing LK Wesel
+21:13:13 OscovidaWorker 5: Processing ['Nordrhein-Westfalen', 'LK Wesel'] attempt 0
+21:13:13 OscovidaWorker 1: Executing notebook with kernel: python3
+21:13:14 OscovidaWorker 10: Executing notebook with kernel: python3
+21:13:14 OscovidaWorker 9: Writing 716687 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Bottrop.html
+21:13:14 OscovidaWorker 9: Processing SK Mönchengladbach
+21:13:14 OscovidaWorker 9: Processing ['Nordrhein-Westfalen', 'SK Mönchengladbach'] attempt 0
+21:13:15 OscovidaWorker 5: Executing notebook with kernel: python3
+21:13:16 OscovidaWorker 3: Writing 722391 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Hagen.html
+21:13:16 OscovidaWorker 3: Processing SK Wuppertal
+21:13:16 OscovidaWorker 3: Processing ['Nordrhein-Westfalen', 'SK Wuppertal'] attempt 0
+21:13:16 OscovidaWorker 4: Writing 724429 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Hamm.html
+21:13:16 OscovidaWorker 4: Processing StadtRegion Aachen
+21:13:16 OscovidaWorker 4: Processing ['Nordrhein-Westfalen', 'StadtRegion Aachen'] attempt 0
+21:13:16 OscovidaWorker 9: Executing notebook with kernel: python3
+21:13:17 OscovidaWorker 0: Writing 713472 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Soest.html
+21:13:17 OscovidaWorker 0: Processing SK Düsseldorf
+21:13:17 OscovidaWorker 0: Processing ['Nordrhein-Westfalen', 'SK Düsseldorf'] attempt 0
+21:13:17 OscovidaWorker 6: Writing 735777 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Krefeld.html
+21:13:17 OscovidaWorker 6: Processing LK Altenkirchen
+21:13:17 OscovidaWorker 6: Processing ['Rheinland-Pfalz', 'LK Altenkirchen'] attempt 0
+21:13:17 OscovidaWorker 7: Writing 739651 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Köln.html
+21:13:17 OscovidaWorker 7: Processing LK Alzey-Worms
+21:13:17 OscovidaWorker 7: Processing ['Rheinland-Pfalz', 'LK Alzey-Worms'] attempt 0
+21:13:17 OscovidaWorker 11: Writing 773105 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Duisburg.html
+21:13:18 OscovidaWorker 11: Processing SK Münster
+21:13:18 OscovidaWorker 11: Processing ['Nordrhein-Westfalen', 'SK Münster'] attempt 0
+21:13:18 OscovidaWorker 8: Writing 719377 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Leverkusen.html
+21:13:18 OscovidaWorker 2: Writing 753067 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Gelsenkirchen.html
+21:13:18 OscovidaWorker 8: Processing LK Bad Dürkheim
+21:13:18 OscovidaWorker 8: Processing ['Rheinland-Pfalz', 'LK Bad Dürkheim'] attempt 0
+21:13:18 OscovidaWorker 2: Processing SK Solingen
+21:13:18 OscovidaWorker 2: Processing ['Nordrhein-Westfalen', 'SK Solingen'] attempt 0
+21:13:19 OscovidaWorker 3: Executing notebook with kernel: python3
+21:13:19 OscovidaWorker 4: Executing notebook with kernel: python3
+21:13:22 OscovidaWorker 6: Executing notebook with kernel: python3
+21:13:22 OscovidaWorker 8: Executing notebook with kernel: python3
+21:13:22 OscovidaWorker 11: Executing notebook with kernel: python3
+21:13:22 OscovidaWorker 7: Executing notebook with kernel: python3
+21:13:22 OscovidaWorker 10: Writing 719825 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Bernkastel-Wittlich.html
+21:13:22 OscovidaWorker 10: Processing LK Rhein-Lahn-Kreis
+21:13:22 OscovidaWorker 10: Processing ['Rheinland-Pfalz', 'LK Rhein-Lahn-Kreis'] attempt 0
+21:13:22 OscovidaWorker 0: Executing notebook with kernel: python3
+21:13:22 OscovidaWorker 2: Executing notebook with kernel: python3
+21:13:23 OscovidaWorker 1: Writing 739180 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Essen.html
+21:13:23 OscovidaWorker 1: Processing SK Remscheid
+21:13:23 OscovidaWorker 1: Processing ['Nordrhein-Westfalen', 'SK Remscheid'] attempt 0
+21:13:24 OscovidaWorker 10: Executing notebook with kernel: python3
+21:13:24 OscovidaWorker 5: Writing 752795 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-LK-Wesel.html
+21:13:24 OscovidaWorker 5: Processing SK Herne
+21:13:24 OscovidaWorker 5: Processing ['Nordrhein-Westfalen', 'SK Herne'] attempt 0
+21:13:25 OscovidaWorker 9: Writing 772100 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Mönchengladbach.html
+21:13:25 OscovidaWorker 9: Processing LK Bad Kreuznach
+21:13:25 OscovidaWorker 9: Processing ['Rheinland-Pfalz', 'LK Bad Kreuznach'] attempt 0
+21:13:25 OscovidaWorker 1: Executing notebook with kernel: python3
+21:13:26 OscovidaWorker 5: Executing notebook with kernel: python3
+21:13:26 OscovidaWorker 9: Executing notebook with kernel: python3
+21:13:29 OscovidaWorker 3: Writing 756221 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Wuppertal.html
+21:13:29 OscovidaWorker 3: Processing LK Germersheim
+21:13:29 OscovidaWorker 3: Processing ['Rheinland-Pfalz', 'LK Germersheim'] attempt 0
+21:13:31 OscovidaWorker 3: Executing notebook with kernel: python3
+21:13:32 OscovidaWorker 4: Writing 782149 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-StadtRegion-Aachen.html
+21:13:32 OscovidaWorker 6: Writing 710130 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Altenkirchen.html
+21:13:32 OscovidaWorker 4: Processing LK Kaiserslautern
+21:13:32 OscovidaWorker 4: Processing ['Rheinland-Pfalz', 'LK Kaiserslautern'] attempt 0
+21:13:32 OscovidaWorker 6: Processing LK Mainz-Bingen
+21:13:32 OscovidaWorker 6: Processing ['Rheinland-Pfalz', 'LK Mainz-Bingen'] attempt 0
+21:13:33 OscovidaWorker 8: Writing 732128 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Bad-Dürkheim.html
+21:13:33 OscovidaWorker 8: Processing LK Neuwied
+21:13:33 OscovidaWorker 8: Processing ['Rheinland-Pfalz', 'LK Neuwied'] attempt 0
+21:13:34 OscovidaWorker 0: Writing 775188 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Düsseldorf.html
+21:13:34 OscovidaWorker 0: Processing SK Oberhausen
+21:13:34 OscovidaWorker 0: Processing ['Nordrhein-Westfalen', 'SK Oberhausen'] attempt 0
+21:13:34 OscovidaWorker 2: Writing 709402 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Solingen.html
+21:13:34 OscovidaWorker 2: Processing LK Donnersbergkreis
+21:13:34 OscovidaWorker 2: Processing ['Rheinland-Pfalz', 'LK Donnersbergkreis'] attempt 0
+21:13:34 OscovidaWorker 6: Executing notebook with kernel: python3
+21:13:34 OscovidaWorker 7: Writing 709885 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Alzey-Worms.html
+21:13:34 OscovidaWorker 7: Processing LK Mayen-Koblenz
+21:13:34 OscovidaWorker 7: Processing ['Rheinland-Pfalz', 'LK Mayen-Koblenz'] attempt 0
+21:13:34 OscovidaWorker 11: Writing 749831 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Münster.html
+21:13:34 OscovidaWorker 11: Processing LK Birkenfeld
+21:13:34 OscovidaWorker 11: Processing ['Rheinland-Pfalz', 'LK Birkenfeld'] attempt 0
+21:13:34 OscovidaWorker 4: Executing notebook with kernel: python3
+21:13:35 OscovidaWorker 1: Writing 720216 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Remscheid.html
+21:13:35 OscovidaWorker 1: Processing LK Cochem-Zell
+21:13:35 OscovidaWorker 1: Processing ['Rheinland-Pfalz', 'LK Cochem-Zell'] attempt 0
+21:13:35 OscovidaWorker 10: Writing 702106 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Rhein-Lahn-Kreis.html
+21:13:35 OscovidaWorker 10: Processing SK Mainz
+21:13:35 OscovidaWorker 10: Processing ['Rheinland-Pfalz', 'SK Mainz'] attempt 0
+21:13:36 OscovidaWorker 5: Writing 708003 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Herne.html
+21:13:36 OscovidaWorker 5: Processing LK Ahrweiler
+21:13:36 OscovidaWorker 5: Processing ['Rheinland-Pfalz', 'LK Ahrweiler'] attempt 0
+21:13:36 OscovidaWorker 9: Writing 700930 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Bad-Kreuznach.html
+21:13:36 OscovidaWorker 9: Processing LK Rhein-Hunsrück-Kreis
+21:13:36 OscovidaWorker 9: Processing ['Rheinland-Pfalz', 'LK Rhein-Hunsrück-Kreis'] attempt 0
+21:13:37 OscovidaWorker 8: Executing notebook with kernel: python3
+21:13:38 OscovidaWorker 7: Executing notebook with kernel: python3
+21:13:38 OscovidaWorker 2: Executing notebook with kernel: python3
+21:13:38 OscovidaWorker 0: Executing notebook with kernel: python3
+21:13:39 OscovidaWorker 11: Executing notebook with kernel: python3
+21:13:39 OscovidaWorker 1: Executing notebook with kernel: python3
+21:13:40 OscovidaWorker 10: Executing notebook with kernel: python3
+21:13:40 OscovidaWorker 3: Writing 716465 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Germersheim.html
+21:13:40 OscovidaWorker 3: Processing LK Vulkaneifel
+21:13:40 OscovidaWorker 3: Processing ['Rheinland-Pfalz', 'LK Vulkaneifel'] attempt 0
+21:13:40 OscovidaWorker 5: Executing notebook with kernel: python3
+21:13:40 OscovidaWorker 9: Executing notebook with kernel: python3
+21:13:42 OscovidaWorker 3: Executing notebook with kernel: python3
+21:13:43 OscovidaWorker 6: Writing 735509 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Mainz-Bingen.html
+21:13:43 OscovidaWorker 6: Processing SK Kaiserslautern
+21:13:43 OscovidaWorker 6: Processing ['Rheinland-Pfalz', 'SK Kaiserslautern'] attempt 0
+21:13:44 OscovidaWorker 4: Writing 693497 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Kaiserslautern.html
+21:13:44 OscovidaWorker 4: Processing LK Westerwaldkreis
+21:13:44 OscovidaWorker 4: Processing ['Rheinland-Pfalz', 'LK Westerwaldkreis'] attempt 0
+21:13:44 OscovidaWorker 6: Executing notebook with kernel: python3
+21:13:46 OscovidaWorker 4: Executing notebook with kernel: python3
+21:13:48 OscovidaWorker 8: Writing 689344 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Neuwied.html
+21:13:48 OscovidaWorker 8: Processing SK Landau i.d.Pfalz
+21:13:48 OscovidaWorker 8: Processing ['Rheinland-Pfalz', 'SK Landau i.d.Pfalz'] attempt 0
+21:13:49 OscovidaWorker 7: Writing 721026 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Mayen-Koblenz.html
+21:13:49 OscovidaWorker 7: Processing SK Koblenz
+21:13:49 OscovidaWorker 7: Processing ['Rheinland-Pfalz', 'SK Koblenz'] attempt 0
+21:13:50 OscovidaWorker 8: Executing notebook with kernel: python3
+21:13:50 OscovidaWorker 11: Writing 687147 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Birkenfeld.html
+21:13:50 OscovidaWorker 11: Processing LK Rhein-Pfalz-Kreis
+21:13:50 OscovidaWorker 11: Processing ['Rheinland-Pfalz', 'LK Rhein-Pfalz-Kreis'] attempt 0
+21:13:50 OscovidaWorker 2: Writing 701433 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Donnersbergkreis.html
+21:13:50 OscovidaWorker 2: Processing LK Trier-Saarburg
+21:13:50 OscovidaWorker 2: Processing ['Rheinland-Pfalz', 'LK Trier-Saarburg'] attempt 0
+21:13:50 OscovidaWorker 0: Writing 719954 bytes to ./wwwroot/html/Germany-Nordrhein-Westfalen-SK-Oberhausen.html
+21:13:50 OscovidaWorker 0: Processing LK Bitburg-Prüm
+21:13:50 OscovidaWorker 0: Processing ['Rheinland-Pfalz', 'LK Bitburg-Prüm'] attempt 0
+21:13:51 OscovidaWorker 9: Writing 704285 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Rhein-Hunsrück-Kreis.html
+21:13:51 OscovidaWorker 9: Processing SK Ludwigshafen
+21:13:51 OscovidaWorker 9: Processing ['Rheinland-Pfalz', 'SK Ludwigshafen'] attempt 0
+21:13:52 OscovidaWorker 1: Writing 684040 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Cochem-Zell.html
+21:13:52 OscovidaWorker 10: Writing 748347 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Mainz.html
+21:13:52 OscovidaWorker 1: Processing LK Südwestpfalz
+21:13:52 OscovidaWorker 1: Processing ['Rheinland-Pfalz', 'LK Südwestpfalz'] attempt 0
+21:13:52 OscovidaWorker 10: Processing LK Stadtverband Saarbrücken
+21:13:52 OscovidaWorker 10: Processing ['Saarland', 'LK Stadtverband Saarbrücken'] attempt 0
+21:13:52 OscovidaWorker 5: Writing 706851 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Ahrweiler.html
+21:13:52 OscovidaWorker 5: Processing LK Kusel
+21:13:52 OscovidaWorker 5: Processing ['Rheinland-Pfalz', 'LK Kusel'] attempt 0
+21:13:52 OscovidaWorker 3: Writing 689630 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Vulkaneifel.html
+21:13:52 OscovidaWorker 3: Processing SK Worms
+21:13:52 OscovidaWorker 3: Processing ['Rheinland-Pfalz', 'SK Worms'] attempt 0
+21:13:53 OscovidaWorker 7: Executing notebook with kernel: python3
+21:13:54 OscovidaWorker 4: Writing 737239 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Westerwaldkreis.html
+21:13:54 OscovidaWorker 4: Processing SK Zweibrücken
+21:13:54 OscovidaWorker 4: Processing ['Rheinland-Pfalz', 'SK Zweibrücken'] attempt 0
+21:13:54 OscovidaWorker 11: Executing notebook with kernel: python3
+21:13:54 OscovidaWorker 2: Executing notebook with kernel: python3
+21:13:55 OscovidaWorker 6: Writing 737543 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Kaiserslautern.html
+21:13:55 OscovidaWorker 6: Processing LK Neunkirchen
+21:13:55 OscovidaWorker 6: Processing ['Saarland', 'LK Neunkirchen'] attempt 0
+21:13:55 OscovidaWorker 0: Executing notebook with kernel: python3
+21:13:56 OscovidaWorker 9: Executing notebook with kernel: python3
+21:13:56 OscovidaWorker 10: Executing notebook with kernel: python3
+21:13:56 OscovidaWorker 1: Executing notebook with kernel: python3
+21:13:57 OscovidaWorker 5: Executing notebook with kernel: python3
+21:13:57 OscovidaWorker 3: Executing notebook with kernel: python3
+21:13:58 OscovidaWorker 4: Executing notebook with kernel: python3
+21:13:58 OscovidaWorker 6: Executing notebook with kernel: python3
+21:13:58 OscovidaWorker 8: Writing 675359 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Landau-i.d.Pfalz.html
+21:13:58 OscovidaWorker 8: Processing LK Saarlouis
+21:13:58 OscovidaWorker 8: Processing ['Saarland', 'LK Saarlouis'] attempt 0
+21:14:00 OscovidaWorker 8: Executing notebook with kernel: python3
+21:14:04 OscovidaWorker 7: Writing 718132 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Koblenz.html
+21:14:04 OscovidaWorker 7: Processing LK Saar-Pfalz-Kreis
+21:14:04 OscovidaWorker 7: Processing ['Saarland', 'LK Saar-Pfalz-Kreis'] attempt 0
+21:14:05 OscovidaWorker 2: Writing 706662 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Trier-Saarburg.html
+21:14:05 OscovidaWorker 2: Processing SK Trier
+21:14:05 OscovidaWorker 2: Processing ['Rheinland-Pfalz', 'SK Trier'] attempt 0
+21:14:06 OscovidaWorker 10: Writing 769326 bytes to ./wwwroot/html/Germany-Saarland-LK-Stadtverband-Saarbrücken.html
+21:14:06 OscovidaWorker 11: Writing 728562 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Rhein-Pfalz-Kreis.html
+21:14:06 OscovidaWorker 11: Processing SK Neustadt a.d.Weinstraße
+21:14:06 OscovidaWorker 11: Processing ['Rheinland-Pfalz', 'SK Neustadt a.d.Weinstraße'] attempt 0
+21:14:06 OscovidaWorker 10: Processing SK Dresden
+21:14:06 OscovidaWorker 10: Processing ['Sachsen', 'SK Dresden'] attempt 0
+21:14:06 OscovidaWorker 7: Executing notebook with kernel: python3
+21:14:07 OscovidaWorker 0: Writing 714753 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Bitburg-Prüm.html
+21:14:07 OscovidaWorker 0: Processing LK Südliche Weinstraße
+21:14:07 OscovidaWorker 0: Processing ['Rheinland-Pfalz', 'LK Südliche Weinstraße'] attempt 0
+21:14:07 OscovidaWorker 9: Writing 721309 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Ludwigshafen.html
+21:14:07 OscovidaWorker 9: Processing LK Sankt Wendel
+21:14:07 OscovidaWorker 9: Processing ['Saarland', 'LK Sankt Wendel'] attempt 0
+21:14:08 OscovidaWorker 1: Writing 677712 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Südwestpfalz.html
+21:14:08 OscovidaWorker 1: Processing SK Speyer
+21:14:08 OscovidaWorker 1: Processing ['Rheinland-Pfalz', 'SK Speyer'] attempt 0
+21:14:08 OscovidaWorker 5: Writing 678255 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Kusel.html
+21:14:08 OscovidaWorker 4: Writing 662703 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Zweibrücken.html
+21:14:08 OscovidaWorker 5: Processing SK Frankenthal
+21:14:08 OscovidaWorker 5: Processing ['Rheinland-Pfalz', 'SK Frankenthal'] attempt 0
+21:14:08 OscovidaWorker 4: Processing LK Mittelsachsen
+21:14:08 OscovidaWorker 4: Processing ['Sachsen', 'LK Mittelsachsen'] attempt 0
+21:14:08 OscovidaWorker 3: Writing 705385 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Worms.html
+21:14:08 OscovidaWorker 3: Processing LK Meißen
+21:14:08 OscovidaWorker 3: Processing ['Sachsen', 'LK Meißen'] attempt 0
+21:14:09 OscovidaWorker 6: Writing 716683 bytes to ./wwwroot/html/Germany-Saarland-LK-Neunkirchen.html
+21:14:09 OscovidaWorker 6: Processing LK Sächsische Schweiz-Osterzgebirge
+21:14:09 OscovidaWorker 6: Processing ['Sachsen', 'LK Sächsische Schweiz-Osterzgebirge'] attempt 0
+21:14:10 OscovidaWorker 8: Writing 736507 bytes to ./wwwroot/html/Germany-Saarland-LK-Saarlouis.html
+21:14:10 OscovidaWorker 8: Processing LK Zwickau
+21:14:10 OscovidaWorker 8: Processing ['Sachsen', 'LK Zwickau'] attempt 0
+21:14:10 OscovidaWorker 11: Executing notebook with kernel: python3
+21:14:10 OscovidaWorker 2: Executing notebook with kernel: python3
+21:14:11 OscovidaWorker 10: Executing notebook with kernel: python3
+21:14:12 OscovidaWorker 0: Executing notebook with kernel: python3
+21:14:12 OscovidaWorker 1: Executing notebook with kernel: python3
+21:14:12 OscovidaWorker 9: Executing notebook with kernel: python3
+21:14:13 OscovidaWorker 4: Executing notebook with kernel: python3
+21:14:13 OscovidaWorker 3: Executing notebook with kernel: python3
+21:14:13 OscovidaWorker 5: Executing notebook with kernel: python3
+21:14:13 OscovidaWorker 6: Executing notebook with kernel: python3
+21:14:14 OscovidaWorker 8: Executing notebook with kernel: python3
+21:14:14 OscovidaWorker 7: Writing 726196 bytes to ./wwwroot/html/Germany-Saarland-LK-Saar-Pfalz-Kreis.html
+21:14:14 OscovidaWorker 7: Processing LK Vogtlandkreis
+21:14:14 OscovidaWorker 7: Processing ['Sachsen', 'LK Vogtlandkreis'] attempt 0
+21:14:16 OscovidaWorker 7: Executing notebook with kernel: python3
+21:14:21 OscovidaWorker 11: Writing 701142 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Neustadt-a.d.Weinstraße.html
+21:14:21 OscovidaWorker 11: Processing LK Bautzen
+21:14:21 OscovidaWorker 11: Processing ['Sachsen', 'LK Bautzen'] attempt 0
+21:14:21 OscovidaWorker 2: Writing 676052 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Trier.html
+21:14:21 OscovidaWorker 2: Processing LK Leipzig
+21:14:21 OscovidaWorker 2: Processing ['Sachsen', 'LK Leipzig'] attempt 0
+21:14:22 OscovidaWorker 9: Writing 704655 bytes to ./wwwroot/html/Germany-Saarland-LK-Sankt-Wendel.html
+21:14:22 OscovidaWorker 9: Processing SK Chemnitz
+21:14:22 OscovidaWorker 9: Processing ['Sachsen', 'SK Chemnitz'] attempt 0
+21:14:22 OscovidaWorker 10: Writing 722355 bytes to ./wwwroot/html/Germany-Sachsen-SK-Dresden.html
+21:14:22 OscovidaWorker 10: Processing LK Wittenberg
+21:14:22 OscovidaWorker 10: Processing ['Sachsen-Anhalt', 'LK Wittenberg'] attempt 0
+21:14:22 OscovidaWorker 0: Writing 703070 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-LK-Südliche-Weinstraße.html
+21:14:22 OscovidaWorker 0: Processing SK Pirmasens
+21:14:22 OscovidaWorker 0: Processing ['Rheinland-Pfalz', 'SK Pirmasens'] attempt 0
+21:14:24 OscovidaWorker 4: Writing 718134 bytes to ./wwwroot/html/Germany-Sachsen-LK-Mittelsachsen.html
+21:14:24 OscovidaWorker 3: Writing 706680 bytes to ./wwwroot/html/Germany-Sachsen-LK-Meißen.html
+21:14:24 OscovidaWorker 4: Processing LK Harz
+21:14:24 OscovidaWorker 4: Processing ['Sachsen-Anhalt', 'LK Harz'] attempt 0
+21:14:24 OscovidaWorker 3: Processing LK Börde
+21:14:24 OscovidaWorker 3: Processing ['Sachsen-Anhalt', 'LK Börde'] attempt 0
+21:14:24 OscovidaWorker 1: Writing 689206 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Speyer.html
+21:14:24 OscovidaWorker 1: Processing LK Görlitz
+21:14:24 OscovidaWorker 1: Processing ['Sachsen', 'LK Görlitz'] attempt 0
+21:14:24 OscovidaWorker 5: Writing 677599 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Frankenthal.html
+21:14:24 OscovidaWorker 5: Processing LK Merzig-Wadern
+21:14:24 OscovidaWorker 5: Processing ['Saarland', 'LK Merzig-Wadern'] attempt 0
+21:14:25 OscovidaWorker 6: Writing 751764 bytes to ./wwwroot/html/Germany-Sachsen-LK-Sächsische-Schweiz-Osterzgebirge.html
+21:14:25 OscovidaWorker 6: Processing LK Mansfeld-Südharz
+21:14:25 OscovidaWorker 6: Processing ['Sachsen-Anhalt', 'LK Mansfeld-Südharz'] attempt 0
+21:14:25 OscovidaWorker 8: Writing 743895 bytes to ./wwwroot/html/Germany-Sachsen-LK-Zwickau.html
+21:14:25 OscovidaWorker 8: Processing LK Salzlandkreis
+21:14:25 OscovidaWorker 8: Processing ['Sachsen-Anhalt', 'LK Salzlandkreis'] attempt 0
+21:14:25 OscovidaWorker 7: Writing 733383 bytes to ./wwwroot/html/Germany-Sachsen-LK-Vogtlandkreis.html
+21:14:25 OscovidaWorker 7: Processing LK Saalekreis
+21:14:25 OscovidaWorker 7: Processing ['Sachsen-Anhalt', 'LK Saalekreis'] attempt 0
+21:14:26 OscovidaWorker 11: Executing notebook with kernel: python3
+21:14:27 OscovidaWorker 2: Executing notebook with kernel: python3
+21:14:27 OscovidaWorker 10: Executing notebook with kernel: python3
+21:14:27 OscovidaWorker 9: Executing notebook with kernel: python3
+21:14:27 OscovidaWorker 0: Executing notebook with kernel: python3
+21:14:28 OscovidaWorker 3: Executing notebook with kernel: python3
+21:14:29 OscovidaWorker 1: Executing notebook with kernel: python3
+21:14:29 OscovidaWorker 4: Executing notebook with kernel: python3
+21:14:29 OscovidaWorker 6: Executing notebook with kernel: python3
+21:14:30 OscovidaWorker 7: Executing notebook with kernel: python3
+21:14:30 OscovidaWorker 5: Executing notebook with kernel: python3
+21:14:30 OscovidaWorker 8: Executing notebook with kernel: python3
+21:14:37 OscovidaWorker 11: Writing 745152 bytes to ./wwwroot/html/Germany-Sachsen-LK-Bautzen.html
+21:14:37 OscovidaWorker 11: Processing SK Leipzig
+21:14:37 OscovidaWorker 11: Processing ['Sachsen', 'SK Leipzig'] attempt 0
+21:14:37 OscovidaWorker 2: Writing 694012 bytes to ./wwwroot/html/Germany-Sachsen-LK-Leipzig.html
+21:14:37 OscovidaWorker 2: Processing LK Burgenlandkreis
+21:14:37 OscovidaWorker 2: Processing ['Sachsen-Anhalt', 'LK Burgenlandkreis'] attempt 0
+21:14:38 OscovidaWorker 10: Writing 682480 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Wittenberg.html
+21:14:38 OscovidaWorker 10: Processing LK Segeberg
+21:14:38 OscovidaWorker 10: Processing ['Schleswig-Holstein', 'LK Segeberg'] attempt 0
+21:14:38 OscovidaWorker 9: Writing 699379 bytes to ./wwwroot/html/Germany-Sachsen-SK-Chemnitz.html
+21:14:38 OscovidaWorker 9: Processing LK Stendal
+21:14:38 OscovidaWorker 9: Processing ['Sachsen-Anhalt', 'LK Stendal'] attempt 0
+21:14:38 OscovidaWorker 0: Writing 654697 bytes to ./wwwroot/html/Germany-Rheinland-Pfalz-SK-Pirmasens.html
+21:14:38 OscovidaWorker 0: Processing LK Erzgebirgskreis
+21:14:38 OscovidaWorker 0: Processing ['Sachsen', 'LK Erzgebirgskreis'] attempt 0
+21:14:39 OscovidaWorker 4: Writing 695771 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Harz.html
+21:14:39 OscovidaWorker 4: Processing LK Nordfriesland
+21:14:39 OscovidaWorker 4: Processing ['Schleswig-Holstein', 'LK Nordfriesland'] attempt 0
+21:14:39 OscovidaWorker 7: Writing 703894 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Saalekreis.html
+21:14:39 OscovidaWorker 7: Processing LK Plön
+21:14:39 OscovidaWorker 11: Executing notebook with kernel: python3
+21:14:39 OscovidaWorker 7: Processing ['Schleswig-Holstein', 'LK Plön'] attempt 0
+21:14:40 OscovidaWorker 3: Writing 703738 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Börde.html
+21:14:40 OscovidaWorker 3: Processing LK Herzogtum Lauenburg
+21:14:40 OscovidaWorker 3: Processing ['Schleswig-Holstein', 'LK Herzogtum Lauenburg'] attempt 0
+21:14:40 OscovidaWorker 1: Writing 712702 bytes to ./wwwroot/html/Germany-Sachsen-LK-Görlitz.html
+21:14:40 OscovidaWorker 1: Processing LK Anhalt-Bitterfeld
+21:14:40 OscovidaWorker 1: Processing ['Sachsen-Anhalt', 'LK Anhalt-Bitterfeld'] attempt 0
+21:14:41 OscovidaWorker 6: Writing 698671 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Mansfeld-Südharz.html
+21:14:41 OscovidaWorker 5: Writing 715782 bytes to ./wwwroot/html/Germany-Saarland-LK-Merzig-Wadern.html
+21:14:41 OscovidaWorker 6: Processing LK Pinneberg
+21:14:41 OscovidaWorker 6: Processing ['Schleswig-Holstein', 'LK Pinneberg'] attempt 0
+21:14:41 OscovidaWorker 5: Processing LK Nordsachsen
+21:14:41 OscovidaWorker 5: Processing ['Sachsen', 'LK Nordsachsen'] attempt 0
+21:14:42 OscovidaWorker 8: Writing 680156 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Salzlandkreis.html
+21:14:42 OscovidaWorker 8: Processing LK Rendsburg-Eckernförde
+21:14:42 OscovidaWorker 8: Processing ['Schleswig-Holstein', 'LK Rendsburg-Eckernförde'] attempt 0
+21:14:42 OscovidaWorker 2: Executing notebook with kernel: python3
+21:14:43 OscovidaWorker 9: Executing notebook with kernel: python3
+21:14:43 OscovidaWorker 0: Executing notebook with kernel: python3
+21:14:43 OscovidaWorker 10: Executing notebook with kernel: python3
+21:14:44 OscovidaWorker 4: Executing notebook with kernel: python3
+21:14:44 OscovidaWorker 1: Executing notebook with kernel: python3
+21:14:44 OscovidaWorker 7: Executing notebook with kernel: python3
+21:14:44 OscovidaWorker 3: Executing notebook with kernel: python3
+21:14:45 OscovidaWorker 6: Executing notebook with kernel: python3
+21:14:45 OscovidaWorker 5: Executing notebook with kernel: python3
+21:14:46 OscovidaWorker 8: Executing notebook with kernel: python3
+21:14:49 OscovidaWorker 11: Writing 744479 bytes to ./wwwroot/html/Germany-Sachsen-SK-Leipzig.html
+21:14:49 OscovidaWorker 11: Processing SK Dessau-Roßlau
+21:14:49 OscovidaWorker 11: Processing ['Sachsen-Anhalt', 'SK Dessau-Roßlau'] attempt 0
+21:14:51 OscovidaWorker 11: Executing notebook with kernel: python3
+21:14:52 OscovidaWorker 9: Writing 683601 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Stendal.html
+21:14:52 OscovidaWorker 9: Processing LK Schleswig-Flensburg
+21:14:52 OscovidaWorker 9: Processing ['Schleswig-Holstein', 'LK Schleswig-Flensburg'] attempt 0
+21:14:53 OscovidaWorker 2: Writing 710491 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Burgenlandkreis.html
+21:14:53 OscovidaWorker 2: Processing LK Dithmarschen
+21:14:53 OscovidaWorker 2: Processing ['Schleswig-Holstein', 'LK Dithmarschen'] attempt 0
+21:14:55 OscovidaWorker 10: Writing 726299 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Segeberg.html
+21:14:55 OscovidaWorker 2: Executing notebook with kernel: python3
+21:14:55 OscovidaWorker 6: Writing 746594 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Pinneberg.html
+21:14:55 OscovidaWorker 10: Processing LK Ilm-Kreis
+21:14:55 OscovidaWorker 10: Processing ['Thüringen', 'LK Ilm-Kreis'] attempt 0
+21:14:55 OscovidaWorker 6: Processing LK Eichsfeld
+21:14:55 OscovidaWorker 6: Processing ['Thüringen', 'LK Eichsfeld'] attempt 0
+21:14:55 OscovidaWorker 0: Writing 731160 bytes to ./wwwroot/html/Germany-Sachsen-LK-Erzgebirgskreis.html
+21:14:55 OscovidaWorker 0: Processing LK Altmarkkreis Salzwedel
+21:14:55 OscovidaWorker 0: Processing ['Sachsen-Anhalt', 'LK Altmarkkreis Salzwedel'] attempt 0
+21:14:55 OscovidaWorker 9: Executing notebook with kernel: python3
+21:14:55 OscovidaWorker 4: Writing 696348 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Nordfriesland.html
+21:14:55 OscovidaWorker 4: Processing SK Neumünster
+21:14:56 OscovidaWorker 4: Processing ['Schleswig-Holstein', 'SK Neumünster'] attempt 0
+21:14:56 OscovidaWorker 7: Writing 691023 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Plön.html
+21:14:56 OscovidaWorker 7: Processing LK Gotha
+21:14:56 OscovidaWorker 7: Processing ['Thüringen', 'LK Gotha'] attempt 0
+21:14:56 OscovidaWorker 5: Writing 685012 bytes to ./wwwroot/html/Germany-Sachsen-LK-Nordsachsen.html
+21:14:56 OscovidaWorker 1: Writing 693793 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Anhalt-Bitterfeld.html
+21:14:56 OscovidaWorker 5: Processing LK Jerichower Land
+21:14:56 OscovidaWorker 5: Processing ['Sachsen-Anhalt', 'LK Jerichower Land'] attempt 0
+21:14:57 OscovidaWorker 1: Processing SK Magdeburg
+21:14:57 OscovidaWorker 1: Processing ['Sachsen-Anhalt', 'SK Magdeburg'] attempt 0
+21:14:57 OscovidaWorker 3: Writing 737728 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Herzogtum-Lauenburg.html
+21:14:57 OscovidaWorker 3: Processing SK Lübeck
+21:14:57 OscovidaWorker 3: Processing ['Schleswig-Holstein', 'SK Lübeck'] attempt 0
+21:14:57 OscovidaWorker 8: Writing 734424 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Rendsburg-Eckernförde.html
+21:14:57 OscovidaWorker 8: Processing LK Greiz
+21:14:57 OscovidaWorker 8: Processing ['Thüringen', 'LK Greiz'] attempt 0
+21:14:59 OscovidaWorker 10: Executing notebook with kernel: python3
+21:14:59 OscovidaWorker 6: Executing notebook with kernel: python3
+21:15:00 OscovidaWorker 0: Executing notebook with kernel: python3
+21:15:00 OscovidaWorker 4: Executing notebook with kernel: python3
+21:15:00 OscovidaWorker 5: Executing notebook with kernel: python3
+21:15:01 OscovidaWorker 7: Executing notebook with kernel: python3
+21:15:01 OscovidaWorker 11: Writing 677887 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-SK-Dessau-Roßlau.html
+21:15:01 OscovidaWorker 11: Processing LK Steinburg
+21:15:01 OscovidaWorker 11: Processing ['Schleswig-Holstein', 'LK Steinburg'] attempt 0
+21:15:01 OscovidaWorker 1: Executing notebook with kernel: python3
+21:15:01 OscovidaWorker 8: Executing notebook with kernel: python3
+21:15:01 OscovidaWorker 3: Executing notebook with kernel: python3
+21:15:03 OscovidaWorker 11: Executing notebook with kernel: python3
+21:15:04 OscovidaWorker 2: Writing 694325 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Dithmarschen.html
+21:15:04 OscovidaWorker 2: Processing SK Kiel
+21:15:04 OscovidaWorker 2: Processing ['Schleswig-Holstein', 'SK Kiel'] attempt 0
+21:15:04 OscovidaWorker 9: Writing 713296 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Schleswig-Flensburg.html
+21:15:04 OscovidaWorker 9: Processing LK Hildburghausen
+21:15:04 OscovidaWorker 9: Processing ['Thüringen', 'LK Hildburghausen'] attempt 0
+21:15:06 OscovidaWorker 2: Executing notebook with kernel: python3
+21:15:07 OscovidaWorker 9: Executing notebook with kernel: python3
+21:15:09 OscovidaWorker 6: Writing 701424 bytes to ./wwwroot/html/Germany-Thüringen-LK-Eichsfeld.html
+21:15:09 OscovidaWorker 6: Processing LK Sömmerda
+21:15:09 OscovidaWorker 6: Processing ['Thüringen', 'LK Sömmerda'] attempt 0
+21:15:10 OscovidaWorker 0: Writing 685303 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Altmarkkreis-Salzwedel.html
+21:15:10 OscovidaWorker 0: Processing SK Halle
+21:15:10 OscovidaWorker 0: Processing ['Sachsen-Anhalt', 'SK Halle'] attempt 0
+21:15:11 OscovidaWorker 10: Writing 698740 bytes to ./wwwroot/html/Germany-Thüringen-LK-Ilm-Kreis.html
+21:15:11 OscovidaWorker 10: Processing SK Eisenach
+21:15:11 OscovidaWorker 10: Processing ['Thüringen', 'SK Eisenach'] attempt 0
+21:15:11 OscovidaWorker 1: Writing 694395 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-SK-Magdeburg.html
+21:15:12 OscovidaWorker 1: Processing SK Flensburg
+21:15:12 OscovidaWorker 1: Processing ['Schleswig-Holstein', 'SK Flensburg'] attempt 0
+21:15:12 OscovidaWorker 4: Writing 682876 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-SK-Neumünster.html
+21:15:12 OscovidaWorker 4: Processing LK Schmalkalden-Meiningen
+21:15:12 OscovidaWorker 4: Processing ['Thüringen', 'LK Schmalkalden-Meiningen'] attempt 0
+21:15:12 OscovidaWorker 5: Writing 668693 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-LK-Jerichower-Land.html
+21:15:12 OscovidaWorker 5: Processing LK Ostholstein
+21:15:12 OscovidaWorker 5: Processing ['Schleswig-Holstein', 'LK Ostholstein'] attempt 0
+21:15:12 OscovidaWorker 6: Executing notebook with kernel: python3
+21:15:12 OscovidaWorker 7: Writing 717826 bytes to ./wwwroot/html/Germany-Thüringen-LK-Gotha.html
+21:15:12 OscovidaWorker 7: Processing LK Unstrut-Hainich-Kreis
+21:15:12 OscovidaWorker 7: Processing ['Thüringen', 'LK Unstrut-Hainich-Kreis'] attempt 0
+21:15:13 OscovidaWorker 3: Writing 711472 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-SK-Lübeck.html
+21:15:13 OscovidaWorker 3: Processing LK Saalfeld-Rudolstadt
+21:15:13 OscovidaWorker 3: Processing ['Thüringen', 'LK Saalfeld-Rudolstadt'] attempt 0
+21:15:13 OscovidaWorker 8: Writing 741973 bytes to ./wwwroot/html/Germany-Thüringen-LK-Greiz.html
+21:15:13 OscovidaWorker 8: Processing LK Wartburgkreis
+21:15:13 OscovidaWorker 8: Processing ['Thüringen', 'LK Wartburgkreis'] attempt 0
+21:15:14 OscovidaWorker 11: Writing 698943 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Steinburg.html
+21:15:14 OscovidaWorker 11: Processing LK Kyffhäuserkreis
+21:15:14 OscovidaWorker 11: Processing ['Thüringen', 'LK Kyffhäuserkreis'] attempt 0
+21:15:15 OscovidaWorker 10: Executing notebook with kernel: python3
+21:15:15 OscovidaWorker 0: Executing notebook with kernel: python3
+21:15:16 OscovidaWorker 9: Writing 683888 bytes to ./wwwroot/html/Germany-Thüringen-LK-Hildburghausen.html
+21:15:16 OscovidaWorker 9: Processing LK Weimarer Land
+21:15:16 OscovidaWorker 9: Processing ['Thüringen', 'LK Weimarer Land'] attempt 0
+21:15:16 OscovidaWorker 5: Executing notebook with kernel: python3
+21:15:16 OscovidaWorker 2: Writing 704561 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-SK-Kiel.html
+21:15:16 OscovidaWorker 2: Processing LK Saale-Orla-Kreis
+21:15:16 OscovidaWorker 2: Processing ['Thüringen', 'LK Saale-Orla-Kreis'] attempt 0
+21:15:16 OscovidaWorker 1: Executing notebook with kernel: python3
+21:15:17 OscovidaWorker 4: Executing notebook with kernel: python3
+21:15:17 OscovidaWorker 7: Executing notebook with kernel: python3
+21:15:18 OscovidaWorker 8: Executing notebook with kernel: python3
+21:15:18 OscovidaWorker 3: Executing notebook with kernel: python3
+21:15:18 OscovidaWorker 11: Executing notebook with kernel: python3
+21:15:19 OscovidaWorker 2: Executing notebook with kernel: python3
+21:15:19 OscovidaWorker 9: Executing notebook with kernel: python3
+21:15:21 OscovidaWorker 6: Writing 661284 bytes to ./wwwroot/html/Germany-Thüringen-LK-Sömmerda.html
+21:15:25 OscovidaWorker 10: Writing 672014 bytes to ./wwwroot/html/Germany-Thüringen-SK-Eisenach.html
+21:15:25 OscovidaWorker 0: Writing 720294 bytes to ./wwwroot/html/Germany-Sachsen-Anhalt-SK-Halle.html
+21:15:25 OscovidaWorker 0: Processing LK Stormarn
+21:15:25 OscovidaWorker 0: Processing ['Schleswig-Holstein', 'LK Stormarn'] attempt 0
+21:15:26 OscovidaWorker 7: Writing 695343 bytes to ./wwwroot/html/Germany-Thüringen-LK-Unstrut-Hainich-Kreis.html
+21:15:27 OscovidaWorker 5: Writing 682597 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Ostholstein.html
+21:15:27 OscovidaWorker 5: Processing LK Altenburger Land
+21:15:27 OscovidaWorker 5: Processing ['Thüringen', 'LK Altenburger Land'] attempt 0
+21:15:27 OscovidaWorker 0: Executing notebook with kernel: python3
+21:15:27 OscovidaWorker 1: Writing 675138 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-SK-Flensburg.html
+21:15:27 OscovidaWorker 1: Processing LK Saale-Holzland-Kreis
+21:15:27 OscovidaWorker 1: Processing ['Thüringen', 'LK Saale-Holzland-Kreis'] attempt 0
+21:15:27 OscovidaWorker 4: Writing 719675 bytes to ./wwwroot/html/Germany-Thüringen-LK-Schmalkalden-Meiningen.html
+21:15:27 OscovidaWorker 3: Writing 685389 bytes to ./wwwroot/html/Germany-Thüringen-LK-Saalfeld-Rudolstadt.html
+21:15:28 OscovidaWorker 3: Processing SK Weimar
+21:15:28 OscovidaWorker 3: Processing ['Thüringen', 'SK Weimar'] attempt 0
+21:15:28 OscovidaWorker 8: Writing 699416 bytes to ./wwwroot/html/Germany-Thüringen-LK-Wartburgkreis.html
+21:15:29 OscovidaWorker 9: Writing 679388 bytes to ./wwwroot/html/Germany-Thüringen-LK-Weimarer-Land.html
+21:15:29 OscovidaWorker 11: Writing 685886 bytes to ./wwwroot/html/Germany-Thüringen-LK-Kyffhäuserkreis.html
+21:15:29 OscovidaWorker 11: Processing SK Erfurt
+21:15:29 OscovidaWorker 11: Processing ['Thüringen', 'SK Erfurt'] attempt 0
+21:15:29 OscovidaWorker 5: Executing notebook with kernel: python3
+21:15:29 OscovidaWorker 2: Writing 724295 bytes to ./wwwroot/html/Germany-Thüringen-LK-Saale-Orla-Kreis.html
+21:15:29 OscovidaWorker 2: Processing SK Suhl
+21:15:29 OscovidaWorker 2: Processing ['Thüringen', 'SK Suhl'] attempt 0
+21:15:30 OscovidaWorker 1: Executing notebook with kernel: python3
+21:15:30 OscovidaWorker 3: Executing notebook with kernel: python3
+21:15:31 OscovidaWorker 11: Executing notebook with kernel: python3
+21:15:31 OscovidaWorker 2: Executing notebook with kernel: python3
+21:15:34 OscovidaWorker 0: Writing 742809 bytes to ./wwwroot/html/Germany-Schleswig-Holstein-LK-Stormarn.html
+21:15:34 OscovidaWorker 0: Processing LK Nordhausen
+21:15:34 OscovidaWorker 0: Processing ['Thüringen', 'LK Nordhausen'] attempt 0
+21:15:36 OscovidaWorker 0: Executing notebook with kernel: python3
+21:15:36 OscovidaWorker 11: Writing 693598 bytes to ./wwwroot/html/Germany-Thüringen-SK-Erfurt.html
+21:15:37 OscovidaWorker 5: Writing 705233 bytes to ./wwwroot/html/Germany-Thüringen-LK-Altenburger-Land.html
+21:15:37 OscovidaWorker 5: Processing LK Sonneberg
+21:15:37 OscovidaWorker 5: Processing ['Thüringen', 'LK Sonneberg'] attempt 0
+21:15:37 OscovidaWorker 3: Writing 675273 bytes to ./wwwroot/html/Germany-Thüringen-SK-Weimar.html
+21:15:37 OscovidaWorker 1: Writing 702482 bytes to ./wwwroot/html/Germany-Thüringen-LK-Saale-Holzland-Kreis.html
+21:15:37 OscovidaWorker 1: Processing SK Jena
+21:15:37 OscovidaWorker 1: Processing ['Thüringen', 'SK Jena'] attempt 0
+21:15:38 OscovidaWorker 5: Executing notebook with kernel: python3
+21:15:38 OscovidaWorker 2: Writing 659431 bytes to ./wwwroot/html/Germany-Thüringen-SK-Suhl.html
+21:15:39 OscovidaWorker 1: Executing notebook with kernel: python3
+21:15:42 OscovidaWorker 0: Writing 679993 bytes to ./wwwroot/html/Germany-Thüringen-LK-Nordhausen.html
+21:15:42 OscovidaWorker 0: Processing SK Gera
+21:15:42 OscovidaWorker 0: Processing ['Thüringen', 'SK Gera'] attempt 0
+21:15:44 OscovidaWorker 0: Executing notebook with kernel: python3
+21:15:45 OscovidaWorker 5: Writing 719580 bytes to ./wwwroot/html/Germany-Thüringen-LK-Sonneberg.html
+21:15:45 OscovidaWorker 1: Writing 677782 bytes to ./wwwroot/html/Germany-Thüringen-SK-Jena.html
+21:15:50 OscovidaWorker 0: Writing 710796 bytes to ./wwwroot/html/Germany-Thüringen-SK-Gera.html
+21:15:50 MainThread: 412 regions in markdown index list
+21:15:50 MainThread: Created markdown index file pelican/content/germany.md
+21:15:53 OscovidaWorker 0: Processing Alabama
+21:15:53 OscovidaWorker 1: Processing Alaska
+21:15:53 OscovidaWorker 0: Processing Alabama attempt 0
+21:15:53 OscovidaWorker 2: Processing American Samoa
+21:15:53 OscovidaWorker 3: Processing Arizona
+21:15:53 OscovidaWorker 1: Processing Alaska attempt 0
+21:15:53 OscovidaWorker 4: Processing Arkansas
+21:15:53 OscovidaWorker 5: Processing California
+21:15:53 OscovidaWorker 2: Processing American Samoa attempt 0
+21:15:53 OscovidaWorker 6: Processing Colorado
+21:15:53 OscovidaWorker 3: Processing Arizona attempt 0
+21:15:53 OscovidaWorker 7: Processing Connecticut
+21:15:53 OscovidaWorker 8: Processing Delaware
+21:15:53 OscovidaWorker 4: Processing Arkansas attempt 0
+21:15:53 OscovidaWorker 9: Processing Diamond Princess
+21:15:53 OscovidaWorker 10: Processing District of Columbia
+21:15:53 OscovidaWorker 5: Processing California attempt 0
+21:15:53 OscovidaWorker 11: Processing Florida
+21:15:53 OscovidaWorker 6: Processing Colorado attempt 0
+21:15:53 OscovidaWorker 7: Processing Connecticut attempt 0
+21:15:53 OscovidaWorker 8: Processing Delaware attempt 0
+21:15:53 OscovidaWorker 9: Processing Diamond Princess attempt 0
+21:15:53 OscovidaWorker 10: Processing District of Columbia attempt 0
+21:15:53 OscovidaWorker 11: Processing Florida attempt 0
+21:15:54 OscovidaWorker 4: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 1: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 2: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 3: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 9: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 10: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 0: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 7: Executing notebook with kernel: python3
+21:15:54 OscovidaWorker 8: Executing notebook with kernel: python3
+21:15:55 OscovidaWorker 5: Executing notebook with kernel: python3
+21:15:55 OscovidaWorker 6: Executing notebook with kernel: python3
+21:15:55 OscovidaWorker 11: Executing notebook with kernel: python3
+21:16:00 OscovidaWorker 7: Writing 639190 bytes to ./wwwroot/html/US-Connecticut.html
+21:16:01 OscovidaWorker 7: Processing Iowa
+21:16:01 OscovidaWorker 7: Processing Iowa attempt 0
+21:16:01 OscovidaWorker 9: Writing 565723 bytes to ./wwwroot/html/US-Diamond-Princess.html
+21:16:01 OscovidaWorker 9: Processing Kentucky
+21:16:01 OscovidaWorker 9: Processing Kentucky attempt 0
+21:16:01 OscovidaWorker 10: Writing 640845 bytes to ./wwwroot/html/US-District-of-Columbia.html
+21:16:01 OscovidaWorker 10: Processing Louisiana
+21:16:01 OscovidaWorker 10: Processing Louisiana attempt 0
+21:16:01 OscovidaWorker 2: Writing 550532 bytes to ./wwwroot/html/US-American-Samoa.html
+21:16:01 OscovidaWorker 2: Processing Guam
+21:16:01 OscovidaWorker 2: Processing Guam attempt 0
+21:16:01 OscovidaWorker 1: Writing 607696 bytes to ./wwwroot/html/US-Alaska.html
+21:16:02 OscovidaWorker 3: Writing 634286 bytes to ./wwwroot/html/US-Arizona.html
+21:16:02 OscovidaWorker 1: Processing Grand Princess
+21:16:02 OscovidaWorker 1: Processing Grand Princess attempt 0
+21:16:02 OscovidaWorker 3: Processing Hawaii
+21:16:02 OscovidaWorker 3: Processing Hawaii attempt 0
+21:16:02 OscovidaWorker 6: Writing 635717 bytes to ./wwwroot/html/US-Colorado.html
+21:16:02 OscovidaWorker 6: Processing Indiana
+21:16:02 OscovidaWorker 6: Processing Indiana attempt 0
+21:16:02 OscovidaWorker 4: Writing 647131 bytes to ./wwwroot/html/US-Arkansas.html
+21:16:02 OscovidaWorker 8: Writing 628974 bytes to ./wwwroot/html/US-Delaware.html
+21:16:02 OscovidaWorker 11: Writing 647503 bytes to ./wwwroot/html/US-Florida.html
+21:16:02 OscovidaWorker 4: Processing Idaho
+21:16:02 OscovidaWorker 4: Processing Idaho attempt 0
+21:16:02 OscovidaWorker 8: Processing Kansas
+21:16:02 OscovidaWorker 8: Processing Kansas attempt 0
+21:16:02 OscovidaWorker 11: Processing Maine
+21:16:02 OscovidaWorker 11: Processing Maine attempt 0
+21:16:02 OscovidaWorker 5: Writing 657058 bytes to ./wwwroot/html/US-California.html
+21:16:02 OscovidaWorker 0: Writing 630827 bytes to ./wwwroot/html/US-Alabama.html
+21:16:02 OscovidaWorker 5: Processing Illinois
+21:16:02 OscovidaWorker 5: Processing Illinois attempt 0
+21:16:02 OscovidaWorker 0: Processing Georgia
+21:16:02 OscovidaWorker 0: Processing Georgia attempt 0
+21:16:03 OscovidaWorker 7: Executing notebook with kernel: python3
+21:16:03 OscovidaWorker 10: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 9: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 1: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 2: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 3: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 6: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 11: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 5: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 0: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 4: Executing notebook with kernel: python3
+21:16:04 OscovidaWorker 8: Executing notebook with kernel: python3
+21:16:09 OscovidaWorker 9: Writing 629339 bytes to ./wwwroot/html/US-Kentucky.html
+21:16:09 OscovidaWorker 9: Processing New Hampshire
+21:16:09 OscovidaWorker 9: Processing New Hampshire attempt 0
+21:16:10 OscovidaWorker 7: Writing 627184 bytes to ./wwwroot/html/US-Iowa.html
+21:16:10 OscovidaWorker 7: Processing Nebraska
+21:16:10 OscovidaWorker 7: Processing Nebraska attempt 0
+21:16:10 OscovidaWorker 5: Writing 643386 bytes to ./wwwroot/html/US-Illinois.html
+21:16:10 OscovidaWorker 5: Processing Missouri
+21:16:10 OscovidaWorker 5: Processing Missouri attempt 0
+21:16:10 OscovidaWorker 9: Executing notebook with kernel: python3
+21:16:11 OscovidaWorker 10: Writing 634861 bytes to ./wwwroot/html/US-Louisiana.html
+21:16:11 OscovidaWorker 10: Processing New Jersey
+21:16:11 OscovidaWorker 10: Processing New Jersey attempt 0
+21:16:11 OscovidaWorker 8: Writing 629157 bytes to ./wwwroot/html/US-Kansas.html
+21:16:11 OscovidaWorker 1: Writing 567473 bytes to ./wwwroot/html/US-Grand-Princess.html
+21:16:11 OscovidaWorker 8: Processing Nevada
+21:16:11 OscovidaWorker 8: Processing Nevada attempt 0
+21:16:11 OscovidaWorker 1: Processing Massachusetts
+21:16:11 OscovidaWorker 1: Processing Massachusetts attempt 0
+21:16:11 OscovidaWorker 6: Writing 633715 bytes to ./wwwroot/html/US-Indiana.html
+21:16:11 OscovidaWorker 2: Writing 586410 bytes to ./wwwroot/html/US-Guam.html
+21:16:11 OscovidaWorker 6: Processing Montana
+21:16:11 OscovidaWorker 6: Processing Montana attempt 0
+21:16:11 OscovidaWorker 2: Processing Michigan
+21:16:11 OscovidaWorker 3: Writing 613815 bytes to ./wwwroot/html/US-Hawaii.html
+21:16:11 OscovidaWorker 2: Processing Michigan attempt 0
+21:16:12 OscovidaWorker 3: Processing Minnesota
+21:16:12 OscovidaWorker 3: Processing Minnesota attempt 0
+21:16:12 OscovidaWorker 0: Writing 643442 bytes to ./wwwroot/html/US-Georgia.html
+21:16:12 OscovidaWorker 0: Processing Maryland
+21:16:12 OscovidaWorker 0: Processing Maryland attempt 0
+21:16:12 OscovidaWorker 11: Writing 630316 bytes to ./wwwroot/html/US-Maine.html
+21:16:12 OscovidaWorker 4: Writing 625719 bytes to ./wwwroot/html/US-Idaho.html
+21:16:12 OscovidaWorker 11: Processing New Mexico
+21:16:12 OscovidaWorker 11: Processing New Mexico attempt 0
+21:16:12 OscovidaWorker 4: Processing Mississippi
+21:16:12 OscovidaWorker 4: Processing Mississippi attempt 0
+21:16:13 OscovidaWorker 7: Executing notebook with kernel: python3
+21:16:13 OscovidaWorker 5: Executing notebook with kernel: python3
+21:16:13 OscovidaWorker 10: Executing notebook with kernel: python3
+21:16:13 OscovidaWorker 1: Executing notebook with kernel: python3
+21:16:13 OscovidaWorker 6: Executing notebook with kernel: python3
+21:16:14 OscovidaWorker 2: Executing notebook with kernel: python3
+21:16:14 OscovidaWorker 8: Executing notebook with kernel: python3
+21:16:14 OscovidaWorker 3: Executing notebook with kernel: python3
+21:16:14 OscovidaWorker 11: Executing notebook with kernel: python3
+21:16:14 OscovidaWorker 0: Executing notebook with kernel: python3
+21:16:14 OscovidaWorker 4: Executing notebook with kernel: python3
+21:16:16 OscovidaWorker 9: Writing 648114 bytes to ./wwwroot/html/US-New-Hampshire.html
+21:16:16 OscovidaWorker 9: Processing Rhode Island
+21:16:16 OscovidaWorker 9: Processing Rhode Island attempt 0
+21:16:18 OscovidaWorker 9: Executing notebook with kernel: python3
+21:16:19 OscovidaWorker 1: Writing 638956 bytes to ./wwwroot/html/US-Massachusetts.html
+21:16:19 OscovidaWorker 7: Writing 623673 bytes to ./wwwroot/html/US-Nebraska.html
+21:16:19 OscovidaWorker 1: Processing North Carolina
+21:16:19 OscovidaWorker 1: Processing North Carolina attempt 0
+21:16:19 OscovidaWorker 7: Processing Pennsylvania
+21:16:19 OscovidaWorker 7: Processing Pennsylvania attempt 0
+21:16:19 OscovidaWorker 5: Writing 633341 bytes to ./wwwroot/html/US-Missouri.html
+21:16:20 OscovidaWorker 5: Processing Oklahoma
+21:16:20 OscovidaWorker 5: Processing Oklahoma attempt 0
+21:16:20 OscovidaWorker 0: Writing 630564 bytes to ./wwwroot/html/US-Maryland.html
+21:16:21 OscovidaWorker 0: Processing New York
+21:16:21 OscovidaWorker 0: Processing New York attempt 0
+21:16:21 OscovidaWorker 1: Executing notebook with kernel: python3
+21:16:21 OscovidaWorker 11: Writing 630579 bytes to ./wwwroot/html/US-New-Mexico.html
+21:16:21 OscovidaWorker 7: Executing notebook with kernel: python3
+21:16:21 OscovidaWorker 10: Writing 639169 bytes to ./wwwroot/html/US-New-Jersey.html
+21:16:21 OscovidaWorker 11: Processing South Dakota
+21:16:21 OscovidaWorker 11: Processing South Dakota attempt 0
+21:16:21 OscovidaWorker 10: Processing South Carolina
+21:16:21 OscovidaWorker 10: Processing South Carolina attempt 0
+21:16:21 OscovidaWorker 2: Writing 636485 bytes to ./wwwroot/html/US-Michigan.html
+21:16:21 OscovidaWorker 3: Writing 639635 bytes to ./wwwroot/html/US-Minnesota.html
+21:16:21 OscovidaWorker 8: Writing 627870 bytes to ./wwwroot/html/US-Nevada.html
+21:16:21 OscovidaWorker 4: Writing 632593 bytes to ./wwwroot/html/US-Mississippi.html
+21:16:21 OscovidaWorker 2: Processing North Dakota
+21:16:21 OscovidaWorker 6: Writing 608140 bytes to ./wwwroot/html/US-Montana.html
+21:16:21 OscovidaWorker 2: Processing North Dakota attempt 0
+21:16:21 OscovidaWorker 3: Processing Northern Mariana Islands
+21:16:21 OscovidaWorker 3: Processing Northern Mariana Islands attempt 0
+21:16:21 OscovidaWorker 8: Processing Puerto Rico
+21:16:21 OscovidaWorker 8: Processing Puerto Rico attempt 0
+21:16:21 OscovidaWorker 4: Processing Ohio
+21:16:21 OscovidaWorker 6: Processing Oregon
+21:16:21 OscovidaWorker 4: Processing Ohio attempt 0
+21:16:21 OscovidaWorker 6: Processing Oregon attempt 0
+21:16:21 OscovidaWorker 5: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 4: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 0: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 11: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 10: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 8: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 2: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 9: Writing 632613 bytes to ./wwwroot/html/US-Rhode-Island.html
+21:16:23 OscovidaWorker 9: Processing Wyoming
+21:16:23 OscovidaWorker 9: Processing Wyoming attempt 0
+21:16:23 OscovidaWorker 3: Executing notebook with kernel: python3
+21:16:23 OscovidaWorker 6: Executing notebook with kernel: python3
+21:16:24 OscovidaWorker 9: Executing notebook with kernel: python3
+21:16:27 OscovidaWorker 5: Writing 632248 bytes to ./wwwroot/html/US-Oklahoma.html
+21:16:27 OscovidaWorker 5: Processing Virginia
+21:16:27 OscovidaWorker 5: Processing Virginia attempt 0
+21:16:28 OscovidaWorker 7: Writing 641787 bytes to ./wwwroot/html/US-Pennsylvania.html
+21:16:28 OscovidaWorker 7: Processing West Virginia
+21:16:28 OscovidaWorker 7: Processing West Virginia attempt 0
+21:16:28 OscovidaWorker 1: Writing 642854 bytes to ./wwwroot/html/US-North-Carolina.html
+21:16:28 OscovidaWorker 1: Processing Texas
+21:16:28 OscovidaWorker 1: Processing Texas attempt 0
+21:16:29 OscovidaWorker 0: Writing 639813 bytes to ./wwwroot/html/US-New-York.html
+21:16:29 OscovidaWorker 0: Processing Tennessee
+21:16:29 OscovidaWorker 0: Processing Tennessee attempt 0
+21:16:29 OscovidaWorker 5: Executing notebook with kernel: python3
+21:16:29 OscovidaWorker 7: Executing notebook with kernel: python3
+21:16:29 OscovidaWorker 1: Executing notebook with kernel: python3
+21:16:29 OscovidaWorker 4: Writing 644695 bytes to ./wwwroot/html/US-Ohio.html
+21:16:29 OscovidaWorker 4: Processing Virgin Islands
+21:16:29 OscovidaWorker 4: Processing Virgin Islands attempt 0
+21:16:29 OscovidaWorker 6: Writing 631796 bytes to ./wwwroot/html/US-Oregon.html
+21:16:29 OscovidaWorker 6: Processing Washington
+21:16:29 OscovidaWorker 6: Processing Washington attempt 0
+21:16:30 OscovidaWorker 10: Writing 642581 bytes to ./wwwroot/html/US-South-Carolina.html
+21:16:30 OscovidaWorker 0: Executing notebook with kernel: python3
+21:16:30 OscovidaWorker 3: Writing 580118 bytes to ./wwwroot/html/US-Northern-Mariana-Islands.html
+21:16:30 OscovidaWorker 8: Writing 627151 bytes to ./wwwroot/html/US-Puerto-Rico.html
+21:16:30 OscovidaWorker 3: Processing Vermont
+21:16:30 OscovidaWorker 3: Processing Vermont attempt 0
+21:16:30 OscovidaWorker 8: Processing Wisconsin
+21:16:30 OscovidaWorker 8: Processing Wisconsin attempt 0
+21:16:31 OscovidaWorker 6: Executing notebook with kernel: python3
+21:16:31 OscovidaWorker 2: Writing 635530 bytes to ./wwwroot/html/US-North-Dakota.html
+21:16:31 OscovidaWorker 2: Processing Utah
+21:16:31 OscovidaWorker 2: Processing Utah attempt 0
+21:16:31 OscovidaWorker 4: Executing notebook with kernel: python3
+21:16:31 OscovidaWorker 11: Writing 622137 bytes to ./wwwroot/html/US-South-Dakota.html
+21:16:31 OscovidaWorker 9: Writing 616487 bytes to ./wwwroot/html/US-Wyoming.html
+21:16:32 OscovidaWorker 3: Executing notebook with kernel: python3
+21:16:32 OscovidaWorker 8: Executing notebook with kernel: python3
+21:16:32 OscovidaWorker 2: Executing notebook with kernel: python3
+21:16:34 OscovidaWorker 5: Writing 637528 bytes to ./wwwroot/html/US-Virginia.html
+21:16:35 OscovidaWorker 1: Writing 637610 bytes to ./wwwroot/html/US-Texas.html
+21:16:35 OscovidaWorker 7: Writing 630949 bytes to ./wwwroot/html/US-West-Virginia.html
+21:16:35 OscovidaWorker 0: Writing 630615 bytes to ./wwwroot/html/US-Tennessee.html
+21:16:36 OscovidaWorker 3: Writing 617070 bytes to ./wwwroot/html/US-Vermont.html
+21:16:36 OscovidaWorker 4: Writing 589545 bytes to ./wwwroot/html/US-Virgin-Islands.html
+21:16:36 OscovidaWorker 6: Writing 644462 bytes to ./wwwroot/html/US-Washington.html
+21:16:37 OscovidaWorker 2: Writing 620708 bytes to ./wwwroot/html/US-Utah.html
+21:16:37 OscovidaWorker 8: Writing 650942 bytes to ./wwwroot/html/US-Wisconsin.html
+21:16:38 MainThread: 58 regions in markdown index list
+21:16:38 MainThread: Created markdown index file pelican/content/us.md
+21:16:38 MainThread: 658 regions in markdown index list
+21:16:38 MainThread: Created markdown index file pelican/content/all-regions.md
