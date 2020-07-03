@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>OSCOVIDA: Open Science COVID Analysis</title><link href="https://oscovida.github.io/" rel="alternate"></link><link href="https://oscovida.github.io/feeds/all.atom.xml" rel="self"></link><id>https://oscovida.github.io/</id><updated>2020-07-03T09:17:00+02:00</updated><entry><title>Tracking plots: All regions and countries</title><link href="https://oscovida.github.io/all-regions.html" rel="alternate"></link><published>2020-07-03T09:17:00+02:00</published><updated>2020-07-03T09:17:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/all-regions.html</id><summary type="html">&lt;table&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>OSCOVIDA: Open Science COVID Analysis</title><link href="https://oscovida.github.io/" rel="alternate"></link><link href="https://oscovida.github.io/feeds/all.atom.xml" rel="self"></link><id>https://oscovida.github.io/</id><updated>2020-07-03T21:16:00+02:00</updated><entry><title>Tracking plots: All regions and countries</title><link href="https://oscovida.github.io/all-regions.html" rel="alternate"></link><published>2020-07-03T21:16:00+02:00</published><updated>2020-07-03T21:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/all-regions.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -32,6 +32,12 @@
 &lt;td align="left"&gt;690&lt;/td&gt;
 &lt;td align="left"&gt;41&lt;/td&gt;
 &lt;td align="left"&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Fejér.html"&gt;Hungary: Fejér&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;376&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Dominican-Republic.html"&gt;Dominican Republic&lt;/a&gt;&lt;/td&gt;
@@ -41,13 +47,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Bayern-SK-Schweinfurt.html"&gt;Germany: Bayern : SK Schweinfurt&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;185&lt;/td&gt;
-&lt;td align="left"&gt;18&lt;/td&gt;
-&lt;td align="left"&gt;4&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td align="left"&gt;&lt;a href="html/US.html"&gt;US&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;2,739 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
+&lt;td align="left"&gt;185 …&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -80,6 +80,12 @@
 &lt;td align="left"&gt;690&lt;/td&gt;
 &lt;td align="left"&gt;41&lt;/td&gt;
 &lt;td align="left"&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Fejér.html"&gt;Hungary: Fejér&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;376&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Dominican-Republic.html"&gt;Dominican Republic&lt;/a&gt;&lt;/td&gt;
@@ -320,6 +326,12 @@
 &lt;td align="left"&gt;1,032&lt;/td&gt;
 &lt;td align="left"&gt;79&lt;/td&gt;
 &lt;td align="left"&gt;24&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Békés.html"&gt;Hungary: Békés&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;13&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Liberia.html"&gt;Liberia&lt;/a&gt;&lt;/td&gt;
@@ -772,6 +784,12 @@
 &lt;td align="left"&gt;367&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Komárom-Esztergom.html"&gt;Hungary: Komárom-Esztergom&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;307&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Jordan.html"&gt;Jordan&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;1,136&lt;/td&gt;
 &lt;td align="left"&gt;9&lt;/td&gt;
@@ -800,6 +818,12 @@
 &lt;td align="left"&gt;616&lt;/td&gt;
 &lt;td align="left"&gt;12&lt;/td&gt;
 &lt;td align="left"&gt;202&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Győr-Moson-Sopron.html"&gt;Hungary: Győr-Moson-Sopron&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;86&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Sao-Tome-and-Principe.html"&gt;Sao Tome and Principe&lt;/a&gt;&lt;/td&gt;
@@ -1294,6 +1318,12 @@
 &lt;td align="left"&gt;558&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Szabolcs-Szatmár-Bereg.html"&gt;Hungary: Szabolcs-Szatmár-Bereg&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;51&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/US-Arizona.html"&gt;US: Arizona&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;87,445&lt;/td&gt;
 &lt;td align="left"&gt;1,764&lt;/td&gt;
@@ -1468,6 +1498,12 @@
 &lt;td align="left"&gt;193&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Somogy.html"&gt;Hungary: Somogy&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;22&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Maldives.html"&gt;Maldives&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;2,400&lt;/td&gt;
 &lt;td align="left"&gt;10&lt;/td&gt;
@@ -1568,6 +1604,12 @@
 &lt;td align="left"&gt;921&lt;/td&gt;
 &lt;td align="left"&gt;36&lt;/td&gt;
 &lt;td align="left"&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Veszprém.html"&gt;Hungary: Veszprém&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;63&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Bayern-LK-Dillingen-a.d.Donau.html"&gt;Germany: Bayern : LK Dillingen a.d.Donau&lt;/a&gt;&lt;/td&gt;
@@ -1748,6 +1790,12 @@
 &lt;td align="left"&gt;501&lt;/td&gt;
 &lt;td align="left"&gt;18&lt;/td&gt;
 &lt;td align="left"&gt;7&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Zala.html"&gt;Hungary: Zala&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;262&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Mexico.html"&gt;Mexico&lt;/a&gt;&lt;/td&gt;
@@ -2098,6 +2146,12 @@
 &lt;td align="left"&gt;22&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Jász-Nagykun-Szolnok.html"&gt;Hungary: Jász-Nagykun-Szolnok&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;19&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Niedersachsen-LK-Wesermarsch.html"&gt;Germany: Niedersachsen : LK Wesermarsch&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;72&lt;/td&gt;
 &lt;td align="left"&gt;2&lt;/td&gt;
@@ -2176,6 +2230,12 @@
 &lt;td align="left"&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Baranya.html"&gt;Hungary: Baranya&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;40&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Rheinland-Pfalz-LK-Donnersbergkreis.html"&gt;Germany: Rheinland-Pfalz : LK Donnersbergkreis&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;137&lt;/td&gt;
 &lt;td align="left"&gt;6&lt;/td&gt;
@@ -2192,6 +2252,12 @@
 &lt;td align="left"&gt;961&lt;/td&gt;
 &lt;td align="left"&gt;42&lt;/td&gt;
 &lt;td align="left"&gt;4&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Nógrád.html"&gt;Hungary: Nógrád&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;51&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/US-New-Jersey.html"&gt;US: New Jersey&lt;/a&gt;&lt;/td&gt;
@@ -2680,6 +2746,12 @@
 &lt;td align="left"&gt;130&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Heves.html"&gt;Hungary: Heves&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;14&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Rheinland-Pfalz-SK-Ludwigshafen.html"&gt;Germany: Rheinland-Pfalz : SK Ludwigshafen&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;334&lt;/td&gt;
 &lt;td align="left"&gt;2&lt;/td&gt;
@@ -2843,9 +2915,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/United-Kingdom.html"&gt;United Kingdom&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;285,268&lt;/td&gt;
+&lt;td align="left"&gt;285,285&lt;/td&gt;
 &lt;td align="left"&gt;44,080&lt;/td&gt;
-&lt;td align="left"&gt;-24,187&lt;/td&gt;
+&lt;td align="left"&gt;2,773&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Thüringen-SK-Weimar.html"&gt;Germany: Thüringen : SK Weimar&lt;/a&gt;&lt;/td&gt;
@@ -3010,6 +3082,24 @@
 &lt;td align="left"&gt;4&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Pest.html"&gt;Hungary: Pest&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;618&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Budapest.html"&gt;Hungary: Budapest&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;1,977&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;31&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Bács-Kiskun.html"&gt;Hungary: Bács-Kiskun&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;20&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/US-Mississippi.html"&gt;US: Mississippi&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;28,770&lt;/td&gt;
 &lt;td align="left"&gt;1,092&lt;/td&gt;
@@ -3050,6 +3140,12 @@
 &lt;td align="left"&gt;1,199&lt;/td&gt;
 &lt;td align="left"&gt;21&lt;/td&gt;
 &lt;td align="left"&gt;182&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Vas.html"&gt;Hungary: Vas&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;17&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Japan.html"&gt;Japan&lt;/a&gt;&lt;/td&gt;
@@ -3242,6 +3338,12 @@
 &lt;td align="left"&gt;92&lt;/td&gt;
 &lt;td align="left"&gt;6&lt;/td&gt;
 &lt;td align="left"&gt;12&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Borsod-Abaúj-Zemplén.html"&gt;Hungary: Borsod-Abaúj-Zemplén&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;62&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Baden-Württemberg-LK-Waldshut.html"&gt;Germany: Baden-Württemberg : LK Waldshut&lt;/a&gt;&lt;/td&gt;
@@ -3538,6 +3640,12 @@
 &lt;td align="left"&gt;3&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Tolna.html"&gt;Hungary: Tolna&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;13&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Hamburg-SK-Hamburg.html"&gt;Germany: Hamburg : SK Hamburg&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;5,212&lt;/td&gt;
 &lt;td align="left"&gt;260&lt;/td&gt;
@@ -3826,6 +3934,12 @@
 &lt;td align="left"&gt;1&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Csongrád.html"&gt;Hungary: Csongrád&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;112&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;-5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Mali.html"&gt;Mali&lt;/a&gt;&lt;/td&gt;
 &lt;td align="left"&gt;2,260&lt;/td&gt;
 &lt;td align="left"&gt;117&lt;/td&gt;
@@ -3848,6 +3962,12 @@
 &lt;td align="left"&gt;972&lt;/td&gt;
 &lt;td align="left"&gt;78&lt;/td&gt;
 &lt;td align="left"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Hajú-Bihar.html"&gt;Hungary: Hajú-Bihar&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;22&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="left"&gt;-5&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Germany-Bremen-SK-Bremen.html"&gt;Germany: Bremen : SK Bremen&lt;/a&gt;&lt;/td&gt;
@@ -4006,7 +4126,197 @@
 &lt;td align="left"&gt;429&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  All regions and countries"></category></entry><entry><title>Tracking plots: United States</title><link href="https://oscovida.github.io/us.html" rel="alternate"></link><published>2020-07-03T09:17:00+02:00</published><updated>2020-07-03T09:17:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/us.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  All regions and countries"></category></entry><entry><title>Tracking plots: Hungary</title><link href="https://oscovida.github.io/hungary.html" rel="alternate"></link><published>2020-07-03T21:16:00+02:00</published><updated>2020-07-03T21:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/hungary.html</id><summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;Location&lt;/th&gt;
+&lt;th align="left"&gt;Total cases&lt;/th&gt;
+&lt;th align="left"&gt;Total deaths&lt;/th&gt;
+&lt;th align="right"&gt;New cases last week&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Fejér.html"&gt;Hungary: Fejér&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;376&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Békés.html"&gt;Hungary: Békés&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;13&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Komárom-Esztergom.html"&gt;Hungary: Komárom-Esztergom&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;307&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Győr-Moson-Sopron.html"&gt;Hungary: Győr-Moson-Sopron&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;86&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Szabolcs-Szatmár-Bereg.html"&gt;Hungary: Szabolcs-Szatmár-Bereg&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;51&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Somogy.html"&gt;Hungary: Somogy&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;22&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Veszprém.html"&gt;Hungary: Veszprém&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;63&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Zala.html"&gt;Hungary: Zala&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;262&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Jász-Nagykun-Szolnok.html"&gt;Hungary …&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;</summary><content type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align="left"&gt;Location&lt;/th&gt;
+&lt;th align="left"&gt;Total cases&lt;/th&gt;
+&lt;th align="left"&gt;Total deaths&lt;/th&gt;
+&lt;th align="right"&gt;New cases last week&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Fejér.html"&gt;Hungary: Fejér&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;376&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Békés.html"&gt;Hungary: Békés&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;13&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Komárom-Esztergom.html"&gt;Hungary: Komárom-Esztergom&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;307&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Győr-Moson-Sopron.html"&gt;Hungary: Győr-Moson-Sopron&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;86&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Szabolcs-Szatmár-Bereg.html"&gt;Hungary: Szabolcs-Szatmár-Bereg&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;51&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Somogy.html"&gt;Hungary: Somogy&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;22&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Veszprém.html"&gt;Hungary: Veszprém&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;63&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Zala.html"&gt;Hungary: Zala&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;262&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Jász-Nagykun-Szolnok.html"&gt;Hungary: Jász-Nagykun-Szolnok&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;19&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Baranya.html"&gt;Hungary: Baranya&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;40&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;1&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Nógrád.html"&gt;Hungary: Nógrád&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;51&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Heves.html"&gt;Hungary: Heves&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;14&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Pest.html"&gt;Hungary: Pest&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;618&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;13&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Budapest.html"&gt;Hungary: Budapest&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;1,977&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;31&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Bács-Kiskun.html"&gt;Hungary: Bács-Kiskun&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;20&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Vas.html"&gt;Hungary: Vas&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;17&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Borsod-Abaúj-Zemplén.html"&gt;Hungary: Borsod-Abaúj-Zemplén&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;62&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Tolna.html"&gt;Hungary: Tolna&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;13&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Csongrád.html"&gt;Hungary: Csongrád&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;112&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;-5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align="left"&gt;&lt;a href="html/Hungary-Hajú-Bihar.html"&gt;Hungary: Hajú-Bihar&lt;/a&gt;&lt;/td&gt;
+&lt;td align="left"&gt;22&lt;/td&gt;
+&lt;td align="left"&gt;missing&lt;/td&gt;
+&lt;td align="right"&gt;-5&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Hungary"></category></entry><entry><title>Tracking plots: United States</title><link href="https://oscovida.github.io/us.html" rel="alternate"></link><published>2020-07-03T21:16:00+02:00</published><updated>2020-07-03T21:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/us.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -4406,7 +4716,7 @@
 &lt;td align="left"&gt;1,728&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  United States"></category></entry><entry><title>Tracking plots: Germany</title><link href="https://oscovida.github.io/germany.html" rel="alternate"></link><published>2020-07-03T09:16:00+02:00</published><updated>2020-07-03T09:16:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/germany.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  United States"></category></entry><entry><title>Tracking plots: Germany</title><link href="https://oscovida.github.io/germany.html" rel="alternate"></link><published>2020-07-03T21:15:00+02:00</published><updated>2020-07-03T21:15:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/germany.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -6931,7 +7241,7 @@
 &lt;td align="right"&gt;2&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
-&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Germany"></category></entry><entry><title>Tracking plots: Countries of the world</title><link href="https://oscovida.github.io/countries.html" rel="alternate"></link><published>2020-07-03T09:07:00+02:00</published><updated>2020-07-03T09:07:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/countries.html</id><summary type="html">&lt;table&gt;
+&lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Germany"></category></entry><entry><title>Tracking plots: Countries of the world</title><link href="https://oscovida.github.io/countries.html" rel="alternate"></link><published>2020-07-03T21:06:00+02:00</published><updated>2020-07-03T21:06:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-07-03:/countries.html</id><summary type="html">&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th align="left"&gt;Location&lt;/th&gt;
@@ -7812,9 +8122,9 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/United-Kingdom.html"&gt;United Kingdom&lt;/a&gt;&lt;/td&gt;
-&lt;td align="left"&gt;285,268&lt;/td&gt;
+&lt;td align="left"&gt;285,285&lt;/td&gt;
 &lt;td align="left"&gt;44,080&lt;/td&gt;
-&lt;td align="left"&gt;-24,187&lt;/td&gt;
+&lt;td align="left"&gt;2,773&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td align="left"&gt;&lt;a href="html/Costa-Rica.html"&gt;Costa Rica&lt;/a&gt;&lt;/td&gt;
@@ -8124,6 +8434,7 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;</content><category term="All"></category><category term="Data"></category><category term="Plots"></category><category term="Tracking plots:  Countries of the world"></category></entry><entry><title>OSCOVIDA in the news</title><link href="https://oscovida.github.io/oscovida-in-the-news.html" rel="alternate"></link><published>2020-06-15T00:00:00+02:00</published><updated>2020-06-15T00:00:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-06-15:/oscovida-in-the-news.html</id><content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.dpg-physik.de/veroeffentlichungen/publikationen/physikkonkret/physikkonkret-46"&gt;30 June 2020, Update from Germany Physics Society on COVID19 research&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.xfel.eu/news_and_events/news/index_eng.html?openDirectAnchor=1788&amp;amp;two_columns=0"&gt;15 June 2020, European XFEL News item (english version,&lt;/a&gt;
   &lt;a href="https://www.xfel.eu/aktuelles/news/index_ger.html?openDirectAnchor=1788&amp;amp;two_columns=0"&gt;deutsche
   Version)&lt;/a&gt;&lt;/li&gt;
@@ -19595,10 +19906,10 @@ h6:hover .anchor-link {
 
 
 
-&lt;div id="c0850b10-bbd4-402e-b9b8-3ced016537a6"&gt;&lt;/div&gt;
+&lt;div id="2e7c08c7-98c1-4980-9c51-8156e5d1ecc1"&gt;&lt;/div&gt;
 &lt;div class="output_subarea output_javascript "&gt;
 &lt;script type="text/javascript"&gt;
-var element = $('#c0850b10-bbd4-402e-b9b8-3ced016537a6');
+var element = $('#2e7c08c7-98c1-4980-9c51-8156e5d1ecc1');
 
 console.log('Starting front end url_querystring_target comm target');
 const comm = Jupyter.notebook.kernel.comm_manager.new_comm('url_querystring_target', {'init': 1});
@@ -24649,7 +24960,7 @@ additional experience (or willingness to learn) about the Pandas data science
 library and the Jupyter Notebook.&lt;/p&gt;
 &lt;h2&gt;Source code&lt;/h2&gt;
 &lt;p&gt;All the computational steps and code are available
-&lt;a href="https://github.com/fangohr/coronavirus-2020/tree/master/oscovida"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://github.com/oscovida/oscovida/tree/master/oscovida"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Ways to use and execute the source code&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -24658,11 +24969,11 @@ additional experience (or willingness to learn) about the Pandas data science
 library and the Jupyter Notebook.&lt;/p&gt;
 &lt;h2&gt;Source code&lt;/h2&gt;
 &lt;p&gt;All the computational steps and code are available
-&lt;a href="https://github.com/fangohr/coronavirus-2020/tree/master/oscovida"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;a href="https://github.com/oscovida/oscovida/tree/master/oscovida"&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2&gt;Ways to use and execute the source code&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;If you know your way around Github, you can fork &lt;a href="https://github.com/fangohr/coronavirus-2020/"&gt;the
+&lt;p&gt;If you know your way around Github, you can fork &lt;a href="https://github.com/oscovida/oscovida/"&gt;the
   repository&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -24676,7 +24987,7 @@ library and the Jupyter Notebook.&lt;/p&gt;
   session if you want to archive it or want to continue working on it later.)&lt;/p&gt;</content><category term="All"></category><category term="Open Science"></category><category term="Source code"></category><category term="About"></category></entry><entry><title>License</title><link href="https://oscovida.github.io/license.html" rel="alternate"></link><published>2020-04-19T13:00:00+02:00</published><updated>2020-04-19T13:00:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-04-19:/license.html</id><summary type="html">&lt;p&gt;The materials available from the &lt;a href="https://oscovida.github.io"&gt;Open Science COVID19 Analysis&lt;/a&gt; project are licensed as follows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;The &lt;a href="http://github.com/fangohr/coronavirus-2020"&gt;software&lt;/a&gt; is &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/LICENSE"&gt;licensed under
+&lt;p&gt;The &lt;a href="http://github.com/oscovida/oscovida"&gt;software&lt;/a&gt; is &lt;a href="https://github.com/oscovida/oscovida/blob/master/LICENSE"&gt;licensed under
   the BSD 3-Clause New license&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -24687,7 +24998,7 @@ library and the Jupyter Notebook.&lt;/p&gt;
 &lt;p&gt;Informally, this means that (i) everything is provided as-is, without any …&lt;/p&gt;</summary><content type="html">&lt;p&gt;The materials available from the &lt;a href="https://oscovida.github.io"&gt;Open Science COVID19 Analysis&lt;/a&gt; project are licensed as follows:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;The &lt;a href="http://github.com/fangohr/coronavirus-2020"&gt;software&lt;/a&gt; is &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/LICENSE"&gt;licensed under
+&lt;p&gt;The &lt;a href="http://github.com/oscovida/oscovida"&gt;software&lt;/a&gt; is &lt;a href="https://github.com/oscovida/oscovida/blob/master/LICENSE"&gt;licensed under
   the BSD 3-Clause New license&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -24734,7 +25045,7 @@ that as barely possible with the reports in the media.&lt;/p&gt;
 like to offer complementary information and tools with OSCOVIDA:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;The &lt;a href="https://github.com/fangohr/coronavirus-2020"&gt;source code&lt;/a&gt; that creates
+&lt;p&gt;The &lt;a href="https://github.com/oscovida/oscovida"&gt;source code&lt;/a&gt; that creates
   the plots is available here, can be inspected, downloaded, modified and
   improved.&lt;/p&gt;
 &lt;/li&gt;
@@ -24769,36 +25080,33 @@ data analysis.&lt;/p&gt;
   -- contributions and corrections welcome.&lt;/li&gt;
 &lt;/ul&gt;</content><category term="All"></category><category term="About"></category><category term="Data"></category></entry><entry><title>Contributions welcome!</title><link href="https://oscovida.github.io/contribute.html" rel="alternate"></link><published>2020-04-10T22:00:00+02:00</published><updated>2020-04-10T22:00:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-04-10:/contribute.html</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;We gather some
-  &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/ideas.md"&gt;ideas&lt;/a&gt; for
-  further analysis and features that would be nice or useful.&lt;/p&gt;
+&lt;p&gt;Bugs and ideas can be reported as a
+  &lt;a href="https://github.com/oscovida/oscovida/issues"&gt;"New issue"&lt;/a&gt; in the OSCOVIDA Issue tracker. A &lt;a href="http://github.com"&gt;github&lt;/a&gt; account is necessary.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;For those with programming and software engineering skills, there is a
   document
-  &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/info.md"&gt;info.md&lt;/a&gt;
-  with more details about the project and a &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/todo.md"&gt;todo
-  list&lt;/a&gt;.&lt;/p&gt;
+  &lt;a href="https://github.com/oscovida/oscovida/blob/master/info.md"&gt;info.md&lt;/a&gt;
+  with more details about the project. &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Bugs and ideas can be reported as a &lt;a href="https://github.com/oscovida/feedback/issues"&gt;"New
-  issue"&lt;/a&gt; - a …&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
+&lt;p&gt;Issues to work on can be taken from the 
+  &lt;a href="https://github.com/oscovida/oscovida/issues"&gt;OSCOVIDA …&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</summary><content type="html">&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;We gather some
-  &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/ideas.md"&gt;ideas&lt;/a&gt; for
-  further analysis and features that would be nice or useful.&lt;/p&gt;
+&lt;p&gt;Bugs and ideas can be reported as a
+  &lt;a href="https://github.com/oscovida/oscovida/issues"&gt;"New issue"&lt;/a&gt; in the OSCOVIDA Issue tracker. A &lt;a href="http://github.com"&gt;github&lt;/a&gt; account is necessary.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;For those with programming and software engineering skills, there is a
   document
-  &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/info.md"&gt;info.md&lt;/a&gt;
-  with more details about the project and a &lt;a href="https://github.com/fangohr/coronavirus-2020/blob/master/todo.md"&gt;todo
-  list&lt;/a&gt;.&lt;/p&gt;
+  &lt;a href="https://github.com/oscovida/oscovida/blob/master/info.md"&gt;info.md&lt;/a&gt;
+  with more details about the project. &lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Bugs and ideas can be reported as a &lt;a href="https://github.com/oscovida/feedback/issues"&gt;"New
-  issue"&lt;/a&gt; - a
-  &lt;a href="http://github.com"&gt;github&lt;/a&gt; account is necessary.&lt;/p&gt;
+&lt;p&gt;Issues to work on can be taken from the 
+  &lt;a href="https://github.com/oscovida/oscovida/issues"&gt;OSCOVIDA issue tracker&lt;/a&gt;.
+  For historical reasons, there is also a stale 
+  &lt;a href="https://github.com/oscovida/oscovida/blob/master/todo.md"&gt;todo list&lt;/a&gt;.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</content><category term="All"></category><category term="About"></category></entry><entry><title>Frequently Asked Questions (FAQ)</title><link href="https://oscovida.github.io/faq.html" rel="alternate"></link><published>2020-04-09T19:00:00+02:00</published><updated>2020-04-09T19:00:00+02:00</updated><author><name>OSCOVIDA team</name></author><id>tag:oscovida.github.io,2020-04-09:/faq.html</id><summary type="html">&lt;h1&gt;What about errors in the data?&lt;/h1&gt;
 &lt;ul&gt;
