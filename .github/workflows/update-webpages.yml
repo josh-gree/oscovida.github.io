@@ -20,8 +20,7 @@ jobs:
       - name: Checkout oscovida
         uses: actions/checkout@v2
         with:
-          repository: RobertRosca/coronavirus-2020
-          ref: notebook-generation-rework
+          repository: oscovida/oscovida
       - name: Checkout oscovida.github.io
         uses: actions/checkout@v2
         with:
