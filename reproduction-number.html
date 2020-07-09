@@ -126,15 +126,15 @@
   
 
   <div>
-    <p>[In preparation; draft material below.]</p>
+    <p>A much more <a class="reference external" href="r-value.html">detailed discussion is available here</a>.</p>
 <div class="section" id="reproduction-number-r">
 <h2>Reproduction number R</h2>
 <ul class="simple">
 <li>The <a class="reference external" href="https://en.wikipedia.org/wiki/Basic_reproduction_number">Reproduction number R (Wikipedia)</a> [1] expresses how
 many people are infected from one person with COVID19.</li>
 </ul>
-<div class="section" id="compute-k-from-measured-data">
-<h3>Compute K from measured data</h3>
+<div class="section" id="computation-of-r-from-measured-data">
+<h3>Computation of R from measured data</h3>
 <p>The bulletin from the Robert Koch institute [2] reports that an average
 infectious period of $tau = 4$ days is assumed. Based on that information, the
 description of the method to compute $R$ is [3]</p>
@@ -143,7 +143,9 @@ description of the method to compute $R$ is [3]</p>
 <li>compute an average $&lt;n&gt;_2$ of daily new infections over 4 subsequent days (say days 4 to 7)</li>
 <li>compute the quotient $&lt;n&gt;_2 / &lt;n&gt;_1$</li>
 </ul>
-<p>The we repeat this as a sliding calculation for all subsequent days.</p>
+<p>Then we repeat this as a sliding calculation for all subsequent days. This is
+the current method used in OSCOVIDA.</p>
+<p>A much more <a class="reference external" href="r-value.html">detailed discussion of this calculation is available</a>.</p>
 </div>
 <div class="section" id="references">
 <h3>References</h3>
